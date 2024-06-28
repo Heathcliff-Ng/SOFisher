@@ -20,7 +20,7 @@ class SpatOmics_dis():
         self.grid_x, self.grid_y = args.grid_x, args.grid_y
         self.cell_num = args.cell_num
         ## load raw data from csv
-        file_path = 'E:\Code\SpaOmics\ADSeeking_mds\datasets\{}_categ.csv'.format(exp)
+        file_path = os.path.join('dataset_cortex', '{}_categ.csv'.format(exp))
         data = []
         # 打开csv文件
         with open(file_path, newline='') as csvfile:
@@ -31,8 +31,8 @@ class SpatOmics_dis():
             for row in reader:
                 data.append(row)
         self.categ = data # np.array(data.values.tolist())
-                
-        file_path = 'E:\Code\SpaOmics\ADSeeking_mds\datasets\{}_pos.csv'.format(exp)
+
+        file_path = os.path.join('dataset_cortex', '{}_categ.csv'.format(exp))
         data = []
         # 打开csv文件
         with open(file_path, newline='') as csvfile:
