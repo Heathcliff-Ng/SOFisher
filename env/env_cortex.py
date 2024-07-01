@@ -13,13 +13,14 @@ import numpy as np
 from gym import spaces
 import csv
 import random
+import os
 
 
 class SpatOmics_dis():
     def __init__(self, args, exp):
         self.grid_x, self.grid_y = args.grid_x, args.grid_y
         ## load raw data from csv
-        file_path = 'E:\Code\SpaOmics\ADSeeking_mds\datasets\{}_categ.csv'.format(exp)
+        file_path = os.path.join('dataset_cortex', '{}_categ.csv'.format(exp))
         data = []
         # 打开csv文件
         with open(file_path, newline='') as csvfile:
@@ -31,7 +32,7 @@ class SpatOmics_dis():
                 data.append(row)
         self.categ = data # np.array(data.values.tolist())
                 
-        file_path = 'E:\Code\SpaOmics\ADSeeking_mds\datasets\{}_pos.csv'.format(exp)
+        file_path = os.path.join('dataset_cortex', '{}_pos.csv'.format(exp))
         data = []
         # 打开csv文件
         with open(file_path, newline='') as csvfile:

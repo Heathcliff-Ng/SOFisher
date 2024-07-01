@@ -1,8 +1,8 @@
 """
 Created on Feb 21, 2024
-@author: Zhuo Li
+@author: Weiran Wu
 
-The main script of trainning and evaluating the SAC algorithm for AD Seeking
+The main script of training and evaluating the DQN algorithm for AD Seeking
 Without state normalization
 """
 import time
@@ -13,8 +13,8 @@ import torch
 from torch.utils.tensorboard import SummaryWriter
 from gym import spaces
 
-# from env.env_cortex import SpatOmics_dis
-from env.env_cortex_2cell import SpatOmics_dis
+from env.env_cortex import SpatOmics_dis
+# from env.env_cortex_2cell import SpatOmics_dis
 from src.dqn import DQN
 from src.args import get_dqn_args
 
@@ -29,7 +29,7 @@ class Runner:
         torch.manual_seed(self.seed)
         self.grid_x, self.grid_y = self.args.grid_x, self.args.grid_y
         # observation and action spaces
-        n_obs = self.grid_x*self.grid_y*self.args.cell_num + 2 + 17 
+        n_obs = self.grid_x*self.grid_y*self.args.cell_num + 2 + 17
         self.observation_space = spaces.Box(low = -np.array(np.ones(n_obs)), high = np.array(np.ones(n_obs)), dtype=np.float32)
         self.action_space = spaces.Discrete(24)
         self.args.obs_dim = self.observation_space.shape[0]  # obs dimensions
@@ -137,6 +137,11 @@ class Runner:
 
 if __name__ == '__main__':
     args = get_dqn_args()
+
+    # Manually set the parameter values
+    args.rs = 100
+    args.cell_num = 21
+
     print("Start running {} for Sampling in Spatial Omics".format(args.agent_name))
     exps = ['mouse1_slice1', 'mouse1_slice10','mouse1_slice21', 'mouse1_slice31', 
             'mouse1_slice40', 'mouse1_slice50', 'mouse1_slice62', 'mouse1_slice71',
