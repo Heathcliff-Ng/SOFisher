@@ -87,7 +87,7 @@ class SpatOmics_dis():
 
         # 其他细胞的位置,状态空间里加入其他特征
         self.cells_pos = []
-        for cell in ['L45_IT', 'L6_CT', 'L56_NP', 'L5_IT', 'L5_PT', 'L23_IT', 'L6_IT', 'Astrocytes', 
+        for cell in ['L45_IT', 'L23_IT', 'L56_NP', 'L5_IT', 'L5_PT', 'L6_CT', 'L6_IT', 'Astrocytes',
                      'Endothelial', 'L6_IT_Car3', 'L6b', 'Oligodendrocytes', 'OPC', 'Microglia', 'Lamp5', 
                      'VLMC', 'Sst', 'SMC', 'Pvalb', 'Pericytes', 'PVM']: # 
             celli_indices = np.where(np.array(self.categ) == cell)[0]  # mark点的索引

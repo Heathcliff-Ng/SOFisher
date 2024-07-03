@@ -120,12 +120,11 @@ class SpatOmics_dis():
         cell_counts, AD_counts = self.measure()
         mk = np.array(cell_counts).flatten()   # , AD_counts.flatten()
         r_AD = np.sum(AD_counts)  # 没有考虑每个AD的大小
-        reward = 1*r_overlap + 5*r_AD  # 
-
 
         if isEval:
             reward = 5 * r_AD
         else:
+            reward = 1*r_overlap + 5*r_AD
             if r_AD > 2:
                 self.success += 1
             if self.success > 9:
