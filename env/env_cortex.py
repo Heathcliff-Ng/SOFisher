@@ -19,6 +19,7 @@ import os
 class SpatOmics_dis():
     def __init__(self, args, exp):
         self.grid_x, self.grid_y = args.grid_x, args.grid_y
+        self.cell_num = args.cell_num
         ## load raw data from csv
         file_path = os.path.join('dataset_cortex', '{}_categ.csv'.format(exp))
         data = []
@@ -99,40 +100,44 @@ class SpatOmics_dis():
     # def initialize_params(self):
     #     self.rs = 200  # 假设采样窗口为正方形，边长
         # observation and action spaces
-        # n_obs = self.grid_x*self.grid_y*(1+self.cell_num) + 2 + 17
-        # self.observation_space = spaces.Box(low = -np.array(np.ones(n_obs)), high = np.array(np.ones(n_obs)), dtype=np.float32)
-        # self.action_space = spaces.Discrete(8+16)  
+        n_obs = self.grid_x*self.grid_y*self.cell_num + 2 + 17
+        self.observation_space = spaces.Box(low = -np.array(np.ones(n_obs)), high = np.array(np.ones(n_obs)), dtype=np.float32)
+        self.action_space = spaces.Discrete(8+16)
         
-    def step(self, action):
+    def step(self, action, rand=False, isEval=True):
         self.count += 1
         action = action + 1 
         x, y = self.pos_sampling
-        if action < 9:
-            if action in [1, 4, 6]:
-                next_x = x - self.rs 
-            elif action in [2, 7]:
-                next_x = x
-            else:
-                next_x = x + self.rs
-            if action in [1, 2, 3]:
-                next_y = y + self.rs 
-            elif action in [4, 5]:
-                next_y = y
-            else:
-                next_y = y - self.rs
+
+        if rand:
+            next_x, next_y = (round(random.uniform(self.x_min, self.x_max), 1), round(random.uniform(self.y_min, self.y_max), 1))
         else:
-            if 9 <= action <= 13:
-                next_x = x + (action-11) *self.rs
-                next_y = y + 2 *self.rs
-            elif action in [14, 15, 16]:
-                next_x = x + 2 *self.rs
-                next_y = y + (15-action) *self.rs
-            elif action in [17, 18, 19]:
-                next_x = x - 2 *self.rs
-                next_y = y + (18-action) *self.rs
+            if action < 9:
+                if action in [1, 4, 6]:
+                    next_x = x - self.rs
+                elif action in [2, 7]:
+                    next_x = x
+                else:
+                    next_x = x + self.rs
+                if action in [1, 2, 3]:
+                    next_y = y + self.rs
+                elif action in [4, 5]:
+                    next_y = y
+                else:
+                    next_y = y - self.rs
             else:
-                next_x = x + (action-22) *self.rs
-                next_y = y - 2 *self.rs
+                if 9 <= action <= 13:
+                    next_x = x + (action-11) *self.rs
+                    next_y = y + 2 *self.rs
+                elif action in [14, 15, 16]:
+                    next_x = x + 2 *self.rs
+                    next_y = y + (15-action) *self.rs
+                elif action in [17, 18, 19]:
+                    next_x = x - 2 *self.rs
+                    next_y = y + (18-action) *self.rs
+                else:
+                    next_x = x + (action-22) *self.rs
+                    next_y = y - 2 *self.rs
 
         # projection to the boundary
         next_x = self.x_min + self.rs/2 if next_x < self.x_min + self.rs/2 else next_x
@@ -149,12 +154,17 @@ class SpatOmics_dis():
         cell_counts, AD_counts = self.measure()
         mk = np.array(cell_counts).flatten() 
         r_AD = np.sum(AD_counts)  # 没有考虑每个AD的大小
-        reward = 1*r_overlap + 5*r_AD  
-        if r_AD > 2:
-             self.success += 1
-        if self.success > 9:
-            self.done = True    # 
-            reward += 100 
+
+        if isEval:
+            reward = 5 * r_AD
+        else:
+            reward = 1*r_overlap + 5*r_AD
+            if r_AD > 2:
+                 self.success += 1
+            if self.success > 9:
+                self.done = True    #
+                reward += 100
+
         self.samp_corner_store.append((next_x-self.rs/2, next_y-self.rs/2, next_x+self.rs/2, next_y+self.rs/2, 0))
 
         ## get state
@@ -163,7 +173,7 @@ class SpatOmics_dis():
         abs_map = [1] + self.grid_far(row_sampling, col_sampling) + self.grid_around(row_sampling, col_sampling)
         state = np.concatenate((np.array([next_x, next_y]), np.array(abs_map), mk))
 
-        return state, reward, self.done 
+        return state, reward, self.done, r_AD
 
     def update_map(self):
         # 计算采样窗口在地图中的格子索引范围
@@ -278,10 +288,11 @@ class SpatOmics_dis():
         # x, y = self.x_min + self.rs/2, self.y_min + self.rs/2  # warm start, 包围型
         self.pos_sampling = [x, y]
         cell_counts, AD_counts = self.measure()
-        if np.sum(AD_counts) == 0:
-            self.pos_sampling = self.warm_start_b(x, y) 
-            cell_counts, AD_counts = self.measure()
-        x, y = self.pos_sampling[0], self.pos_sampling[1]
+
+        # if np.sum(AD_counts) == 0:
+        #     self.pos_sampling = self.warm_start_b(x, y)
+        #     cell_counts, AD_counts = self.measure()
+        # x, y = self.pos_sampling[0], self.pos_sampling[1]
 
         self.samp_corner_store.append((x-self.rs/2, y-self.rs/2, x+self.rs/2, y+self.rs/2, 0))
         self.update_map()

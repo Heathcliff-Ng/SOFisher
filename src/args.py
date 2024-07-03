@@ -42,7 +42,9 @@ def get_dqn_args():
     parser.add_argument('--fc1_dim', type=int, default=256, metavar='N')
     parser.add_argument('--fc2_dim', type=int, default=256, metavar='N')
 
-    return parser.parse_args()
+    args, unknown = parser.parse_known_args()
+
+    return args
 
 
 
