@@ -61,36 +61,40 @@ class SpatOmics_dis():
             self.cells_pos.append(celli_pos)
 
 
-    def step(self, action):
+    def step(self, action, rand=False, isEval=True):
         self.count += 1
         action = action + 1
         x, y = self.pos_sampling
-        if action < 9:
-            if action in [1, 4, 6]:
-                next_x = x - self.rs
-            elif action in [2, 7]:
-                next_x = x
-            else:
-                next_x = x + self.rs
-            if action in [1, 2, 3]:
-                next_y = y + self.rs
-            elif action in [4, 5]:
-                next_y = y
-            else:
-                next_y = y - self.rs
+
+        if rand:
+            next_x, next_y = (round(random.uniform(self.x_min, self.x_max), 1), round(random.uniform(self.y_min, self.y_max), 1))
         else:
-            if 9 <= action <= 13:
-                next_x = x + (action - 11) * self.rs
-                next_y = y + 2 * self.rs
-            elif action in [14, 15, 16]:
-                next_x = x + 2 * self.rs
-                next_y = y + (15 - action) * self.rs
-            elif action in [17, 18, 19]:
-                next_x = x - 2 * self.rs
-                next_y = y + (18 - action) * self.rs
+            if action < 9:
+                if action in [1, 4, 6]:
+                    next_x = x - self.rs
+                elif action in [2, 7]:
+                    next_x = x
+                else:
+                    next_x = x + self.rs
+                if action in [1, 2, 3]:
+                    next_y = y + self.rs
+                elif action in [4, 5]:
+                    next_y = y
+                else:
+                    next_y = y - self.rs
             else:
-                next_x = x + (action - 22) * self.rs
-                next_y = y - 2 * self.rs
+                if 9 <= action <= 13:
+                    next_x = x + (action - 11) * self.rs
+                    next_y = y + 2 * self.rs
+                elif action in [14, 15, 16]:
+                    next_x = x + 2 * self.rs
+                    next_y = y + (15 - action) * self.rs
+                elif action in [17, 18, 19]:
+                    next_x = x - 2 * self.rs
+                    next_y = y + (18 - action) * self.rs
+                else:
+                    next_x = x + (action - 22) * self.rs
+                    next_y = y - 2 * self.rs
 
         # projection to the boundary
         next_x = self.x_min + self.rs / 2 if next_x < self.x_min + self.rs / 2 else next_x
@@ -108,7 +112,17 @@ class SpatOmics_dis():
         mk = np.array(cell_counts).flatten() #
         r_Abeta = np.sum(Abeta_counts)  # 没有考虑每个AD的大小
         r_tau = np.sum(tau_counts)/20
-        reward = 20*r_overlap/(self.rs**2) + 1*r_Abeta * r_tau
+        r_AD = r_Abeta * r_tau
+
+        if isEval:
+            reward = 5 * r_AD
+        else:
+            reward = 20*r_overlap/(self.rs**2) + 1*r_Abeta * r_tau
+            if r_AD > 2:
+                 self.success += 1
+            if self.success > 9:
+                self.done = True    #
+                reward += 100
 
         ## get state
         row_sampling = int((next_x - self.x_min) / self.grid_width) - 1
@@ -117,7 +131,7 @@ class SpatOmics_dis():
         state = np.concatenate((np.array([next_x, next_y]), np.array(abs_map), mk))
 
 
-        return state, reward, self.done
+        return state, reward, self.done, r_AD
 
     def update_map(self):
         # 计算采样窗口在地图中的格子索引范围
