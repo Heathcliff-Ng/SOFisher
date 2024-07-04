@@ -50,36 +50,40 @@ class SpatOmics_dis():
             self.cells_pos.append(celli_pos)
 
 
-    def step(self, action):
+    def step(self, action, rand=False, isEval=False):
         self.count += 1
         action = action + 1
         x, y = self.pos_sampling
-        if action < 9:
-            if action in [1, 4, 6]:
-                next_x = x - self.rs
-            elif action in [2, 7]:
-                next_x = x
-            else:
-                next_x = x + self.rs
-            if action in [1, 2, 3]:
-                next_y = y + self.rs
-            elif action in [4, 5]:
-                next_y = y
-            else:
-                next_y = y - self.rs
+
+        if rand:
+            next_x, next_y = (round(random.uniform(self.x_min, self.x_max), 1), round(random.uniform(self.y_min, self.y_max), 1))
         else:
-            if 9 <= action <= 13:
-                next_x = x + (action - 11) * self.rs
-                next_y = y + 2 * self.rs
-            elif action in [14, 15, 16]:
-                next_x = x + 2 * self.rs
-                next_y = y + (15 - action) * self.rs
-            elif action in [17, 18, 19]:
-                next_x = x - 2 * self.rs
-                next_y = y + (18 - action) * self.rs
+            if action < 9:
+                if action in [1, 4, 6]:
+                    next_x = x - self.rs
+                elif action in [2, 7]:
+                    next_x = x
+                else:
+                    next_x = x + self.rs
+                if action in [1, 2, 3]:
+                    next_y = y + self.rs
+                elif action in [4, 5]:
+                    next_y = y
+                else:
+                    next_y = y - self.rs
             else:
-                next_x = x + (action - 22) * self.rs
-                next_y = y - 2 * self.rs
+                if 9 <= action <= 13:
+                    next_x = x + (action - 11) * self.rs
+                    next_y = y + 2 * self.rs
+                elif action in [14, 15, 16]:
+                    next_x = x + 2 * self.rs
+                    next_y = y + (15 - action) * self.rs
+                elif action in [17, 18, 19]:
+                    next_x = x - 2 * self.rs
+                    next_y = y + (18 - action) * self.rs
+                else:
+                    next_x = x + (action - 22) * self.rs
+                    next_y = y - 2 * self.rs
 
         # projection to the boundary
         next_x = self.x_min + self.rs / 2 if next_x < self.x_min + self.rs / 2 else next_x
@@ -95,12 +99,17 @@ class SpatOmics_dis():
         cell_counts, AD_counts = self.measure()
         mk = np.array(cell_counts).flatten() 
         r_AD = np.sum(AD_counts)  
-        reward = 20*r_overlap/(self.rs**2) + 0.1*r_AD   
-        if r_AD > 5:
-            self.success += 1
-        if self.success > 9:
-            self.done = True
-            reward += 100
+
+        if isEval:
+            reward = 5 * r_AD
+        else:
+            reward = 20*r_overlap/(self.rs**2) + 0.1*r_AD
+            if r_AD > 5:
+                self.success += 1
+            if self.success > 9:
+                self.done = True
+                reward += 100
+
         self.samp_corner_store.append(
             (next_x - self.rs / 2, next_y - self.rs / 2, next_x + self.rs / 2, next_y + self.rs / 2, 0))
 

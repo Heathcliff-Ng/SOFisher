@@ -104,7 +104,7 @@ class SpatOmics_dis():
         self.observation_space = spaces.Box(low = -np.array(np.ones(n_obs)), high = np.array(np.ones(n_obs)), dtype=np.float32)
         self.action_space = spaces.Discrete(8+16)
         
-    def step(self, action, rand=False, isEval=True):
+    def step(self, action, rand=False, isEval=False):
         self.count += 1
         action = action + 1 
         x, y = self.pos_sampling

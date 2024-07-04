@@ -38,7 +38,7 @@ class Runner:
         self.agent = DQN(self.args.obs_dim, self.args.action_dim, args)
 
 
-        self.writer = SummaryWriter(log_dir='runs/seed_{}'.format(self.seed)) # Create a tensorboard
+        self.writer = SummaryWriter(log_dir='runs/{}/seed_{}'.format(self.args.agent_name, self.seed)) # Create a tensorboard
         self.train_rewards = [] # Record the rewards during the training
         self.evaluate_rewards = []  # Record the rewards during the evaluating
         self.total_steps = 0
@@ -49,8 +49,8 @@ class Runner:
     def make_folders(self, ):
         data_folder = 'data'
         model_folder = 'model'
-        data_seed_folder = os.path.join(data_folder, f'seed_{self.seed}')
-        self.model_seed_folder = os.path.join(model_folder, f'seed_{self.seed}')
+        data_seed_folder = os.path.join(data_folder, f'{self.args.agent_name}', f'seed_{self.seed}')
+        self.model_seed_folder = os.path.join(model_folder, f'{self.args.agent_name}', f'seed_{self.seed}')
         self.data_train_folder = os.path.join(data_seed_folder, 'train')
         self.eval_folder = os.path.join(data_seed_folder, 'eval')
 
@@ -75,7 +75,7 @@ class Runner:
             time_episode_start = time.time()
             for _ in range(self.args.episode_size): # Each episode (1000 steps)
                 action = self.agent.select_action(state)
-                next_state, reward, done  = env.step(action)  # Step
+                next_state, reward, done, _  = env.step(action)  # Step
                 self.agent.remember(state, action, reward, next_state, done) # memory push
                 self.agent.learn() #including update parameters
                 state = next_state
@@ -108,7 +108,7 @@ class Runner:
             AD_countses= []
             for _ in range(self.args.episode_size):
                 action = self.agent.select_action(state, isEval=True)
-                next_state, reward, done = env_evaluate.step(action)  # Step
+                next_state, reward, done, _ = env_evaluate.step(action)  # Step
                 state = next_state
                 episode_reward += reward
                 AD_countses.append(episode_reward)

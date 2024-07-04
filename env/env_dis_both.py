@@ -61,7 +61,7 @@ class SpatOmics_dis():
             self.cells_pos.append(celli_pos)
 
 
-    def step(self, action, rand=False, isEval=True):
+    def step(self, action, rand=False, isEval=False):
         self.count += 1
         action = action + 1
         x, y = self.pos_sampling
