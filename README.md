@@ -36,7 +36,7 @@ cd MENDER
 python setup.py install
 ```
 
-Install the `pysodb` for efficient download processed Anndata in h5ad format (https://pysodb.readthedocs.io/en/latest/).
+Install the `pysodb` for efficient download processed Anndata in h5ad format. (https://pysodb.readthedocs.io/en/latest/)
 
 
 
@@ -44,9 +44,9 @@ Install the `pysodb` for efficient download processed Anndata in h5ad format (ht
 
 
 Please refer to the  
-- Resoults validation for cortex experiments. [Tutorial][link-tutorial_1] 
-- Resoults validation for aging experiments. [Tutorial][link-tutorial_2]
-- Resoults validation for disease experiments. [Tutorial][link-tutorial_3]
+- Results validation for cortex experiments. [Tutorial][link-tutorial_1] 
+- Results validation for aging experiments. [Tutorial][link-tutorial_2]
+- Results validation for disease experiments. [Tutorial][link-tutorial_3]
 
 ## Contribution
 
