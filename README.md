@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/Heathcliff-Ng/SOFisher/blob/main/fig/logo.jpg" width="150px">
 
-**A Python package for the Scalale and accurate identification condition-relevant niches from spatial omics data.**
+**An RL framework for guiding spatial omics FOVs selection.**
 
 ---
 
@@ -11,8 +11,10 @@
 
 </div>
 
-Taichi is able to automatically identify condition-relevant niches, and offers the downstream analysis based on obtained niches.
+<p>
+SOFisher a reinforcement learning-based framework that harnesses the knowledge gained from the sequence of previously sampled FOVs to guide the selection of the next FOV position
 </p>
+
 <p align="center">
   <img src="https://github.com/Heathcliff-Ng/SOFisher/blob/main/fig/pipeline.jpg" width="800px">
 </p>
@@ -20,20 +22,20 @@ Taichi is able to automatically identify condition-relevant niches, and offers t
 
 ## Installation
 
-1. Create a conda environment
+1. Create a conda environment:
+
 ```bash
 conda create -n sofisher-env
 conda activate sofisher-env
 ```
-2. Install the SOFisher dependency
+2. Clone the SOFisher repository to your local machine:
 ```bash
-mamba install squidpy scanpy -c conda-forge (squidpy == 1.3.0 for reproducing CCI in manuscript)
-pip insall pygsp ipykernel
+git clone https://github.com/Heathcliff-Ng/SOFisher.git
+cd SOFisher
 ```
-3. Install the MENDER for batch-free niches representation:
+3. Install dependencies:
 ```bash
-cd MENDER
-python setup.py install
+pip install -r requirements.txt
 ```
 
 Install the `pysodb` for efficient download processed Anndata in h5ad format. (https://pysodb.readthedocs.io/en/latest/)
