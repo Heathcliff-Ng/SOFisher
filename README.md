@@ -12,7 +12,7 @@
 </div>
 
 <p>
-SOFisher a reinforcement learning-based framework that harnesses the knowledge gained from the sequence of previously sampled FOVs to guide the selection of the next FOV position
+SOFisher a reinforcement learning-based framework that harnesses the knowledge gained from the sequence of previously sampled FOVs to guide the selection of the next FOV position.
 </p>
 
 <p align="center">
