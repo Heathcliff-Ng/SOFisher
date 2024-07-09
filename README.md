@@ -5,9 +5,11 @@
 
 ---
 
-<p align="center">
-  <a href="" target="_blank">Preprint</a>
-</p>
+[//]: # (<p align="center">)
+
+[//]: # (  <a href="" target="_blank">Preprint</a>)
+
+[//]: # (</p>)
 
 </div>
 
