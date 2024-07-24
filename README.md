@@ -49,9 +49,9 @@ SOFisher a reinforcement learning-based framework that harnesses the knowledge g
 ├── main_disease.py           # training function for disease experiments
 ├── visualize_aging.ipynb     # results validation for aging experiments
 ├── visualize_cortex.ipynb    # results validation for cortex experiments
-└── visualize_disease.ipynb   # results validation for disease experiments
+├── visualize_disease.ipynb   # results validation for disease experiments
 ├── requirements.txt          # environment setup
-├── LICENSE
+└── LICENSE
 ```
 
 ## Installation
