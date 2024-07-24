@@ -1,6 +1,6 @@
 """
 Created on Mar 18, 2024
-@author: Zhuo Li
+@author: Weiran Wu
 
 The main script of trainning and evaluating the DQN algorithm for AD Seeking
 """
@@ -145,9 +145,9 @@ def load_data(exps):
     for exp in exps:
         file_path = os.path.join('dataset_Aging', '{}'.format(age), '{}_cell_type_annot.csv'.format(exp))
         data = []
-        with open(file_path, newline='') as csvfile:  # 打开csv文件
-            reader = csv.reader(csvfile)  # 创建一个csv读取器
-            next(reader)  # 逐行读取数据并将每行的列表存储到data列表中
+        with open(file_path, newline='') as csvfile:
+            reader = csv.reader(csvfile)
+            next(reader)
             for row in reader:
                 data.append(row)
         categ.append(np.array(data))

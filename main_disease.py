@@ -1,6 +1,6 @@
 """
 Created on April 24, 2024
-@author: Zhuo Li
+@author: Weiran Wu
 
 The main script of trainning and evaluating DQN for AD Seeking
 Without state normalization
@@ -150,7 +150,7 @@ if __name__ == '__main__':
         file_path = os.path.join('dataset_disease', 'spatial_{}.csv'.format(exp))
         data_pos, data_categ = [], []
         with open(file_path, newline='') as csvfile:
-            # 创建一个csv读取器
+            # csv reader
             reader = csv.reader(csvfile)
             next(reader)
             for row in reader:

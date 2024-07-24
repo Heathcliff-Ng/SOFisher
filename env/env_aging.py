@@ -44,27 +44,27 @@ class SpatOmics_dis():
         self.AD = np.array(data) # np.array(data.values.tolist())
         self.AD_pos = self.AD[:, :2]
 
-        # 确定采样范围
+        # set range
         self.x_max = np.amax(self.pos[:,0])
         self.x_min = np.amin(self.pos[:,0])
         self.y_max = np.amax(self.pos[:,1])
         self.y_min = np.amin(self.pos[:,1])
-        # 计算每个格子的宽度和高度
+        # set grid size
         self.grid_width = 50
         self.grid_height = 50
 
-        # 计算每个方向上格子的数量
+        # count grids
         self.map_x_range = int(np.ceil((self.x_max - self.x_min) / self.grid_width))
         self.map_y_range = int(np.ceil((self.y_max - self.y_min) / self.grid_height))
 
-        # 其他细胞的位置,状态空间里加入其他特征
+        # other cells
         self.cells_pos = []
         for cell in ['Astro', 'Endo', 'Epen', 'ExN', 'InN', 'MSN', 'OPC', 'Micro', 'Macro', 'Olig', 'Peri', 'T cell', 'Vlmc']:
-            celli_indices = np.where(np.array(self.categ) == cell)[0]  # mark点的索引
+            celli_indices = np.where(np.array(self.categ) == cell)[0]
             celli_pos = self.pos[celli_indices, :]
             self.cells_pos.append(celli_pos)
 
-        self.rs = self.args.rs  # 假设采样窗口为正方形，边长
+        self.rs = self.args.rs  # read sample square size
     
         n_obs = self.grid_x*self.grid_y*self.cell_num + 2 + 17
         self.observation_space = spaces.Box(low = -np.array(np.ones(n_obs)), high = np.array(np.ones(n_obs)), dtype=np.float32)
@@ -113,13 +113,13 @@ class SpatOmics_dis():
         next_y = self.y_max - self.rs/2 if next_y > self.y_max - self.rs/2 else next_y
         self.pos_sampling = [next_x, next_y]
 
-        # 探索地图上各点的奖励和惩罚
+        # reward and punish for exploration
         self.update_map()
         r_overlap = self.get_overlap_area()/1000
-        # 采样到AD的奖励
+        # reward for AD
         cell_counts, AD_counts = self.measure()
         mk = np.array(cell_counts).flatten()   # , AD_counts.flatten()
-        r_AD = np.sum(AD_counts)  # 没有考虑每个AD的大小
+        r_AD = np.sum(AD_counts)
 
         if isEval:
             reward = 5 * r_AD
@@ -142,13 +142,11 @@ class SpatOmics_dis():
         return state, reward, self.done, r_AD
 
     def update_map(self):
-        # 计算采样窗口在地图中的格子索引范围
         x_min_index = max(0, int((self.pos_sampling[0] - self.rs - self.x_min) / self.grid_width))
         x_max_index = min(self.map_x_range-1, int((self.pos_sampling[0] + self.rs - self.x_min) / self.grid_width))
         y_min_index = max(0, int((self.pos_sampling[1] - self.rs - self.y_min) / self.grid_height))
         y_max_index = min(self.map_y_range-1, int((self.pos_sampling[1] + self.rs - self.y_min) / self.grid_height))
 
-        # 在地图上对有交集的格子进行加1操作
         for i in range(x_min_index, x_max_index+1):
             for j in range(y_min_index, y_max_index+1):
                 self.map[i][j] += 1   
@@ -156,7 +154,7 @@ class SpatOmics_dis():
     def measure(self):
         x_s = self.pos_sampling[0]
         y_s = self.pos_sampling[1]
-        # 计算在每个格子中mark点的个数和AD点的个数
+
         cell_counts = []
         for i in range(len(self.cells_pos)):
             celli_counts = self.count_points_in_grid(x_s, y_s, self.grid_x, self.grid_y, self.cells_pos[i])
@@ -189,7 +187,7 @@ class SpatOmics_dis():
             overlap_x2 = min(x_center + self.rs / 2, x2)
             overlap_y1 = max(y_center - self.rs / 2, y1)
             overlap_y2 = min(y_center + self.rs / 2, y2)
-            overlap_area = max(0, overlap_x2 - overlap_x1) * max(0, overlap_y2 - overlap_y1)   # 计算重合的子面积
+            overlap_area = max(0, overlap_x2 - overlap_x1) * max(0, overlap_y2 - overlap_y1)
             if overlap_area > 0:
                 self.samp_corner_store[i] = (x1, y1, x2, y2, n+1)
             reward += overlap_area* (n+1)  
@@ -209,7 +207,7 @@ class SpatOmics_dis():
         return around_grids
     
     def grid_far(self, row, col):
-        # 其余部分分成8个平均块
+
         average_grids = [0 for _ in range(8)]
         num_grids = [0 for _ in range(8)]
         for i in range(self.map_x_range):
@@ -248,7 +246,7 @@ class SpatOmics_dis():
         self.success = 0
         self.done = False
         self.samp_corner_store = []
-        self.map = [[0 for _ in range(self.map_y_range)] for _ in range(self.map_x_range)]   # 创建一个二维数组（地图)
+        self.map = [[0 for _ in range(self.map_y_range)] for _ in range(self.map_x_range)]
         ## reset the initial sampling position
         x, y = round(random.uniform(self.x_min, self.x_max), 1), round(random.uniform(self.y_min, self.y_max), 1) # random
         self.pos_sampling = [x, y]

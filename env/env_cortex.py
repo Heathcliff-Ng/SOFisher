@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on March 13 2024
-@author: Zhuo Li
+@author: Weiran Wu
 
 Samping in Spatio Omics: 
 without state normalization
@@ -23,74 +23,74 @@ class SpatOmics_dis():
         ## load raw data from csv
         file_path = os.path.join('dataset_cortex', '{}_categ.csv'.format(exp))
         data = []
-        # 打开csv文件
+
         with open(file_path, newline='') as csvfile:
-            # 创建一个csv读取器
+
             reader = csv.reader(csvfile)
             next(reader)
-            # 逐行读取数据并将每行的列表存储到data列表中
+
             for row in reader:
                 data.append(row)
         self.categ = data # np.array(data.values.tolist())
                 
         file_path = os.path.join('dataset_cortex', '{}_pos.csv'.format(exp))
         data = []
-        # 打开csv文件
+
         with open(file_path, newline='') as csvfile:
-            # 创建一个csv读取器
+
             reader = csv.reader(csvfile)
             next(reader)
-            # 逐行读取数据并将每行的列表存储到data列表中
+
             for row in reader:
                 temp = [float(cell) for cell in row]
                 data.append(temp)
         self.pos = np.array(data) # np.array(data.values.tolist())
 
-        # 确定采样范围
+        # set range
         self.x_max = np.amax(self.pos[:,0])
         self.x_min = np.amin(self.pos[:,0])
         self.y_max = np.amax(self.pos[:,1])
         self.y_min = np.amin(self.pos[:,1])
-        # 计算每个格子的宽度和高度
+        # set grid size
         self.grid_width = 50
         self.grid_height = 50
 
-        # 计算每个方向上格子的数量
+        # count grids
         self.map_x_range = int(np.ceil((self.x_max - self.x_min) / self.grid_width))
         self.map_y_range = int(np.ceil((self.y_max - self.y_min) / self.grid_height))
 
         ## generate AD
-        mark = np.array(self.categ) == 'L45_IT'  # 找出类别为L45_IT的mark点
-        mark_indices = np.where(np.array(self.categ) == 'L45_IT')[0] # mark点的索引
+        mark = np.array(self.categ) == 'L45_IT'  # find L45_IT mark
+        mark_indices = np.where(np.array(self.categ) == 'L45_IT')[0] # indices of mark
         self.mark_indices = mark_indices
-        # mark点附近以0.2的概率生成新的点为AD标记物
+
         self.AD = []
         for i in range(mark.shape[0]):
             if mark[i]:
                 if np.random.rand() < 0.3:
-                    new_point = self.pos[i] + np.random.rand(2) - 0.5  # 在半径为1的范围内以0.5的概率生成新的点
-                    radius = np.random.uniform(5, 10)  # 在0.1到0.3的范围内生成随机半径
-                    new_point = np.append(new_point, radius)  # 将随机半径作为第三列
+                    new_point = self.pos[i] + np.random.rand(2) - 0.5
+                    radius = np.random.uniform(5, 10)
+                    new_point = np.append(new_point, radius)
                     self.AD.append(new_point)
 
         if len(self.AD) < 1:
             i=(mark.shape[0])
             if mark[i]:
                 new_point = self.pos[i] + np.random.rand(2) - 0.5
-                radius = np.random.uniform(5, 10)  # 在0.1到0.3的范围内生成随机半径
-                new_point = np.append(new_point, radius)  # 将随机半径作为第三列
+                radius = np.random.uniform(5, 10)
+                new_point = np.append(new_point, radius)
                 self.AD.append(new_point)
 
         self.AD = np.array(self.AD)
         self.mark_pos = self.pos[self.mark_indices, :]
         self.AD_pos = self.AD[:, :2]
 
-        # 其他细胞的位置,状态空间里加入其他特征
+        # other cells
         self.cells_pos = []
         for cell in ['L45_IT', 'L23_IT', 'L56_NP', 'L5_IT', 'L5_PT', 'L6_CT', 'L6_IT', 'Astrocytes',
                      'Endothelial', 'L6_IT_Car3', 'L6b', 'Oligodendrocytes', 'OPC', 'Microglia', 'Lamp5', 
-                     'VLMC', 'Sst', 'SMC', 'Pvalb', 'Pericytes', 'PVM']: # 
-            celli_indices = np.where(np.array(self.categ) == cell)[0]  # mark点的索引
+                     'VLMC', 'Sst', 'SMC', 'Pvalb', 'Pericytes', 'PVM']:
+            celli_indices = np.where(np.array(self.categ) == cell)[0]  # indices of mark
             celli_pos = self.pos[celli_indices, :]
             self.cells_pos.append(celli_pos)
         # initialize model parameters
@@ -98,7 +98,7 @@ class SpatOmics_dis():
         self.rs = args.rs
       
     # def initialize_params(self):
-    #     self.rs = 200  # 假设采样窗口为正方形，边长
+    #     self.rs = 200
         # observation and action spaces
         n_obs = self.grid_x*self.grid_y*self.cell_num + 2 + 17
         self.observation_space = spaces.Box(low = -np.array(np.ones(n_obs)), high = np.array(np.ones(n_obs)), dtype=np.float32)
@@ -153,7 +153,7 @@ class SpatOmics_dis():
         # reward for AD
         cell_counts, AD_counts = self.measure()
         mk = np.array(cell_counts).flatten() 
-        r_AD = np.sum(AD_counts)  # 没有考虑每个AD的大小
+        r_AD = np.sum(AD_counts)
 
         if isEval:
             reward = 5 * r_AD
@@ -162,27 +162,27 @@ class SpatOmics_dis():
             if r_AD > 2:
                  self.success += 1
             if self.success > 9:
-                self.done = True    #
+                self.done = True
                 reward += 100
 
         self.samp_corner_store.append((next_x-self.rs/2, next_y-self.rs/2, next_x+self.rs/2, next_y+self.rs/2, 0))
 
         ## get state
         row_sampling = int((next_x - self.x_min) / self.grid_width) - 1
-        col_sampling = int((next_y - self.y_min) / self.grid_height)- 1
+        col_sampling = int((next_y - self.y_min) / self.grid_height) - 1
         abs_map = [1] + self.grid_far(row_sampling, col_sampling) + self.grid_around(row_sampling, col_sampling)
         state = np.concatenate((np.array([next_x, next_y]), np.array(abs_map), mk))
 
         return state, reward, self.done, r_AD
 
     def update_map(self):
-        # 计算采样窗口在地图中的格子索引范围
+
         x_min_index = max(0, int((self.pos_sampling[0] - self.rs - self.x_min) / self.grid_width))
         x_max_index = min(self.map_x_range-1, int((self.pos_sampling[0] + self.rs - self.x_min) / self.grid_width))
         y_min_index = max(0, int((self.pos_sampling[1] - self.rs - self.y_min) / self.grid_height))
         y_max_index = min(self.map_y_range-1, int((self.pos_sampling[1] + self.rs - self.y_min) / self.grid_height))
 
-        # 在地图上对有交集的格子进行加1操作
+
         for i in range(x_min_index, x_max_index+1):
             for j in range(y_min_index, y_max_index+1):
                 self.map[i][j] += 1   
@@ -190,7 +190,7 @@ class SpatOmics_dis():
     def measure(self):
         x_s = self.pos_sampling[0]
         y_s = self.pos_sampling[1]
-        # 计算在每个格子中mark点的个数和AD点的个数
+
         cell_counts = []
         for i in range(len(self.cells_pos)):
             celli_counts = self.count_points_in_grid(x_s, y_s, self.grid_x, self.grid_y, self.cells_pos[i])
@@ -223,10 +223,10 @@ class SpatOmics_dis():
             overlap_x2 = min(x_center + self.rs / 2, x2)
             overlap_y1 = max(y_center - self.rs / 2, y1)
             overlap_y2 = min(y_center + self.rs / 2, y2)
-            overlap_area = max(0, overlap_x2 - overlap_x1) * max(0, overlap_y2 - overlap_y1)   # 计算重合的子面积
+            overlap_area = max(0, overlap_x2 - overlap_x1) * max(0, overlap_y2 - overlap_y1)
             if overlap_area > 0:
                 self.samp_corner_store[i] = (x1, y1, x2, y2, n+1)
-            reward += overlap_area* (n+1)  # 计算reward, 面积太大，归一化到(0,10)
+            reward += overlap_area * (n+1)
         return -reward
 
  
@@ -243,7 +243,7 @@ class SpatOmics_dis():
         return around_grids
     
     def grid_far(self, row, col):
-        # 其余部分分成8个平均块
+
         average_grids = [0 for _ in range(8)]
         num_grids = [0 for _ in range(8)]
         for i in range(self.map_x_range):
@@ -282,10 +282,10 @@ class SpatOmics_dis():
         self.success = 0
         self.done = False
         self.samp_corner_store = []
-        self.map = [[0 for _ in range(self.map_y_range)] for _ in range(self.map_x_range)]   # 创建一个二维数组（地图)
+        self.map = [[0 for _ in range(self.map_y_range)] for _ in range(self.map_x_range)]
         ## reset the initial sampling position
         x, y = round(random.uniform(self.x_min, self.x_max), 1), round(random.uniform(self.y_min, self.y_max), 1) # random
-        # x, y = self.x_min + self.rs/2, self.y_min + self.rs/2  # warm start, 包围型
+        # x, y = self.x_min + self.rs/2, self.y_min + self.rs/2  # warm start
         self.pos_sampling = [x, y]
         cell_counts, AD_counts = self.measure()
 
@@ -316,7 +316,7 @@ class SpatOmics_dis():
                 _, AD_counts = self.measure()
                 if np.sum(AD_counts) > 0:
                     sampling_ended = True
-                    break  # 跳出内层循环
+                    break
             if sampling_ended:
                 break
         
