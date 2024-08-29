@@ -36,8 +36,9 @@ SOFisher a reinforcement learning-based framework that harnesses the knowledge g
 ├── data                      # test results
 ├── env                       # envs for different settings
 │   ├── env_aging.py
-│   ├── env_cortex_2cell.py
 │   ├── env_cortex.py
+│   ├── env_cortex_2cell.py
+│   ├── env_CRC.py
 │   ├── env_dis_both.py
 │   └── env_dis_tau.py
 ├── src                       # RL algorithms
@@ -47,9 +48,11 @@ SOFisher a reinforcement learning-based framework that harnesses the knowledge g
 ├── main_aging.py             # training function for aging experiments
 ├── main_cortex.py            # training function for cortex experiments
 ├── main_disease.py           # training function for disease experiments
+├── main_CRC.py               # training function for CRC experiments
 ├── visualize_aging.ipynb     # results validation for aging experiments
 ├── visualize_cortex.ipynb    # results validation for cortex experiments
 ├── visualize_disease.ipynb   # results validation for disease experiments
+├── visualize_CRC.ipynb       # results validation for CRC experiments
 ├── requirements.txt          # environment setup
 └── LICENSE
 ```

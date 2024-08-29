@@ -1,0 +1,2803 @@
+ClusterName,0,1,neighborhood name
+granulocytes,772,1200,Follicle
+granulocytes,796,503,Follicle
+granulocytes,880,766,Follicle
+granulocytes,887,1026,T cell enriched
+granulocytes,922,1000,T cell enriched
+granulocytes,969,678,Follicle
+granulocytes,976,939,Follicle
+granulocytes,1419,27,Macrophage enriched
+granulocytes,1419,1275,Vascularized smooth muscle
+granulocytes,1687,339,Follicle
+vasculature,157,907,Immune-infiltrated stroma
+vasculature,243,542,Immune-infiltrated stroma
+vasculature,255,718,T cell enriched
+vasculature,261,523,Immune-infiltrated stroma
+vasculature,352,725,T cell enriched
+vasculature,349,1238,T cell enriched
+vasculature,364,1209,T cell enriched
+vasculature,389,1192,T cell enriched
+vasculature,402,923,T cell enriched
+vasculature,428,912,T cell enriched
+vasculature,457,117,Macrophage enriched
+vasculature,430,1259,T cell enriched
+vasculature,438,1316,T cell enriched
+vasculature,476,115,Macrophage enriched
+vasculature,462,1302,T cell enriched
+vasculature,490,118,Macrophage enriched
+vasculature,498,607,T cell enriched
+vasculature,499,615,T cell enriched
+vasculature,512,411,Immune-infiltrated stroma
+vasculature,509,427,Immune-infiltrated stroma
+vasculature,513,780,T cell enriched
+vasculature,557,430,Vascularized smooth muscle
+vasculature,566,409,Vascularized smooth muscle
+vasculature,580,928,Follicle
+vasculature,610,264,Vascularized smooth muscle
+vasculature,626,322,Vascularized smooth muscle
+vasculature,635,298,Vascularized smooth muscle
+vasculature,647,338,Vascularized smooth muscle
+vasculature,650,426,T cell enriched
+vasculature,668,278,Vascularized smooth muscle
+vasculature,676,324,Vascularized smooth muscle
+vasculature,683,417,Vascularized smooth muscle
+vasculature,698,316,Vascularized smooth muscle
+vasculature,699,417,Vascularized smooth muscle
+vasculature,694,264,Vascularized smooth muscle
+vasculature,712,340,Smooth muscle
+vasculature,720,285,Vascularized smooth muscle
+vasculature,728,248,Vascularized smooth muscle
+vasculature,723,423,Vascularized smooth muscle
+vasculature,725,773,Follicle
+vasculature,732,642,Follicle
+vasculature,736,279,Smooth muscle
+vasculature,746,437,Follicle
+vasculature,748,621,Follicle
+vasculature,759,734,Follicle
+vasculature,769,620,Follicle
+vasculature,774,709,Follicle
+vasculature,801,14,T cell enriched
+vasculature,795,342,Vascularized smooth muscle
+vasculature,807,427,T cell enriched
+vasculature,816,222,Vascularized smooth muscle
+vasculature,816,361,Macrophage enriched
+vasculature,823,204,Vascularized smooth muscle
+vasculature,809,704,Follicle
+vasculature,822,691,Follicle
+vasculature,827,709,Follicle
+vasculature,852,0,T cell enriched
+vasculature,834,683,Follicle
+vasculature,833,836,Follicle
+vasculature,868,732,Follicle
+vasculature,875,233,Vascularized smooth muscle
+vasculature,866,1026,Follicle
+vasculature,877,545,Follicle
+vasculature,894,263,Vascularized smooth muscle
+vasculature,886,1045,T cell enriched
+vasculature,898,724,Follicle
+vasculature,914,379,T cell enriched
+vasculature,911,361,T cell enriched
+vasculature,907,723,Follicle
+vasculature,926,364,T cell enriched
+vasculature,944,366,T cell enriched
+vasculature,937,732,Follicle
+vasculature,938,704,T cell enriched
+vasculature,953,727,Follicle
+vasculature,965,0,T cell enriched
+vasculature,959,366,Follicle
+vasculature,982,383,Follicle
+vasculature,992,172,Follicle
+vasculature,1020,780,Follicle
+vasculature,1043,277,Follicle
+vasculature,1056,366,Follicle
+vasculature,1065,686,T cell enriched
+vasculature,1055,736,Follicle
+vasculature,1077,707,T cell enriched
+vasculature,1101,1048,Follicle
+vasculature,1108,658,Follicle
+vasculature,1135,426,Follicle
+vasculature,1137,402,Follicle
+vasculature,1148,394,Follicle
+vasculature,1153,313,T cell enriched
+vasculature,1147,719,Follicle
+vasculature,1165,314,T cell enriched
+vasculature,1170,208,Macrophage enriched
+vasculature,1162,714,Follicle
+vasculature,1172,332,T cell enriched
+vasculature,1185,0,T cell enriched
+vasculature,1181,367,T cell enriched
+vasculature,1194,290,T cell enriched
+vasculature,1196,699,Follicle
+vasculature,1202,712,T cell enriched
+vasculature,1209,472,Follicle
+vasculature,1205,489,Follicle
+vasculature,1213,1158,Follicle
+vasculature,1215,713,Follicle
+vasculature,1238,282,Follicle
+vasculature,1234,711,T cell enriched
+vasculature,1247,288,Follicle
+vasculature,1235,1131,Follicle
+vasculature,1264,442,Follicle
+vasculature,1272,237,Follicle
+vasculature,1264,713,Follicle
+vasculature,1255,715,Follicle
+vasculature,1280,424,Follicle
+vasculature,1297,284,Follicle
+vasculature,1305,427,Follicle
+vasculature,1345,340,Follicle
+vasculature,1348,603,Follicle
+vasculature,1338,1420,Vascularized smooth muscle
+vasculature,1356,607,Follicle
+vasculature,1371,213,Follicle
+vasculature,1382,392,Follicle
+vasculature,1378,380,Follicle
+vasculature,1389,400,Follicle
+vasculature,1391,512,Follicle
+vasculature,1388,241,Follicle
+vasculature,1408,215,T cell enriched
+vasculature,1416,231,Follicle
+vasculature,1419,495,Follicle
+vasculature,1439,362,Follicle
+vasculature,1429,390,Follicle
+vasculature,1427,987,Follicle
+vasculature,1452,206,T cell enriched
+vasculature,1444,480,Follicle
+vasculature,1438,1278,Vascularized smooth muscle
+vasculature,1428,1247,Vascularized smooth muscle
+vasculature,1458,988,Immune-infiltrated stroma
+vasculature,1461,1046,T cell enriched
+vasculature,1486,353,Follicle
+vasculature,1474,899,Follicle
+vasculature,1477,778,Follicle
+vasculature,1500,891,Follicle
+vasculature,1508,809,Follicle
+vasculature,1569,765,Immune-infiltrated stroma
+vasculature,1581,780,Immune-infiltrated stroma
+vasculature,1594,370,Follicle
+vasculature,1609,377,Follicle
+vasculature,1607,967,T cell enriched
+vasculature,1610,540,Follicle
+vasculature,1624,772,Immune-infiltrated stroma
+vasculature,1625,531,Follicle
+vasculature,1610,952,T cell enriched
+vasculature,1615,770,Immune-infiltrated stroma
+vasculature,1681,564,Follicle
+vasculature,1701,645,T cell enriched
+vasculature,1698,586,T cell enriched
+vasculature,1693,829,T cell enriched
+vasculature,1698,872,T cell enriched
+vasculature,1705,745,T cell enriched
+vasculature,1707,834,T cell enriched
+vasculature,1704,784,T cell enriched
+vasculature,1719,652,T cell enriched
+vasculature,1733,641,T cell enriched
+vasculature,1725,643,T cell enriched
+vasculature,1824,629,Follicle
+vasculature,1829,597,Immune-infiltrated stroma
+CD4+ T cells CD45RO+,110,592,Immune-infiltrated stroma
+CD4+ T cells CD45RO+,263,366,T cell enriched
+CD4+ T cells CD45RO+,320,769,T cell enriched
+CD4+ T cells CD45RO+,325,1174,T cell enriched
+CD4+ T cells CD45RO+,360,512,T cell enriched
+CD4+ T cells CD45RO+,374,6,T cell enriched
+CD4+ T cells CD45RO+,344,1206,T cell enriched
+CD4+ T cells CD45RO+,375,454,T cell enriched
+CD4+ T cells CD45RO+,387,396,T cell enriched
+CD4+ T cells CD45RO+,388,290,Immune-infiltrated stroma
+CD4+ T cells CD45RO+,377,961,T cell enriched
+CD4+ T cells CD45RO+,394,1272,T cell enriched
+CD4+ T cells CD45RO+,407,1232,Immune-infiltrated stroma
+CD4+ T cells CD45RO+,432,39,Macrophage enriched
+CD4+ T cells CD45RO+,416,1184,Macrophage enriched
+CD4+ T cells CD45RO+,426,434,T cell enriched
+CD4+ T cells CD45RO+,423,936,Tumor boundary
+CD4+ T cells CD45RO+,433,1289,T cell enriched
+CD4+ T cells CD45RO+,430,1088,Follicle
+CD4+ T cells CD45RO+,464,575,T cell enriched
+CD4+ T cells CD45RO+,475,250,Immune-infiltrated stroma
+CD4+ T cells CD45RO+,494,503,Follicle
+CD4+ T cells CD45RO+,496,1286,T cell enriched
+CD4+ T cells CD45RO+,515,578,T cell enriched
+CD4+ T cells CD45RO+,508,1025,Follicle
+CD4+ T cells CD45RO+,527,600,T cell enriched
+CD4+ T cells CD45RO+,531,515,Follicle
+CD4+ T cells CD45RO+,512,1322,Follicle
+CD4+ T cells CD45RO+,525,703,Follicle
+CD4+ T cells CD45RO+,570,577,Follicle
+CD4+ T cells CD45RO+,574,672,T cell enriched
+CD4+ T cells CD45RO+,602,654,T cell enriched
+CD4+ T cells CD45RO+,618,185,Macrophage enriched
+CD4+ T cells CD45RO+,624,438,Vascularized smooth muscle
+CD4+ T cells CD45RO+,633,0,Macrophage enriched
+CD4+ T cells CD45RO+,628,599,Macrophage enriched
+CD4+ T cells CD45RO+,627,696,T cell enriched
+CD4+ T cells CD45RO+,647,316,Vascularized smooth muscle
+CD4+ T cells CD45RO+,630,952,Follicle
+CD4+ T cells CD45RO+,655,923,Follicle
+CD4+ T cells CD45RO+,680,919,Follicle
+CD4+ T cells CD45RO+,682,498,T cell enriched
+CD4+ T cells CD45RO+,684,559,Macrophage enriched
+CD4+ T cells CD45RO+,687,612,T cell enriched
+CD4+ T cells CD45RO+,699,695,Follicle
+CD4+ T cells CD45RO+,710,1095,Follicle
+CD4+ T cells CD45RO+,712,1292,Follicle
+CD4+ T cells CD45RO+,718,555,Follicle
+CD4+ T cells CD45RO+,760,17,Vascularized smooth muscle
+CD4+ T cells CD45RO+,753,910,Follicle
+CD4+ T cells CD45RO+,755,868,Follicle
+CD4+ T cells CD45RO+,755,1018,Follicle
+CD4+ T cells CD45RO+,763,491,Follicle
+CD4+ T cells CD45RO+,757,1227,Follicle
+CD4+ T cells CD45RO+,786,134,T cell enriched
+CD4+ T cells CD45RO+,773,572,Follicle
+CD4+ T cells CD45RO+,782,1174,Follicle
+CD4+ T cells CD45RO+,790,522,Follicle
+CD4+ T cells CD45RO+,807,0,T cell enriched
+CD4+ T cells CD45RO+,784,945,Follicle
+CD4+ T cells CD45RO+,791,589,Follicle
+CD4+ T cells CD45RO+,803,1206,Follicle
+CD4+ T cells CD45RO+,795,914,Follicle
+CD4+ T cells CD45RO+,809,509,Follicle
+CD4+ T cells CD45RO+,805,1086,Follicle
+CD4+ T cells CD45RO+,823,593,T cell enriched
+CD4+ T cells CD45RO+,827,571,Tumor boundary
+CD4+ T cells CD45RO+,839,612,Follicle
+CD4+ T cells CD45RO+,831,914,Follicle
+CD4+ T cells CD45RO+,829,954,Follicle
+CD4+ T cells CD45RO+,855,246,Vascularized smooth muscle
+CD4+ T cells CD45RO+,838,878,Follicle
+CD4+ T cells CD45RO+,857,775,Follicle
+CD4+ T cells CD45RO+,857,866,Follicle
+CD4+ T cells CD45RO+,868,855,Follicle
+CD4+ T cells CD45RO+,885,0,T cell enriched
+CD4+ T cells CD45RO+,872,592,Follicle
+CD4+ T cells CD45RO+,872,789,Follicle
+CD4+ T cells CD45RO+,867,906,Follicle
+CD4+ T cells CD45RO+,880,490,Follicle
+CD4+ T cells CD45RO+,896,757,Follicle
+CD4+ T cells CD45RO+,905,194,Macrophage enriched
+CD4+ T cells CD45RO+,905,485,Follicle
+CD4+ T cells CD45RO+,906,504,Follicle
+CD4+ T cells CD45RO+,918,160,Macrophage enriched
+CD4+ T cells CD45RO+,907,690,Follicle
+CD4+ T cells CD45RO+,920,354,T cell enriched
+CD4+ T cells CD45RO+,911,652,Follicle
+CD4+ T cells CD45RO+,911,796,Follicle
+CD4+ T cells CD45RO+,933,482,Follicle
+CD4+ T cells CD45RO+,919,1209,Follicle
+CD4+ T cells CD45RO+,941,529,Follicle
+CD4+ T cells CD45RO+,940,635,Follicle
+CD4+ T cells CD45RO+,933,1028,Follicle
+CD4+ T cells CD45RO+,937,601,Follicle
+CD4+ T cells CD45RO+,941,1044,Follicle
+CD4+ T cells CD45RO+,967,571,Follicle
+CD4+ T cells CD45RO+,967,661,Follicle
+CD4+ T cells CD45RO+,956,998,Follicle
+CD4+ T cells CD45RO+,962,1111,Follicle
+CD4+ T cells CD45RO+,968,922,Follicle
+CD4+ T cells CD45RO+,966,1293,Follicle
+CD4+ T cells CD45RO+,983,439,Follicle
+CD4+ T cells CD45RO+,981,520,Follicle
+CD4+ T cells CD45RO+,979,638,T cell enriched
+CD4+ T cells CD45RO+,982,570,Follicle
+CD4+ T cells CD45RO+,988,428,Follicle
+CD4+ T cells CD45RO+,1004,51,T cell enriched
+CD4+ T cells CD45RO+,986,1076,Follicle
+CD4+ T cells CD45RO+,999,554,T cell enriched
+CD4+ T cells CD45RO+,1008,698,Follicle
+CD4+ T cells CD45RO+,997,591,T cell enriched
+CD4+ T cells CD45RO+,1000,775,Follicle
+CD4+ T cells CD45RO+,1008,1220,Follicle
+CD4+ T cells CD45RO+,1012,987,Follicle
+CD4+ T cells CD45RO+,1028,433,Follicle
+CD4+ T cells CD45RO+,1012,1149,Follicle
+CD4+ T cells CD45RO+,1033,452,T cell enriched
+CD4+ T cells CD45RO+,1051,653,Follicle
+CD4+ T cells CD45RO+,1060,841,Follicle
+CD4+ T cells CD45RO+,1061,1156,Follicle
+CD4+ T cells CD45RO+,1066,440,T cell enriched
+CD4+ T cells CD45RO+,1066,460,T cell enriched
+CD4+ T cells CD45RO+,1055,1023,Follicle
+CD4+ T cells CD45RO+,1052,1300,Follicle
+CD4+ T cells CD45RO+,1069,1009,Follicle
+CD4+ T cells CD45RO+,1085,218,T cell enriched
+CD4+ T cells CD45RO+,1078,787,Follicle
+CD4+ T cells CD45RO+,1086,925,Follicle
+CD4+ T cells CD45RO+,1093,455,Follicle
+CD4+ T cells CD45RO+,1096,620,Follicle
+CD4+ T cells CD45RO+,1091,1071,Follicle
+CD4+ T cells CD45RO+,1099,904,Follicle
+CD4+ T cells CD45RO+,1094,1017,Follicle
+CD4+ T cells CD45RO+,1123,243,T cell enriched
+CD4+ T cells CD45RO+,1122,385,Follicle
+CD4+ T cells CD45RO+,1120,466,Follicle
+CD4+ T cells CD45RO+,1126,812,Follicle
+CD4+ T cells CD45RO+,1134,116,T cell enriched
+CD4+ T cells CD45RO+,1131,714,Follicle
+CD4+ T cells CD45RO+,1113,1208,Follicle
+CD4+ T cells CD45RO+,1147,550,Follicle
+CD4+ T cells CD45RO+,1119,1235,Follicle
+CD4+ T cells CD45RO+,1134,1145,Follicle
+CD4+ T cells CD45RO+,1156,480,Follicle
+CD4+ T cells CD45RO+,1163,290,T cell enriched
+CD4+ T cells CD45RO+,1150,910,Follicle
+CD4+ T cells CD45RO+,1156,1119,T cell enriched
+CD4+ T cells CD45RO+,1162,1338,T cell enriched
+CD4+ T cells CD45RO+,1172,1063,Follicle
+CD4+ T cells CD45RO+,1176,961,Follicle
+CD4+ T cells CD45RO+,1201,304,T cell enriched
+CD4+ T cells CD45RO+,1189,1361,T cell enriched
+CD4+ T cells CD45RO+,1195,806,Follicle
+CD4+ T cells CD45RO+,1191,1175,Follicle
+CD4+ T cells CD45RO+,1204,695,Follicle
+CD4+ T cells CD45RO+,1217,428,Follicle
+CD4+ T cells CD45RO+,1198,1276,Follicle
+CD4+ T cells CD45RO+,1214,948,Follicle
+CD4+ T cells CD45RO+,1224,231,Follicle
+CD4+ T cells CD45RO+,1209,1048,Follicle
+CD4+ T cells CD45RO+,1218,878,Follicle
+CD4+ T cells CD45RO+,1224,504,Follicle
+CD4+ T cells CD45RO+,1232,259,Follicle
+CD4+ T cells CD45RO+,1238,381,Follicle
+CD4+ T cells CD45RO+,1240,604,Follicle
+CD4+ T cells CD45RO+,1226,1152,Follicle
+CD4+ T cells CD45RO+,1236,847,Follicle
+CD4+ T cells CD45RO+,1233,947,Follicle
+CD4+ T cells CD45RO+,1236,988,T cell enriched
+CD4+ T cells CD45RO+,1254,115,Follicle
+CD4+ T cells CD45RO+,1229,1327,T cell enriched
+CD4+ T cells CD45RO+,1235,1357,T cell enriched
+CD4+ T cells CD45RO+,1243,997,Follicle
+CD4+ T cells CD45RO+,1271,315,Follicle
+CD4+ T cells CD45RO+,1276,8,T cell enriched
+CD4+ T cells CD45RO+,1252,981,Follicle
+CD4+ T cells CD45RO+,1264,1004,Follicle
+CD4+ T cells CD45RO+,1275,767,Follicle
+CD4+ T cells CD45RO+,1266,1047,Follicle
+CD4+ T cells CD45RO+,1286,814,Follicle
+CD4+ T cells CD45RO+,1306,951,Follicle
+CD4+ T cells CD45RO+,1314,566,Follicle
+CD4+ T cells CD45RO+,1314,683,T cell enriched
+CD4+ T cells CD45RO+,1317,809,Follicle
+CD4+ T cells CD45RO+,1314,901,Follicle
+CD4+ T cells CD45RO+,1302,1303,Macrophage enriched
+CD4+ T cells CD45RO+,1327,432,T cell enriched
+CD4+ T cells CD45RO+,1329,1008,Follicle
+CD4+ T cells CD45RO+,1332,713,Follicle
+CD4+ T cells CD45RO+,1326,1406,Vascularized smooth muscle
+CD4+ T cells CD45RO+,1349,689,Follicle
+CD4+ T cells CD45RO+,1349,991,Follicle
+CD4+ T cells CD45RO+,1364,411,T cell enriched
+CD4+ T cells CD45RO+,1372,10,T cell enriched
+CD4+ T cells CD45RO+,1378,585,Follicle
+CD4+ T cells CD45RO+,1378,857,Follicle
+CD4+ T cells CD45RO+,1390,717,Follicle
+CD4+ T cells CD45RO+,1424,201,T cell enriched
+CD4+ T cells CD45RO+,1438,315,Follicle
+CD4+ T cells CD45RO+,1425,685,Follicle
+CD4+ T cells CD45RO+,1422,1132,Follicle
+CD4+ T cells CD45RO+,1418,1152,T cell enriched
+CD4+ T cells CD45RO+,1433,912,Follicle
+CD4+ T cells CD45RO+,1430,704,Follicle
+CD4+ T cells CD45RO+,1446,637,Follicle
+CD4+ T cells CD45RO+,1453,795,Follicle
+CD4+ T cells CD45RO+,1458,578,Follicle
+CD4+ T cells CD45RO+,1443,1060,Follicle
+CD4+ T cells CD45RO+,1472,423,Follicle
+CD4+ T cells CD45RO+,1476,216,Follicle
+CD4+ T cells CD45RO+,1465,731,Follicle
+CD4+ T cells CD45RO+,1463,1159,T cell enriched
+CD4+ T cells CD45RO+,1474,719,Follicle
+CD4+ T cells CD45RO+,1488,679,Follicle
+CD4+ T cells CD45RO+,1473,1109,T cell enriched
+CD4+ T cells CD45RO+,1492,522,Follicle
+CD4+ T cells CD45RO+,1501,827,T cell enriched
+CD4+ T cells CD45RO+,1531,226,Follicle
+CD4+ T cells CD45RO+,1531,452,Follicle
+CD4+ T cells CD45RO+,1522,613,Follicle
+CD4+ T cells CD45RO+,1538,1,T cell enriched
+CD4+ T cells CD45RO+,1515,1241,Macrophage enriched
+CD4+ T cells CD45RO+,1534,399,Follicle
+CD4+ T cells CD45RO+,1542,284,Follicle
+CD4+ T cells CD45RO+,1551,50,T cell enriched
+CD4+ T cells CD45RO+,1538,819,T cell enriched
+CD4+ T cells CD45RO+,1550,548,Follicle
+CD4+ T cells CD45RO+,1537,985,Follicle
+CD4+ T cells CD45RO+,1537,1095,Follicle
+CD4+ T cells CD45RO+,1564,214,Follicle
+CD4+ T cells CD45RO+,1559,692,Follicle
+CD4+ T cells CD45RO+,1552,764,Follicle
+CD4+ T cells CD45RO+,1562,1130,T cell enriched
+CD4+ T cells CD45RO+,1563,881,Follicle
+CD4+ T cells CD45RO+,1557,909,Follicle
+CD4+ T cells CD45RO+,1570,958,Follicle
+CD4+ T cells CD45RO+,1561,1085,T cell enriched
+CD4+ T cells CD45RO+,1574,848,Follicle
+CD4+ T cells CD45RO+,1560,834,T cell enriched
+CD4+ T cells CD45RO+,1585,511,Follicle
+CD4+ T cells CD45RO+,1607,897,Follicle
+CD4+ T cells CD45RO+,1602,993,Follicle
+CD4+ T cells CD45RO+,1623,446,Follicle
+CD4+ T cells CD45RO+,1616,722,Follicle
+CD4+ T cells CD45RO+,1603,1082,T cell enriched
+CD4+ T cells CD45RO+,1615,1183,Follicle
+CD4+ T cells CD45RO+,1637,646,Follicle
+CD4+ T cells CD45RO+,1650,781,Follicle
+CD4+ T cells CD45RO+,1635,1074,T cell enriched
+CD4+ T cells CD45RO+,1641,963,Follicle
+CD4+ T cells CD45RO+,1664,320,Follicle
+CD4+ T cells CD45RO+,1676,209,Follicle
+CD4+ T cells CD45RO+,1668,514,Follicle
+CD4+ T cells CD45RO+,1674,635,T cell enriched
+CD4+ T cells CD45RO+,1670,665,Follicle
+CD4+ T cells CD45RO+,1670,887,Follicle
+CD4+ T cells CD45RO+,1713,251,Follicle
+CD4+ T cells CD45RO+,1711,351,Follicle
+CD4+ T cells CD45RO+,1697,665,Follicle
+CD4+ T cells CD45RO+,1696,996,Follicle
+CD4+ T cells CD45RO+,1700,756,Follicle
+CD4+ T cells CD45RO+,1733,1103,Follicle
+CD4+ T cells CD45RO+,1743,399,Follicle
+CD4+ T cells CD45RO+,1747,787,Follicle
+CD4+ T cells CD45RO+,1765,724,Follicle
+CD4+ T cells CD45RO+,1782,489,Follicle
+CD4+ T cells CD45RO+,1806,536,Follicle
+CD4+ T cells CD45RO+,1814,441,Follicle
+CD4+ T cells CD45RO+,1815,830,Follicle
+CD4+ T cells CD45RO+,1838,467,Follicle
+tumor cells,217,1044,Macrophage enriched
+tumor cells,401,945,T cell enriched
+tumor cells,403,1137,Follicle
+tumor cells,435,614,Follicle
+tumor cells,446,915,T cell enriched
+tumor cells,449,952,T cell enriched
+tumor cells,495,637,Follicle
+tumor cells,513,500,Follicle
+tumor cells,518,732,T cell enriched
+tumor cells,539,233,Macrophage enriched
+tumor cells,588,958,Follicle
+tumor cells,667,462,T cell enriched
+tumor cells,651,1175,Follicle
+tumor cells,799,567,T cell enriched
+tumor cells,809,601,T cell enriched
+tumor cells,841,565,Follicle
+tumor cells,1004,294,Follicle
+tumor cells,992,1408,Follicle
+tumor cells,1035,160,T cell enriched
+tumor cells,1040,110,T cell enriched
+tumor cells,1040,344,Follicle
+tumor cells,1042,1098,Follicle
+tumor cells,1189,367,T cell enriched
+tumor cells,1181,602,Follicle
+tumor cells,1320,52,T cell enriched
+tumor cells,1367,325,Follicle
+tumor cells,1439,100,Macrophage enriched
+tumor cells,1426,1167,T cell enriched
+tumor cells,1454,274,Follicle
+tumor cells,1508,135,Follicle
+tumor cells,1556,561,Follicle
+tumor cells,1826,764,Follicle
+stroma,7,722,Immune-infiltrated stroma
+stroma,47,70,Immune-infiltrated stroma
+stroma,90,719,Immune-infiltrated stroma
+stroma,147,582,Immune-infiltrated stroma
+stroma,161,897,Immune-infiltrated stroma
+stroma,277,163,Immune-infiltrated stroma
+stroma,273,541,Immune-infiltrated stroma
+stroma,279,562,Immune-infiltrated stroma
+stroma,294,394,T cell enriched
+stroma,312,1029,Immune-infiltrated stroma
+stroma,323,1023,Immune-infiltrated stroma
+stroma,328,1093,Follicle
+stroma,335,1018,Immune-infiltrated stroma
+stroma,362,263,Immune-infiltrated stroma
+stroma,373,1255,T cell enriched
+stroma,419,259,Immune-infiltrated stroma
+stroma,444,256,Immune-infiltrated stroma
+stroma,428,1078,Follicle
+stroma,452,225,Immune-infiltrated stroma
+stroma,444,1201,Macrophage enriched
+stroma,475,401,Immune-infiltrated stroma
+stroma,499,411,Immune-infiltrated stroma
+stroma,489,1061,Follicle
+stroma,503,1362,Immune-infiltrated stroma
+stroma,506,1060,Follicle
+stroma,539,1012,Follicle
+stroma,575,1360,Follicle
+stroma,632,1180,Follicle
+stroma,643,1273,Follicle
+stroma,641,1283,Follicle
+stroma,703,165,T cell enriched
+stroma,704,444,Immune-infiltrated stroma
+stroma,715,802,Follicle
+stroma,707,492,Follicle
+stroma,745,907,Follicle
+stroma,738,1323,Follicle
+stroma,778,830,Follicle
+stroma,792,544,T cell enriched
+stroma,793,1044,Follicle
+stroma,818,559,Follicle
+stroma,832,116,T cell enriched
+stroma,920,562,Follicle
+stroma,945,558,Follicle
+stroma,986,723,Follicle
+stroma,990,760,Follicle
+stroma,997,303,Follicle
+stroma,998,734,Follicle
+stroma,1026,946,Follicle
+stroma,1053,214,Follicle
+stroma,1084,200,Macrophage enriched
+stroma,1077,743,Follicle
+stroma,1089,1265,T cell enriched
+stroma,1074,1419,Macrophage enriched
+stroma,1115,583,Follicle
+stroma,1100,1263,T cell enriched
+stroma,1104,1310,Immune-infiltrated stroma
+stroma,1137,196,Macrophage enriched
+stroma,1114,1363,Macrophage enriched
+stroma,1138,685,Follicle
+stroma,1146,629,Follicle
+stroma,1169,243,T cell enriched
+stroma,1168,1259,Follicle
+stroma,1158,1299,Follicle
+stroma,1190,329,T cell enriched
+stroma,1199,98,T cell enriched
+stroma,1206,1123,Follicle
+stroma,1212,1392,T cell enriched
+stroma,1257,252,Immune-infiltrated stroma
+stroma,1235,1294,Follicle
+stroma,1270,253,Follicle
+stroma,1269,591,Follicle
+stroma,1270,1096,Macrophage enriched
+stroma,1286,683,Follicle
+stroma,1309,93,T cell enriched
+stroma,1289,1145,Follicle
+stroma,1350,56,Macrophage enriched
+stroma,1335,1125,Follicle
+stroma,1342,1269,Macrophage enriched
+stroma,1362,1169,Follicle
+stroma,1389,0,T cell enriched
+stroma,1375,1071,Follicle
+stroma,1390,418,Follicle
+stroma,1410,87,Macrophage enriched
+stroma,1396,850,Follicle
+stroma,1418,295,Follicle
+stroma,1400,841,Follicle
+stroma,1386,1159,Follicle
+stroma,1395,1155,Immune-infiltrated stroma
+stroma,1417,1068,Follicle
+stroma,1422,964,Follicle
+stroma,1440,688,Follicle
+stroma,1433,1390,Vascularized smooth muscle
+stroma,1452,1097,Follicle
+stroma,1474,158,Follicle
+stroma,1475,1057,Follicle
+stroma,1494,166,Follicle
+stroma,1483,943,Follicle
+stroma,1575,116,Follicle
+stroma,1565,786,Immune-infiltrated stroma
+stroma,1590,812,Immune-infiltrated stroma
+stroma,1598,260,Follicle
+stroma,1596,751,Immune-infiltrated stroma
+stroma,1599,797,Immune-infiltrated stroma
+stroma,1623,23,T cell enriched
+stroma,1630,729,Follicle
+stroma,1659,37,Follicle
+stroma,1646,849,Follicle
+stroma,1655,703,Follicle
+stroma,1660,1099,Follicle
+stroma,1688,654,T cell enriched
+stroma,1712,429,Follicle
+stroma,1692,895,T cell enriched
+stroma,1724,735,T cell enriched
+stroma,1755,141,Follicle
+stroma,1762,1037,Follicle
+stroma,1785,244,Macrophage enriched
+stroma,1777,782,Follicle
+stroma,1796,654,Follicle
+stroma,1824,246,Macrophage enriched
+stroma,1831,585,Immune-infiltrated stroma
+stroma,1835,825,Follicle
+stroma,1836,561,Immune-infiltrated stroma
+stroma,1872,581,Immune-infiltrated stroma
+CD68+CD163+ macrophages,72,0,Immune-infiltrated stroma
+CD68+CD163+ macrophages,115,79,Macrophage enriched
+CD68+CD163+ macrophages,177,658,Immune-infiltrated stroma
+CD68+CD163+ macrophages,182,883,Immune-infiltrated stroma
+CD68+CD163+ macrophages,252,1036,Macrophage enriched
+CD68+CD163+ macrophages,259,1055,Macrophage enriched
+CD68+CD163+ macrophages,254,1103,Macrophage enriched
+CD68+CD163+ macrophages,273,1035,Macrophage enriched
+CD68+CD163+ macrophages,351,555,Immune-infiltrated stroma
+CD68+CD163+ macrophages,360,376,T cell enriched
+CD68+CD163+ macrophages,379,54,Immune-infiltrated stroma
+CD68+CD163+ macrophages,366,1147,T cell enriched
+CD68+CD163+ macrophages,390,930,T cell enriched
+CD68+CD163+ macrophages,401,1159,Macrophage enriched
+CD68+CD163+ macrophages,424,409,T cell enriched
+CD68+CD163+ macrophages,429,519,T cell enriched
+CD68+CD163+ macrophages,436,1128,Macrophage enriched
+CD68+CD163+ macrophages,454,530,T cell enriched
+CD68+CD163+ macrophages,454,940,T cell enriched
+CD68+CD163+ macrophages,465,916,T cell enriched
+CD68+CD163+ macrophages,456,1249,T cell enriched
+CD68+CD163+ macrophages,476,446,Immune-infiltrated stroma
+CD68+CD163+ macrophages,478,704,Follicle
+CD68+CD163+ macrophages,498,464,T cell enriched
+CD68+CD163+ macrophages,505,94,Macrophage enriched
+CD68+CD163+ macrophages,486,1149,Macrophage enriched
+CD68+CD163+ macrophages,479,1215,Macrophage enriched
+CD68+CD163+ macrophages,487,1114,Macrophage enriched
+CD68+CD163+ macrophages,501,1134,Follicle
+CD68+CD163+ macrophages,507,1183,Macrophage enriched
+CD68+CD163+ macrophages,528,192,Macrophage enriched
+CD68+CD163+ macrophages,527,1126,Macrophage enriched
+CD68+CD163+ macrophages,537,763,Follicle
+CD68+CD163+ macrophages,550,254,Macrophage enriched
+CD68+CD163+ macrophages,554,182,Macrophage enriched
+CD68+CD163+ macrophages,547,709,Follicle
+CD68+CD163+ macrophages,560,557,Follicle
+CD68+CD163+ macrophages,542,1187,Macrophage enriched
+CD68+CD163+ macrophages,557,609,Follicle
+CD68+CD163+ macrophages,561,386,Smooth muscle
+CD68+CD163+ macrophages,548,1202,Macrophage enriched
+CD68+CD163+ macrophages,539,1233,Macrophage enriched
+CD68+CD163+ macrophages,569,486,Follicle
+CD68+CD163+ macrophages,566,1254,Follicle
+CD68+CD163+ macrophages,584,235,Macrophage enriched
+CD68+CD163+ macrophages,555,1263,Macrophage enriched
+CD68+CD163+ macrophages,586,659,T cell enriched
+CD68+CD163+ macrophages,584,512,Follicle
+CD68+CD163+ macrophages,570,1226,Macrophage enriched
+CD68+CD163+ macrophages,569,1187,Macrophage enriched
+CD68+CD163+ macrophages,574,691,Macrophage enriched
+CD68+CD163+ macrophages,594,52,Vascularized smooth muscle
+CD68+CD163+ macrophages,590,487,T cell enriched
+CD68+CD163+ macrophages,589,1173,Macrophage enriched
+CD68+CD163+ macrophages,598,682,T cell enriched
+CD68+CD163+ macrophages,610,208,Macrophage enriched
+CD68+CD163+ macrophages,606,1353,Follicle
+CD68+CD163+ macrophages,612,613,T cell enriched
+CD68+CD163+ macrophages,632,635,Follicle
+CD68+CD163+ macrophages,643,625,Follicle
+CD68+CD163+ macrophages,651,560,Follicle
+CD68+CD163+ macrophages,676,199,Vascularized smooth muscle
+CD68+CD163+ macrophages,663,578,T cell enriched
+CD68+CD163+ macrophages,679,586,T cell enriched
+CD68+CD163+ macrophages,689,473,Follicle
+CD68+CD163+ macrophages,701,535,T cell enriched
+CD68+CD163+ macrophages,690,1190,Follicle
+CD68+CD163+ macrophages,717,58,T cell enriched
+CD68+CD163+ macrophages,724,1097,Follicle
+CD68+CD163+ macrophages,739,14,T cell enriched
+CD68+CD163+ macrophages,735,445,T cell enriched
+CD68+CD163+ macrophages,756,345,Smooth muscle
+CD68+CD163+ macrophages,756,1091,Follicle
+CD68+CD163+ macrophages,788,395,T cell enriched
+CD68+CD163+ macrophages,797,452,Follicle
+CD68+CD163+ macrophages,819,327,Vascularized smooth muscle
+CD68+CD163+ macrophages,817,376,Macrophage enriched
+CD68+CD163+ macrophages,813,1238,Follicle
+CD68+CD163+ macrophages,824,623,Follicle
+CD68+CD163+ macrophages,834,392,Macrophage enriched
+CD68+CD163+ macrophages,835,266,Vascularized smooth muscle
+CD68+CD163+ macrophages,821,1189,Follicle
+CD68+CD163+ macrophages,824,1233,Follicle
+CD68+CD163+ macrophages,848,350,Macrophage enriched
+CD68+CD163+ macrophages,851,406,Macrophage enriched
+CD68+CD163+ macrophages,860,391,Macrophage enriched
+CD68+CD163+ macrophages,851,1065,Follicle
+CD68+CD163+ macrophages,859,1183,Macrophage enriched
+CD68+CD163+ macrophages,858,1172,Follicle
+CD68+CD163+ macrophages,869,1173,Follicle
+CD68+CD163+ macrophages,870,1365,Follicle
+CD68+CD163+ macrophages,860,1400,Follicle
+CD68+CD163+ macrophages,897,155,Macrophage enriched
+CD68+CD163+ macrophages,901,140,Macrophage enriched
+CD68+CD163+ macrophages,900,298,T cell enriched
+CD68+CD163+ macrophages,890,1186,Macrophage enriched
+CD68+CD163+ macrophages,918,0,T cell enriched
+CD68+CD163+ macrophages,918,147,Macrophage enriched
+CD68+CD163+ macrophages,924,247,Follicle
+CD68+CD163+ macrophages,925,209,Macrophage enriched
+CD68+CD163+ macrophages,928,396,T cell enriched
+CD68+CD163+ macrophages,931,194,Macrophage enriched
+CD68+CD163+ macrophages,944,197,T cell enriched
+CD68+CD163+ macrophages,951,150,Macrophage enriched
+CD68+CD163+ macrophages,921,1411,Follicle
+CD68+CD163+ macrophages,935,1078,Follicle
+CD68+CD163+ macrophages,965,88,T cell enriched
+CD68+CD163+ macrophages,935,1438,Follicle
+CD68+CD163+ macrophages,991,98,T cell enriched
+CD68+CD163+ macrophages,994,1249,Follicle
+CD68+CD163+ macrophages,1018,168,T cell enriched
+CD68+CD163+ macrophages,1006,1400,Follicle
+CD68+CD163+ macrophages,1023,1437,Macrophage enriched
+CD68+CD163+ macrophages,1064,285,Follicle
+CD68+CD163+ macrophages,1062,309,Follicle
+CD68+CD163+ macrophages,1065,1230,Follicle
+CD68+CD163+ macrophages,1092,0,T cell enriched
+CD68+CD163+ macrophages,1085,169,T cell enriched
+CD68+CD163+ macrophages,1100,135,T cell enriched
+CD68+CD163+ macrophages,1068,1326,Follicle
+CD68+CD163+ macrophages,1087,1337,Follicle
+CD68+CD163+ macrophages,1078,1229,Follicle
+CD68+CD163+ macrophages,1109,205,T cell enriched
+CD68+CD163+ macrophages,1105,1435,Macrophage enriched
+CD68+CD163+ macrophages,1120,123,Macrophage enriched
+CD68+CD163+ macrophages,1129,206,T cell enriched
+CD68+CD163+ macrophages,1110,1411,Macrophage enriched
+CD68+CD163+ macrophages,1126,1367,Macrophage enriched
+CD68+CD163+ macrophages,1162,1160,Follicle
+CD68+CD163+ macrophages,1185,207,Macrophage enriched
+CD68+CD163+ macrophages,1160,1146,T cell enriched
+CD68+CD163+ macrophages,1186,176,Macrophage enriched
+CD68+CD163+ macrophages,1199,249,Follicle
+CD68+CD163+ macrophages,1202,160,Follicle
+CD68+CD163+ macrophages,1184,1126,Follicle
+CD68+CD163+ macrophages,1234,0,T cell enriched
+CD68+CD163+ macrophages,1218,1414,T cell enriched
+CD68+CD163+ macrophages,1240,1122,Follicle
+CD68+CD163+ macrophages,1273,1139,Follicle
+CD68+CD163+ macrophages,1286,306,Follicle
+CD68+CD163+ macrophages,1306,5,T cell enriched
+CD68+CD163+ macrophages,1286,1364,T cell enriched
+CD68+CD163+ macrophages,1295,1091,Follicle
+CD68+CD163+ macrophages,1298,1282,Follicle
+CD68+CD163+ macrophages,1319,1149,Follicle
+CD68+CD163+ macrophages,1316,1082,Follicle
+CD68+CD163+ macrophages,1325,1298,Macrophage enriched
+CD68+CD163+ macrophages,1330,1336,Macrophage enriched
+CD68+CD163+ macrophages,1356,195,Follicle
+CD68+CD163+ macrophages,1328,1311,Macrophage enriched
+CD68+CD163+ macrophages,1358,109,Macrophage enriched
+CD68+CD163+ macrophages,1354,1212,Follicle
+CD68+CD163+ macrophages,1373,140,Follicle
+CD68+CD163+ macrophages,1363,1282,Vascularized smooth muscle
+CD68+CD163+ macrophages,1389,106,Macrophage enriched
+CD68+CD163+ macrophages,1398,45,Immune-infiltrated stroma
+CD68+CD163+ macrophages,1412,101,Macrophage enriched
+CD68+CD163+ macrophages,1387,1083,Follicle
+CD68+CD163+ macrophages,1417,170,Follicle
+CD68+CD163+ macrophages,1407,919,Follicle
+CD68+CD163+ macrophages,1400,896,Follicle
+CD68+CD163+ macrophages,1409,1189,Immune-infiltrated stroma
+CD68+CD163+ macrophages,1446,82,Macrophage enriched
+CD68+CD163+ macrophages,1440,266,Follicle
+CD68+CD163+ macrophages,1451,67,Macrophage enriched
+CD68+CD163+ macrophages,1455,230,Follicle
+CD68+CD163+ macrophages,1439,1143,Follicle
+CD68+CD163+ macrophages,1464,60,Macrophage enriched
+CD68+CD163+ macrophages,1471,177,Follicle
+CD68+CD163+ macrophages,1476,64,Macrophage enriched
+CD68+CD163+ macrophages,1448,1314,Vascularized smooth muscle
+CD68+CD163+ macrophages,1469,1208,Macrophage enriched
+CD68+CD163+ macrophages,1475,1148,T cell enriched
+CD68+CD163+ macrophages,1481,1253,Macrophage enriched
+CD68+CD163+ macrophages,1495,1252,Macrophage enriched
+CD68+CD163+ macrophages,1541,93,Follicle
+CD68+CD163+ macrophages,1546,161,Follicle
+CD68+CD163+ macrophages,1548,1037,Follicle
+CD68+CD163+ macrophages,1536,1016,Follicle
+CD68+CD163+ macrophages,1565,169,Follicle
+CD68+CD163+ macrophages,1574,0,T cell enriched
+CD68+CD163+ macrophages,1583,1050,Follicle
+CD68+CD163+ macrophages,1580,1028,Follicle
+CD68+CD163+ macrophages,1608,169,Macrophage enriched
+CD68+CD163+ macrophages,1588,1097,T cell enriched
+CD68+CD163+ macrophages,1616,228,Follicle
+CD68+CD163+ macrophages,1632,183,Macrophage enriched
+CD68+CD163+ macrophages,1634,224,Follicle
+CD68+CD163+ macrophages,1623,1105,T cell enriched
+CD68+CD163+ macrophages,1640,615,Follicle
+CD68+CD163+ macrophages,1673,607,T cell enriched
+CD68+CD163+ macrophages,1670,861,Immune-infiltrated stroma
+CD68+CD163+ macrophages,1675,1152,Follicle
+CD68+CD163+ macrophages,1718,935,Follicle
+CD68+CD163+ macrophages,1737,163,Follicle
+CD68+CD163+ macrophages,1722,999,Follicle
+CD68+CD163+ macrophages,1750,250,T cell enriched
+CD68+CD163+ macrophages,1743,735,T cell enriched
+CD68+CD163+ macrophages,1763,194,Macrophage enriched
+CD68+CD163+ macrophages,1763,261,T cell enriched
+CD68+CD163+ macrophages,1748,830,Follicle
+CD68+CD163+ macrophages,1775,680,Follicle
+CD68+CD163+ macrophages,1792,895,Follicle
+CD68+CD163+ macrophages,1807,914,Follicle
+CD68+CD163+ macrophages,1814,740,Follicle
+CD68+CD163+ macrophages,1813,602,Follicle
+CD68+CD163+ macrophages,1812,760,Follicle
+CD68+CD163+ macrophages,1812,887,Follicle
+CD68+CD163+ macrophages,1802,893,Follicle
+CD68+CD163+ macrophages,1837,745,Follicle
+adipocytes,92,916,Immune-infiltrated stroma
+adipocytes,141,938,Immune-infiltrated stroma
+adipocytes,192,943,Immune-infiltrated stroma
+adipocytes,268,729,T cell enriched
+adipocytes,254,1139,T cell enriched
+adipocytes,276,815,T cell enriched
+adipocytes,289,537,Immune-infiltrated stroma
+adipocytes,300,1013,Immune-infiltrated stroma
+adipocytes,301,738,T cell enriched
+adipocytes,320,792,T cell enriched
+adipocytes,348,744,T cell enriched
+adipocytes,364,570,T cell enriched
+adipocytes,365,703,T cell enriched
+adipocytes,377,550,Macrophage enriched
+adipocytes,381,691,T cell enriched
+adipocytes,366,978,Immune-infiltrated stroma
+adipocytes,386,880,T cell enriched
+adipocytes,402,644,Follicle
+adipocytes,392,671,Follicle
+adipocytes,398,892,T cell enriched
+adipocytes,412,518,Macrophage enriched
+adipocytes,431,590,T cell enriched
+adipocytes,429,892,T cell enriched
+adipocytes,442,665,Follicle
+adipocytes,458,890,T cell enriched
+adipocytes,478,754,T cell enriched
+adipocytes,479,726,T cell enriched
+adipocytes,496,846,T cell enriched
+adipocytes,501,822,T cell enriched
+adipocytes,513,794,T cell enriched
+adipocytes,530,1055,Follicle
+adipocytes,564,1138,Macrophage enriched
+adipocytes,647,1047,Follicle
+adipocytes,734,925,Follicle
+adipocytes,765,1392,Follicle
+adipocytes,825,8,T cell enriched
+adipocytes,943,1119,Follicle
+adipocytes,1160,17,T cell enriched
+adipocytes,1154,1095,Follicle
+adipocytes,1173,86,T cell enriched
+adipocytes,1182,76,T cell enriched
+adipocytes,1198,69,T cell enriched
+adipocytes,1201,14,T cell enriched
+adipocytes,1223,59,T cell enriched
+adipocytes,1258,98,Follicle
+adipocytes,1273,82,T cell enriched
+adipocytes,1524,1232,Macrophage enriched
+adipocytes,1800,329,Follicle
+plasma cells,10,94,Immune-infiltrated stroma
+plasma cells,126,889,Immune-infiltrated stroma
+plasma cells,220,896,Immune-infiltrated stroma
+plasma cells,220,1100,Macrophage enriched
+plasma cells,238,1048,Macrophage enriched
+plasma cells,283,1143,T cell enriched
+plasma cells,314,752,T cell enriched
+plasma cells,460,595,T cell enriched
+plasma cells,457,1028,Follicle
+plasma cells,500,556,T cell enriched
+plasma cells,527,798,T cell enriched
+plasma cells,538,615,T cell enriched
+plasma cells,736,1292,Follicle
+plasma cells,787,888,Follicle
+plasma cells,819,422,T cell enriched
+plasma cells,839,446,Follicle
+plasma cells,842,132,Vascularized smooth muscle
+plasma cells,855,180,Vascularized smooth muscle
+plasma cells,893,1313,Follicle
+plasma cells,891,1296,Follicle
+plasma cells,942,95,Macrophage enriched
+plasma cells,942,319,T cell enriched
+plasma cells,963,51,Vascularized smooth muscle
+plasma cells,964,25,T cell enriched
+plasma cells,962,214,Follicle
+plasma cells,958,1072,Follicle
+plasma cells,955,1248,Follicle
+plasma cells,996,49,T cell enriched
+plasma cells,1019,41,T cell enriched
+plasma cells,1044,84,T cell enriched
+plasma cells,1048,110,T cell enriched
+plasma cells,1051,42,T cell enriched
+plasma cells,1059,0,T cell enriched
+plasma cells,1054,1189,Follicle
+plasma cells,1087,300,Follicle
+plasma cells,1087,390,Follicle
+plasma cells,1100,105,T cell enriched
+plasma cells,1090,1167,Follicle
+plasma cells,1089,1281,Immune-infiltrated stroma
+plasma cells,1129,153,Macrophage enriched
+plasma cells,1128,686,Follicle
+plasma cells,1156,156,T cell enriched
+plasma cells,1176,117,T cell enriched
+plasma cells,1182,1288,Follicle
+plasma cells,1262,644,Follicle
+plasma cells,1291,167,Follicle
+plasma cells,1367,1050,Follicle
+plasma cells,1468,123,Follicle
+plasma cells,1470,97,Macrophage enriched
+plasma cells,1485,114,T cell enriched
+plasma cells,1470,1184,T cell enriched
+plasma cells,1523,71,T cell enriched
+plasma cells,1566,1159,T cell enriched
+plasma cells,1578,1135,T cell enriched
+plasma cells,1618,1233,Follicle
+plasma cells,1657,1118,Follicle
+plasma cells,1668,803,Follicle
+plasma cells,1720,885,T cell enriched
+plasma cells,1758,934,Follicle
+plasma cells,1763,1011,Follicle
+CD8+ T cells,21,3,Immune-infiltrated stroma
+CD8+ T cells,322,274,Immune-infiltrated stroma
+CD8+ T cells,301,1124,T cell enriched
+CD8+ T cells,457,931,T cell enriched
+CD8+ T cells,491,707,Follicle
+CD8+ T cells,484,924,T cell enriched
+CD8+ T cells,501,446,Immune-infiltrated stroma
+CD8+ T cells,501,720,Follicle
+CD8+ T cells,517,1013,Follicle
+CD8+ T cells,530,556,Follicle
+CD8+ T cells,525,1245,Macrophage enriched
+CD8+ T cells,552,519,T cell enriched
+CD8+ T cells,547,804,Follicle
+CD8+ T cells,565,516,Macrophage enriched
+CD8+ T cells,567,639,T cell enriched
+CD8+ T cells,567,937,Follicle
+CD8+ T cells,581,746,Follicle
+CD8+ T cells,582,626,T cell enriched
+CD8+ T cells,578,723,Follicle
+CD8+ T cells,610,453,T cell enriched
+CD8+ T cells,601,517,Follicle
+CD8+ T cells,613,577,Follicle
+CD8+ T cells,618,649,Follicle
+CD8+ T cells,614,673,T cell enriched
+CD8+ T cells,622,728,Follicle
+CD8+ T cells,615,954,Follicle
+CD8+ T cells,639,436,Vascularized smooth muscle
+CD8+ T cells,626,807,Follicle
+CD8+ T cells,636,488,Follicle
+CD8+ T cells,643,974,Follicle
+CD8+ T cells,651,702,Follicle
+CD8+ T cells,660,675,Follicle
+CD8+ T cells,659,876,Follicle
+CD8+ T cells,670,630,Follicle
+CD8+ T cells,689,789,Follicle
+CD8+ T cells,699,571,T cell enriched
+CD8+ T cells,699,598,Follicle
+CD8+ T cells,690,1253,Follicle
+CD8+ T cells,695,907,Follicle
+CD8+ T cells,678,1141,Follicle
+CD8+ T cells,715,521,T cell enriched
+CD8+ T cells,712,902,Follicle
+CD8+ T cells,723,481,T cell enriched
+CD8+ T cells,727,720,Follicle
+CD8+ T cells,741,607,Follicle
+CD8+ T cells,745,679,Follicle
+CD8+ T cells,749,519,Follicle
+CD8+ T cells,751,564,Follicle
+CD8+ T cells,769,195,Vascularized smooth muscle
+CD8+ T cells,761,541,T cell enriched
+CD8+ T cells,763,431,T cell enriched
+CD8+ T cells,755,1321,Follicle
+CD8+ T cells,777,412,Vascularized smooth muscle
+CD8+ T cells,758,837,Follicle
+CD8+ T cells,760,759,Follicle
+CD8+ T cells,762,1172,Follicle
+CD8+ T cells,778,647,Follicle
+CD8+ T cells,792,18,T cell enriched
+CD8+ T cells,780,1013,Follicle
+CD8+ T cells,798,414,T cell enriched
+CD8+ T cells,800,522,Follicle
+CD8+ T cells,792,1062,Follicle
+CD8+ T cells,789,1244,Follicle
+CD8+ T cells,788,1120,Follicle
+CD8+ T cells,799,797,Follicle
+CD8+ T cells,811,715,Follicle
+CD8+ T cells,808,464,Follicle
+CD8+ T cells,817,1296,Follicle
+CD8+ T cells,853,436,Follicle
+CD8+ T cells,848,625,Follicle
+CD8+ T cells,849,1029,Follicle
+CD8+ T cells,859,518,Follicle
+CD8+ T cells,866,276,Vascularized smooth muscle
+CD8+ T cells,873,410,T cell enriched
+CD8+ T cells,866,1016,Follicle
+CD8+ T cells,867,671,Follicle
+CD8+ T cells,880,568,Follicle
+CD8+ T cells,898,314,T cell enriched
+CD8+ T cells,883,1150,Follicle
+CD8+ T cells,896,579,Follicle
+CD8+ T cells,874,1249,Follicle
+CD8+ T cells,892,986,Follicle
+CD8+ T cells,908,525,Follicle
+CD8+ T cells,915,441,Follicle
+CD8+ T cells,886,1327,Follicle
+CD8+ T cells,903,770,Follicle
+CD8+ T cells,905,995,Follicle
+CD8+ T cells,912,418,Follicle
+CD8+ T cells,916,600,Follicle
+CD8+ T cells,911,912,Follicle
+CD8+ T cells,927,788,Follicle
+CD8+ T cells,925,824,Follicle
+CD8+ T cells,941,409,Follicle
+CD8+ T cells,936,1102,Follicle
+CD8+ T cells,937,850,Follicle
+CD8+ T cells,947,863,Follicle
+CD8+ T cells,956,269,Follicle
+CD8+ T cells,946,978,Follicle
+CD8+ T cells,954,311,T cell enriched
+CD8+ T cells,943,1364,Follicle
+CD8+ T cells,970,262,Follicle
+CD8+ T cells,955,604,Follicle
+CD8+ T cells,965,891,Follicle
+CD8+ T cells,980,188,Follicle
+CD8+ T cells,969,969,Follicle
+CD8+ T cells,964,863,Follicle
+CD8+ T cells,988,1,T cell enriched
+CD8+ T cells,985,618,T cell enriched
+CD8+ T cells,983,1056,Follicle
+CD8+ T cells,995,115,Macrophage enriched
+CD8+ T cells,987,828,Follicle
+CD8+ T cells,980,852,Follicle
+CD8+ T cells,979,1034,Follicle
+CD8+ T cells,975,1215,Follicle
+CD8+ T cells,990,639,T cell enriched
+CD8+ T cells,977,1277,Follicle
+CD8+ T cells,991,851,Follicle
+CD8+ T cells,1005,258,Follicle
+CD8+ T cells,988,1007,Follicle
+CD8+ T cells,1011,196,Follicle
+CD8+ T cells,1000,623,T cell enriched
+CD8+ T cells,1000,656,Follicle
+CD8+ T cells,1000,1061,Follicle
+CD8+ T cells,1013,444,Follicle
+CD8+ T cells,1009,877,Follicle
+CD8+ T cells,998,998,Follicle
+CD8+ T cells,1013,562,Follicle
+CD8+ T cells,997,1277,Follicle
+CD8+ T cells,1026,125,T cell enriched
+CD8+ T cells,1021,387,Follicle
+CD8+ T cells,1005,902,Follicle
+CD8+ T cells,1012,840,Follicle
+CD8+ T cells,1022,687,Follicle
+CD8+ T cells,1036,52,T cell enriched
+CD8+ T cells,1005,1087,Follicle
+CD8+ T cells,1028,527,Follicle
+CD8+ T cells,1018,1018,T cell enriched
+CD8+ T cells,1035,474,Follicle
+CD8+ T cells,1030,871,Follicle
+CD8+ T cells,1030,1033,Follicle
+CD8+ T cells,1031,1069,Follicle
+CD8+ T cells,1035,731,Follicle
+CD8+ T cells,1037,978,Follicle
+CD8+ T cells,1047,685,T cell enriched
+CD8+ T cells,1058,249,Follicle
+CD8+ T cells,1063,171,Macrophage enriched
+CD8+ T cells,1050,463,Follicle
+CD8+ T cells,1059,612,Follicle
+CD8+ T cells,1051,1130,Follicle
+CD8+ T cells,1054,889,Follicle
+CD8+ T cells,1050,677,Follicle
+CD8+ T cells,1072,44,T cell enriched
+CD8+ T cells,1041,855,Follicle
+CD8+ T cells,1057,973,Follicle
+CD8+ T cells,1052,1014,T cell enriched
+CD8+ T cells,1077,135,Macrophage enriched
+CD8+ T cells,1070,825,Follicle
+CD8+ T cells,1066,661,Follicle
+CD8+ T cells,1089,30,T cell enriched
+CD8+ T cells,1078,509,Follicle
+CD8+ T cells,1090,422,Follicle
+CD8+ T cells,1072,880,Follicle
+CD8+ T cells,1090,651,Follicle
+CD8+ T cells,1089,539,Follicle
+CD8+ T cells,1097,581,Follicle
+CD8+ T cells,1095,473,Follicle
+CD8+ T cells,1100,546,Follicle
+CD8+ T cells,1102,801,Follicle
+CD8+ T cells,1109,271,Follicle
+CD8+ T cells,1101,729,Follicle
+CD8+ T cells,1117,500,Follicle
+CD8+ T cells,1102,1224,T cell enriched
+CD8+ T cells,1129,804,Follicle
+CD8+ T cells,1125,1157,Follicle
+CD8+ T cells,1126,935,Follicle
+CD8+ T cells,1135,847,Follicle
+CD8+ T cells,1138,365,Follicle
+CD8+ T cells,1144,184,Macrophage enriched
+CD8+ T cells,1136,833,Follicle
+CD8+ T cells,1154,344,T cell enriched
+CD8+ T cells,1143,876,Follicle
+CD8+ T cells,1137,1284,Immune-infiltrated stroma
+CD8+ T cells,1143,926,Follicle
+CD8+ T cells,1149,809,Follicle
+CD8+ T cells,1153,859,Follicle
+CD8+ T cells,1174,296,T cell enriched
+CD8+ T cells,1172,267,Follicle
+CD8+ T cells,1147,1219,Follicle
+CD8+ T cells,1177,868,T cell enriched
+CD8+ T cells,1167,804,Follicle
+CD8+ T cells,1188,854,Follicle
+CD8+ T cells,1194,409,Follicle
+CD8+ T cells,1185,738,Follicle
+CD8+ T cells,1202,145,Follicle
+CD8+ T cells,1202,882,T cell enriched
+CD8+ T cells,1197,962,Follicle
+CD8+ T cells,1198,935,Follicle
+CD8+ T cells,1207,782,Follicle
+CD8+ T cells,1204,855,T cell enriched
+CD8+ T cells,1220,370,Follicle
+CD8+ T cells,1210,975,Follicle
+CD8+ T cells,1205,1252,Follicle
+CD8+ T cells,1220,844,Follicle
+CD8+ T cells,1228,348,Follicle
+CD8+ T cells,1241,216,Follicle
+CD8+ T cells,1227,776,Follicle
+CD8+ T cells,1235,817,Follicle
+CD8+ T cells,1248,760,Follicle
+CD8+ T cells,1238,750,T cell enriched
+CD8+ T cells,1248,1042,Follicle
+CD8+ T cells,1262,212,Follicle
+CD8+ T cells,1247,1083,Follicle
+CD8+ T cells,1251,1018,Follicle
+CD8+ T cells,1257,890,Follicle
+CD8+ T cells,1261,834,Follicle
+CD8+ T cells,1253,1277,Follicle
+CD8+ T cells,1272,755,Follicle
+CD8+ T cells,1279,668,Follicle
+CD8+ T cells,1272,980,Follicle
+CD8+ T cells,1287,364,Follicle
+CD8+ T cells,1282,588,Follicle
+CD8+ T cells,1294,571,Follicle
+CD8+ T cells,1297,636,Follicle
+CD8+ T cells,1285,1112,Macrophage enriched
+CD8+ T cells,1303,551,Follicle
+CD8+ T cells,1315,161,Follicle
+CD8+ T cells,1319,0,T cell enriched
+CD8+ T cells,1306,749,Follicle
+CD8+ T cells,1299,667,Follicle
+CD8+ T cells,1319,448,Follicle
+CD8+ T cells,1314,855,Follicle
+CD8+ T cells,1321,334,Follicle
+CD8+ T cells,1299,875,Follicle
+CD8+ T cells,1314,993,Follicle
+CD8+ T cells,1319,791,Follicle
+CD8+ T cells,1324,295,Follicle
+CD8+ T cells,1319,1037,Follicle
+CD8+ T cells,1330,69,Immune-infiltrated stroma
+CD8+ T cells,1329,422,T cell enriched
+CD8+ T cells,1339,0,T cell enriched
+CD8+ T cells,1325,985,Follicle
+CD8+ T cells,1336,409,T cell enriched
+CD8+ T cells,1331,700,Follicle
+CD8+ T cells,1340,399,Follicle
+CD8+ T cells,1342,649,Follicle
+CD8+ T cells,1343,663,Follicle
+CD8+ T cells,1355,271,Follicle
+CD8+ T cells,1357,398,T cell enriched
+CD8+ T cells,1334,766,Follicle
+CD8+ T cells,1350,1080,Follicle
+CD8+ T cells,1353,795,Follicle
+CD8+ T cells,1362,432,Follicle
+CD8+ T cells,1359,1104,Follicle
+CD8+ T cells,1382,730,Follicle
+CD8+ T cells,1375,907,Follicle
+CD8+ T cells,1383,613,Follicle
+CD8+ T cells,1375,1013,Follicle
+CD8+ T cells,1401,184,Follicle
+CD8+ T cells,1390,704,T cell enriched
+CD8+ T cells,1390,1010,Follicle
+CD8+ T cells,1410,639,Follicle
+CD8+ T cells,1419,717,T cell enriched
+CD8+ T cells,1401,1028,Follicle
+CD8+ T cells,1392,909,Follicle
+CD8+ T cells,1435,16,Macrophage enriched
+CD8+ T cells,1424,758,Follicle
+CD8+ T cells,1436,425,Follicle
+CD8+ T cells,1433,574,Follicle
+CD8+ T cells,1429,590,Follicle
+CD8+ T cells,1437,789,Follicle
+CD8+ T cells,1429,850,Follicle
+CD8+ T cells,1432,1198,T cell enriched
+CD8+ T cells,1447,450,Follicle
+CD8+ T cells,1447,558,Follicle
+CD8+ T cells,1452,703,T cell enriched
+CD8+ T cells,1456,658,Follicle
+CD8+ T cells,1456,853,Follicle
+CD8+ T cells,1483,10,T cell enriched
+CD8+ T cells,1471,666,Follicle
+CD8+ T cells,1474,275,Follicle
+CD8+ T cells,1471,930,Follicle
+CD8+ T cells,1483,407,Follicle
+CD8+ T cells,1472,793,Follicle
+CD8+ T cells,1475,858,T cell enriched
+CD8+ T cells,1466,873,T cell enriched
+CD8+ T cells,1479,765,Follicle
+CD8+ T cells,1490,276,Follicle
+CD8+ T cells,1488,821,T cell enriched
+CD8+ T cells,1492,611,Follicle
+CD8+ T cells,1490,593,Follicle
+CD8+ T cells,1502,490,Follicle
+CD8+ T cells,1500,692,Follicle
+CD8+ T cells,1492,1021,T cell enriched
+CD8+ T cells,1492,1077,Follicle
+CD8+ T cells,1511,36,T cell enriched
+CD8+ T cells,1507,247,T cell enriched
+CD8+ T cells,1518,339,Follicle
+CD8+ T cells,1496,1158,Follicle
+CD8+ T cells,1493,1108,Follicle
+CD8+ T cells,1497,980,T cell enriched
+CD8+ T cells,1506,565,Follicle
+CD8+ T cells,1517,291,Follicle
+CD8+ T cells,1515,640,Follicle
+CD8+ T cells,1503,1030,Follicle
+CD8+ T cells,1529,37,T cell enriched
+CD8+ T cells,1522,258,Follicle
+CD8+ T cells,1520,532,Follicle
+CD8+ T cells,1510,1115,Follicle
+CD8+ T cells,1512,1015,Follicle
+CD8+ T cells,1528,513,Follicle
+CD8+ T cells,1532,599,Follicle
+CD8+ T cells,1522,736,Follicle
+CD8+ T cells,1531,956,Follicle
+CD8+ T cells,1548,978,Follicle
+CD8+ T cells,1556,410,Follicle
+CD8+ T cells,1558,343,Follicle
+CD8+ T cells,1554,643,Follicle
+CD8+ T cells,1573,75,Follicle
+CD8+ T cells,1573,260,Follicle
+CD8+ T cells,1568,706,Follicle
+CD8+ T cells,1569,463,Follicle
+CD8+ T cells,1574,918,Follicle
+CD8+ T cells,1589,241,T cell enriched
+CD8+ T cells,1582,589,Follicle
+CD8+ T cells,1595,490,Follicle
+CD8+ T cells,1580,965,Follicle
+CD8+ T cells,1585,943,Follicle
+CD8+ T cells,1591,1172,T cell enriched
+CD8+ T cells,1599,1140,T cell enriched
+CD8+ T cells,1602,1100,T cell enriched
+CD8+ T cells,1626,381,Follicle
+CD8+ T cells,1613,1073,T cell enriched
+CD8+ T cells,1614,797,T cell enriched
+CD8+ T cells,1615,708,Follicle
+CD8+ T cells,1616,1144,T cell enriched
+CD8+ T cells,1640,245,Follicle
+CD8+ T cells,1612,1175,Follicle
+CD8+ T cells,1628,825,Follicle
+CD8+ T cells,1648,205,T cell enriched
+CD8+ T cells,1644,667,Follicle
+CD8+ T cells,1654,594,Follicle
+CD8+ T cells,1631,987,Follicle
+CD8+ T cells,1661,268,Follicle
+CD8+ T cells,1659,415,Follicle
+CD8+ T cells,1662,150,Follicle
+CD8+ T cells,1648,1171,Follicle
+CD8+ T cells,1663,1039,Follicle
+CD8+ T cells,1682,198,Follicle
+CD8+ T cells,1669,586,Follicle
+CD8+ T cells,1659,837,Follicle
+CD8+ T cells,1674,715,Follicle
+CD8+ T cells,1685,786,T cell enriched
+CD8+ T cells,1685,934,Follicle
+CD8+ T cells,1686,1089,Follicle
+CD8+ T cells,1700,388,Follicle
+CD8+ T cells,1694,621,T cell enriched
+CD8+ T cells,1701,1091,Follicle
+CD8+ T cells,1707,928,Follicle
+CD8+ T cells,1730,253,Follicle
+CD8+ T cells,1724,544,Follicle
+CD8+ T cells,1739,290,Follicle
+CD8+ T cells,1709,1055,Follicle
+CD8+ T cells,1733,1014,Follicle
+CD8+ T cells,1738,835,Follicle
+CD8+ T cells,1726,689,Follicle
+CD8+ T cells,1752,736,Follicle
+CD8+ T cells,1747,543,Follicle
+CD8+ T cells,1763,404,Follicle
+CD8+ T cells,1770,387,Follicle
+CD8+ T cells,1761,639,Follicle
+CD8+ T cells,1772,770,Follicle
+CD8+ T cells,1781,265,T cell enriched
+CD8+ T cells,1792,571,Follicle
+CD8+ T cells,1793,519,Follicle
+CD8+ T cells,1800,717,Follicle
+CD8+ T cells,1812,674,Follicle
+CD8+ T cells,1813,673,Follicle
+CD8+ T cells,1855,757,Follicle
+CD8+ T cells,1850,711,Follicle
+dirt,774,173,Vascularized smooth muscle
+dirt,811,768,Follicle
+dirt,1153,1408,Macrophage enriched
+dirt,1364,1025,Follicle
+dirt,1648,372,Follicle
+Tregs,1235,881,Follicle
+CD4+ T cells,553,953,Follicle
+CD4+ T cells,626,683,T cell enriched
+CD4+ T cells,640,774,Follicle
+CD4+ T cells,863,1083,Follicle
+CD4+ T cells,1008,651,Follicle
+CD4+ T cells,1141,1376,T cell enriched
+CD4+ T cells,1439,722,T cell enriched
+CD4+ T cells,1520,855,T cell enriched
+CD4+ T cells,1537,374,Follicle
+CD4+ T cells,1610,489,Follicle
+CD11c+ DCs,1555,744,T cell enriched
+CD11c+ DCs,1584,717,T cell enriched
+B cells,291,279,Immune-infiltrated stroma
+B cells,269,1158,T cell enriched
+B cells,279,1111,T cell enriched
+B cells,354,1114,Follicle
+B cells,372,1103,Follicle
+B cells,385,946,T cell enriched
+B cells,398,1087,Follicle
+B cells,398,1112,Follicle
+B cells,412,658,Follicle
+B cells,414,1063,Follicle
+B cells,428,1061,Follicle
+B cells,432,656,Follicle
+B cells,452,485,Macrophage enriched
+B cells,452,618,Follicle
+B cells,444,1054,Follicle
+B cells,461,316,Immune-infiltrated stroma
+B cells,465,640,Follicle
+B cells,465,1088,Follicle
+B cells,479,545,T cell enriched
+B cells,471,987,Follicle
+B cells,475,654,Follicle
+B cells,474,610,T cell enriched
+B cells,491,662,Follicle
+B cells,491,1014,Follicle
+B cells,494,682,Follicle
+B cells,476,1265,T cell enriched
+B cells,492,978,Follicle
+B cells,507,527,Follicle
+B cells,500,1008,Follicle
+B cells,503,1163,Macrophage enriched
+B cells,507,739,T cell enriched
+B cells,504,1222,Macrophage enriched
+B cells,517,536,Follicle
+B cells,500,1262,Macrophage enriched
+B cells,514,635,Follicle
+B cells,513,997,Follicle
+B cells,502,946,Follicle
+B cells,517,927,Follicle
+B cells,517,945,Follicle
+B cells,511,685,Follicle
+B cells,519,1131,Macrophage enriched
+B cells,519,1169,Macrophage enriched
+B cells,527,1165,Macrophage enriched
+B cells,521,1265,Follicle
+B cells,530,449,Vascularized smooth muscle
+B cells,526,477,T cell enriched
+B cells,534,716,Follicle
+B cells,536,501,Follicle
+B cells,550,732,Follicle
+B cells,547,594,T cell enriched
+B cells,536,962,Follicle
+B cells,530,1030,Follicle
+B cells,558,543,T cell enriched
+B cells,556,683,Macrophage enriched
+B cells,561,708,Follicle
+B cells,553,1219,Macrophage enriched
+B cells,564,733,Follicle
+B cells,573,601,Follicle
+B cells,568,790,Follicle
+B cells,570,778,Follicle
+B cells,557,990,Follicle
+B cells,563,1282,Follicle
+B cells,576,794,Follicle
+B cells,584,774,Follicle
+B cells,585,557,Follicle
+B cells,588,887,Follicle
+B cells,595,545,Follicle
+B cells,587,461,Macrophage enriched
+B cells,580,961,Follicle
+B cells,589,1245,Follicle
+B cells,595,637,T cell enriched
+B cells,580,1309,Follicle
+B cells,591,750,Follicle
+B cells,602,554,Follicle
+B cells,597,579,Follicle
+B cells,595,859,Follicle
+B cells,600,838,Follicle
+B cells,611,496,Follicle
+B cells,606,810,Follicle
+B cells,597,794,Follicle
+B cells,598,1308,Follicle
+B cells,599,941,Follicle
+B cells,603,920,Follicle
+B cells,617,791,Follicle
+B cells,618,516,Follicle
+B cells,607,979,Follicle
+B cells,610,935,Follicle
+B cells,616,877,Follicle
+B cells,613,779,Follicle
+B cells,622,552,Follicle
+B cells,623,718,Follicle
+B cells,615,750,Follicle
+B cells,614,854,Follicle
+B cells,625,661,T cell enriched
+B cells,608,1283,Follicle
+B cells,625,867,Follicle
+B cells,615,1262,Follicle
+B cells,612,1301,Follicle
+B cells,632,850,Follicle
+B cells,646,584,Macrophage enriched
+B cells,647,518,Follicle
+B cells,642,634,Follicle
+B cells,640,895,Follicle
+B cells,643,817,Follicle
+B cells,629,1214,Follicle
+B cells,649,663,Follicle
+B cells,648,732,Follicle
+B cells,641,790,Follicle
+B cells,643,1212,Follicle
+B cells,652,716,Follicle
+B cells,644,997,Follicle
+B cells,637,751,Follicle
+B cells,654,854,Follicle
+B cells,667,481,Follicle
+B cells,651,763,Follicle
+B cells,653,911,Follicle
+B cells,652,884,Follicle
+B cells,652,944,Follicle
+B cells,652,1013,Follicle
+B cells,667,543,Macrophage enriched
+B cells,667,765,Follicle
+B cells,657,800,Follicle
+B cells,661,1163,Follicle
+B cells,659,983,Follicle
+B cells,657,1144,Follicle
+B cells,655,972,Follicle
+B cells,664,495,Follicle
+B cells,681,452,Immune-infiltrated stroma
+B cells,668,873,Follicle
+B cells,666,729,Follicle
+B cells,676,832,Follicle
+B cells,670,644,Follicle
+B cells,666,1006,Follicle
+B cells,665,966,Follicle
+B cells,662,1056,Follicle
+B cells,673,994,Follicle
+B cells,676,1033,Follicle
+B cells,675,785,Follicle
+B cells,664,843,Follicle
+B cells,681,953,Follicle
+B cells,677,713,Follicle
+B cells,680,934,Follicle
+B cells,662,1102,Follicle
+B cells,685,666,Follicle
+B cells,672,892,Follicle
+B cells,685,716,Follicle
+B cells,684,820,Follicle
+B cells,664,1078,Follicle
+B cells,691,865,Follicle
+B cells,692,982,Follicle
+B cells,693,744,Follicle
+B cells,687,1015,Follicle
+B cells,687,1040,Follicle
+B cells,690,1094,Follicle
+B cells,687,1329,Immune-infiltrated stroma
+B cells,701,799,Follicle
+B cells,699,1052,Follicle
+B cells,708,592,Follicle
+B cells,704,926,Follicle
+B cells,700,1267,Follicle
+B cells,710,749,Follicle
+B cells,704,952,Follicle
+B cells,697,1233,Follicle
+B cells,712,883,Follicle
+B cells,707,783,Follicle
+B cells,716,670,Follicle
+B cells,716,733,Follicle
+B cells,721,465,Immune-infiltrated stroma
+B cells,717,618,Follicle
+B cells,729,187,Vascularized smooth muscle
+B cells,702,1152,Follicle
+B cells,726,883,Follicle
+B cells,705,1229,Follicle
+B cells,716,952,Follicle
+B cells,723,543,T cell enriched
+B cells,730,582,Follicle
+B cells,742,119,T cell enriched
+B cells,732,602,Follicle
+B cells,725,1066,Follicle
+B cells,714,1009,Follicle
+B cells,731,826,Follicle
+B cells,723,695,Follicle
+B cells,721,900,Follicle
+B cells,732,954,Follicle
+B cells,740,543,Follicle
+B cells,745,583,Follicle
+B cells,727,980,Follicle
+B cells,732,1180,Follicle
+B cells,721,1408,Follicle
+B cells,735,1233,Follicle
+B cells,749,714,Follicle
+B cells,746,463,Follicle
+B cells,745,949,Follicle
+B cells,745,971,Follicle
+B cells,742,1174,Follicle
+B cells,740,1124,Follicle
+B cells,743,1030,Follicle
+B cells,755,784,Follicle
+B cells,765,456,Follicle
+B cells,759,999,Follicle
+B cells,765,661,Follicle
+B cells,764,778,Follicle
+B cells,754,692,Follicle
+B cells,769,502,Follicle
+B cells,754,891,Follicle
+B cells,767,687,Follicle
+B cells,762,971,Follicle
+B cells,758,930,Follicle
+B cells,766,598,Follicle
+B cells,782,625,Follicle
+B cells,781,489,Follicle
+B cells,759,1416,Follicle
+B cells,772,947,Follicle
+B cells,768,1236,Follicle
+B cells,781,1024,Follicle
+B cells,774,864,Follicle
+B cells,771,903,Follicle
+B cells,754,1191,Follicle
+B cells,778,750,Follicle
+B cells,781,1215,Follicle
+B cells,783,426,T cell enriched
+B cells,784,473,Follicle
+B cells,767,1271,Follicle
+B cells,766,1058,Follicle
+B cells,783,604,Follicle
+B cells,766,1107,Follicle
+B cells,773,883,Follicle
+B cells,801,122,T cell enriched
+B cells,783,778,Follicle
+B cells,784,810,Follicle
+B cells,774,1393,Follicle
+B cells,783,1000,Follicle
+B cells,803,378,Vascularized smooth muscle
+B cells,789,954,Follicle
+B cells,803,485,Follicle
+B cells,799,636,Follicle
+B cells,793,730,Follicle
+B cells,788,617,Follicle
+B cells,803,752,Follicle
+B cells,777,1409,Follicle
+B cells,793,818,Follicle
+B cells,787,1310,Follicle
+B cells,795,762,Follicle
+B cells,803,868,Follicle
+B cells,796,986,Follicle
+B cells,803,1107,Follicle
+B cells,800,937,Follicle
+B cells,788,1152,Follicle
+B cells,794,1109,Follicle
+B cells,809,540,T cell enriched
+B cells,800,1137,Follicle
+B cells,813,673,Follicle
+B cells,806,1018,Follicle
+B cells,804,1193,Follicle
+B cells,808,811,Follicle
+B cells,821,481,Follicle
+B cells,821,520,Follicle
+B cells,818,793,Follicle
+B cells,807,880,Follicle
+B cells,806,1425,Follicle
+B cells,816,991,Follicle
+B cells,816,1016,Follicle
+B cells,817,1147,Follicle
+B cells,824,458,Follicle
+B cells,814,746,Follicle
+B cells,813,1190,Follicle
+B cells,814,842,Follicle
+B cells,826,652,Follicle
+B cells,814,911,Follicle
+B cells,830,469,Follicle
+B cells,821,1006,Follicle
+B cells,810,1066,Follicle
+B cells,814,978,Follicle
+B cells,824,1091,Follicle
+B cells,823,1401,Follicle
+B cells,815,1017,Follicle
+B cells,815,1042,Follicle
+B cells,839,536,Follicle
+B cells,834,735,Follicle
+B cells,837,637,Follicle
+B cells,825,877,Follicle
+B cells,834,780,Follicle
+B cells,837,762,Follicle
+B cells,825,937,Follicle
+B cells,829,890,Follicle
+B cells,825,1066,Follicle
+B cells,843,587,T cell enriched
+B cells,845,716,Follicle
+B cells,845,1044,Follicle
+B cells,829,1141,Follicle
+B cells,850,524,Follicle
+B cells,852,479,Follicle
+B cells,836,1158,Follicle
+B cells,835,1013,Follicle
+B cells,849,636,Follicle
+B cells,844,1153,Follicle
+B cells,849,754,Follicle
+B cells,854,502,Follicle
+B cells,849,799,Follicle
+B cells,851,606,Follicle
+B cells,835,1380,Follicle
+B cells,842,692,Follicle
+B cells,853,703,Follicle
+B cells,842,857,Follicle
+B cells,855,836,Follicle
+B cells,846,1113,Follicle
+B cells,848,883,Follicle
+B cells,840,1207,Macrophage enriched
+B cells,852,1081,Follicle
+B cells,840,1286,T cell enriched
+B cells,862,545,Follicle
+B cells,861,597,Follicle
+B cells,854,941,Follicle
+B cells,861,799,Follicle
+B cells,857,822,Follicle
+B cells,869,638,Follicle
+B cells,869,700,Follicle
+B cells,867,466,Follicle
+B cells,858,1133,Follicle
+B cells,862,1204,Macrophage enriched
+B cells,867,764,Follicle
+B cells,860,914,Follicle
+B cells,872,832,Follicle
+B cells,878,437,Follicle
+B cells,856,1381,Follicle
+B cells,876,755,Follicle
+B cells,886,332,T cell enriched
+B cells,886,376,Macrophage enriched
+B cells,877,674,Follicle
+B cells,885,515,Follicle
+B cells,874,622,Follicle
+B cells,880,506,Follicle
+B cells,892,463,Follicle
+B cells,870,1139,Follicle
+B cells,885,679,Follicle
+B cells,870,1286,Follicle
+B cells,884,804,Follicle
+B cells,890,446,Follicle
+B cells,879,929,Follicle
+B cells,879,964,Follicle
+B cells,877,949,Follicle
+B cells,879,1070,Follicle
+B cells,885,745,Follicle
+B cells,880,821,Follicle
+B cells,902,101,Macrophage enriched
+B cells,878,1096,Follicle
+B cells,880,982,Follicle
+B cells,887,874,Follicle
+B cells,896,597,Follicle
+B cells,891,628,Follicle
+B cells,892,822,Follicle
+B cells,874,1263,Follicle
+B cells,890,1212,Follicle
+B cells,900,460,Follicle
+B cells,895,932,Follicle
+B cells,875,1438,Follicle
+B cells,908,240,Vascularized smooth muscle
+B cells,902,555,Follicle
+B cells,886,1002,T cell enriched
+B cells,896,1064,Follicle
+B cells,905,644,Follicle
+B cells,888,1363,Follicle
+B cells,897,663,Follicle
+B cells,919,76,Vascularized smooth muscle
+B cells,915,465,Follicle
+B cells,910,584,Follicle
+B cells,915,473,Follicle
+B cells,910,742,Follicle
+B cells,899,1332,Follicle
+B cells,914,663,Follicle
+B cells,917,624,Follicle
+B cells,902,1130,Follicle
+B cells,923,270,Follicle
+B cells,910,923,Follicle
+B cells,913,1137,Follicle
+B cells,910,1080,Follicle
+B cells,906,1229,Follicle
+B cells,906,1285,Follicle
+B cells,904,840,Follicle
+B cells,902,1260,Follicle
+B cells,917,898,Follicle
+B cells,928,436,Follicle
+B cells,901,1090,Follicle
+B cells,919,755,Follicle
+B cells,932,112,Macrophage enriched
+B cells,909,873,Follicle
+B cells,923,1068,Follicle
+B cells,905,1412,Follicle
+B cells,901,1152,Follicle
+B cells,921,651,Follicle
+B cells,935,458,Follicle
+B cells,929,582,Follicle
+B cells,909,1168,Follicle
+B cells,924,872,Follicle
+B cells,933,618,Follicle
+B cells,925,677,Follicle
+B cells,943,256,Follicle
+B cells,922,950,Follicle
+B cells,921,1100,Follicle
+B cells,930,777,Follicle
+B cells,932,561,Follicle
+B cells,929,768,Follicle
+B cells,933,831,Follicle
+B cells,932,649,Follicle
+B cells,933,911,Follicle
+B cells,929,938,Follicle
+B cells,918,1373,Follicle
+B cells,939,889,Follicle
+B cells,947,421,Follicle
+B cells,935,750,Follicle
+B cells,935,807,Follicle
+B cells,922,1267,Follicle
+B cells,947,511,Follicle
+B cells,949,449,Follicle
+B cells,932,1166,Follicle
+B cells,948,902,Follicle
+B cells,940,954,Follicle
+B cells,943,922,Follicle
+B cells,930,1144,Follicle
+B cells,945,776,Follicle
+B cells,957,396,Follicle
+B cells,943,1010,T cell enriched
+B cells,962,195,Macrophage enriched
+B cells,941,1185,Follicle
+B cells,951,643,Follicle
+B cells,961,300,Follicle
+B cells,945,1213,Follicle
+B cells,954,496,Follicle
+B cells,958,479,Follicle
+B cells,962,534,Follicle
+B cells,971,210,Follicle
+B cells,951,799,Follicle
+B cells,956,582,Follicle
+B cells,961,455,Follicle
+B cells,961,476,Follicle
+B cells,965,840,Follicle
+B cells,968,432,Follicle
+B cells,963,784,Follicle
+B cells,960,254,Follicle
+B cells,955,690,Follicle
+B cells,964,630,Follicle
+B cells,975,247,Follicle
+B cells,971,594,T cell enriched
+B cells,954,1095,Follicle
+B cells,958,820,Follicle
+B cells,975,407,Follicle
+B cells,973,502,Follicle
+B cells,965,1021,Follicle
+B cells,956,948,Follicle
+B cells,971,772,Follicle
+B cells,959,1240,Follicle
+B cells,963,1052,Follicle
+B cells,963,1267,Follicle
+B cells,954,1284,Follicle
+B cells,973,892,Follicle
+B cells,960,746,Follicle
+B cells,958,1175,Follicle
+B cells,974,788,Follicle
+B cells,955,1311,Follicle
+B cells,980,450,Follicle
+B cells,964,1051,Follicle
+B cells,964,1061,Follicle
+B cells,957,1140,Follicle
+B cells,957,1194,Follicle
+B cells,987,260,Follicle
+B cells,985,358,Follicle
+B cells,976,881,Follicle
+B cells,957,1346,Follicle
+B cells,977,866,Follicle
+B cells,987,463,Follicle
+B cells,968,1335,Follicle
+B cells,956,1365,Follicle
+B cells,986,480,Follicle
+B cells,979,811,Follicle
+B cells,979,831,Follicle
+B cells,991,506,Follicle
+B cells,974,1194,Follicle
+B cells,988,450,Follicle
+B cells,983,1371,Follicle
+B cells,980,1011,Follicle
+B cells,995,349,Follicle
+B cells,988,702,Follicle
+B cells,995,410,Follicle
+B cells,997,207,Follicle
+B cells,1001,279,Follicle
+B cells,996,457,Follicle
+B cells,984,748,Follicle
+B cells,998,375,Follicle
+B cells,975,1371,Follicle
+B cells,1009,238,Follicle
+B cells,985,1099,Follicle
+B cells,992,871,Follicle
+B cells,1010,141,T cell enriched
+B cells,989,768,Follicle
+B cells,984,876,Follicle
+B cells,989,892,Follicle
+B cells,984,973,Follicle
+B cells,989,938,Follicle
+B cells,1001,675,Follicle
+B cells,994,811,Follicle
+B cells,1012,216,Follicle
+B cells,1011,488,Follicle
+B cells,990,1177,Follicle
+B cells,994,1091,Follicle
+B cells,994,1156,Follicle
+B cells,994,1229,Follicle
+B cells,1003,1021,Follicle
+B cells,984,1113,Follicle
+B cells,1009,813,Follicle
+B cells,1004,953,Follicle
+B cells,995,1355,Follicle
+B cells,1014,467,Follicle
+B cells,1019,422,Follicle
+B cells,1010,791,Follicle
+B cells,1016,586,Follicle
+B cells,1019,617,Follicle
+B cells,989,1206,Follicle
+B cells,1011,1121,Follicle
+B cells,1011,1171,Follicle
+B cells,989,1340,Follicle
+B cells,1023,829,Follicle
+B cells,1022,721,Follicle
+B cells,1023,1052,Follicle
+B cells,1017,929,Follicle
+B cells,1029,311,Follicle
+B cells,1019,1217,Follicle
+B cells,1021,671,T cell enriched
+B cells,1027,635,Follicle
+B cells,1014,1274,Follicle
+B cells,1020,744,Follicle
+B cells,1034,394,Follicle
+B cells,1018,950,Follicle
+B cells,1021,735,Follicle
+B cells,1017,1075,Follicle
+B cells,1036,572,Follicle
+B cells,1024,860,Follicle
+B cells,1041,326,Follicle
+B cells,1033,666,Follicle
+B cells,1044,553,Follicle
+B cells,1032,414,Follicle
+B cells,1021,1106,Follicle
+B cells,1044,632,Follicle
+B cells,1033,920,Follicle
+B cells,1032,496,Follicle
+B cells,1038,894,Follicle
+B cells,1032,541,Follicle
+B cells,1025,1155,Follicle
+B cells,1040,589,Follicle
+B cells,1038,1001,T cell enriched
+B cells,1049,385,Follicle
+B cells,1032,711,Follicle
+B cells,1036,1273,Follicle
+B cells,1049,414,Follicle
+B cells,1020,1188,Follicle
+B cells,1059,330,Follicle
+B cells,1058,383,Follicle
+B cells,1047,873,Follicle
+B cells,1064,549,Follicle
+B cells,1054,530,Follicle
+B cells,1057,583,Follicle
+B cells,1046,834,Follicle
+B cells,1061,492,Follicle
+B cells,1066,103,T cell enriched
+B cells,1047,1219,Follicle
+B cells,1032,1081,Follicle
+B cells,1034,1226,Follicle
+B cells,1051,1063,Follicle
+B cells,1063,647,Follicle
+B cells,1043,1160,Follicle
+B cells,1067,376,Follicle
+B cells,1065,594,Follicle
+B cells,1068,237,Follicle
+B cells,1048,941,Follicle
+B cells,1061,937,Follicle
+B cells,1060,801,Follicle
+B cells,1059,760,Follicle
+B cells,1052,773,Follicle
+B cells,1061,1094,Follicle
+B cells,1070,215,T cell enriched
+B cells,1059,955,Follicle
+B cells,1068,631,Follicle
+B cells,1070,496,Follicle
+B cells,1070,524,Follicle
+B cells,1077,279,Follicle
+B cells,1060,1143,Follicle
+B cells,1070,805,Follicle
+B cells,1070,906,Follicle
+B cells,1079,340,Follicle
+B cells,1077,928,Follicle
+B cells,1090,261,Follicle
+B cells,1076,946,Follicle
+B cells,1077,1043,Follicle
+B cells,1087,371,Follicle
+B cells,1086,548,Follicle
+B cells,1081,466,Follicle
+B cells,1081,492,Follicle
+B cells,1066,1083,Follicle
+B cells,1086,833,Follicle
+B cells,1076,1121,Follicle
+B cells,1071,1212,Follicle
+B cells,1077,1193,Follicle
+B cells,1093,333,Follicle
+B cells,1079,765,Follicle
+B cells,1090,855,Follicle
+B cells,1081,625,Follicle
+B cells,1086,1149,Follicle
+B cells,1090,977,Follicle
+B cells,1094,277,Follicle
+B cells,1074,1281,Immune-infiltrated stroma
+B cells,1104,343,Follicle
+B cells,1078,1097,Follicle
+B cells,1081,1029,Follicle
+B cells,1104,377,Follicle
+B cells,1082,805,Follicle
+B cells,1102,407,Follicle
+B cells,1072,1349,Macrophage enriched
+B cells,1074,1304,T cell enriched
+B cells,1094,503,Follicle
+B cells,1103,444,Follicle
+B cells,1098,941,Follicle
+B cells,1098,969,Follicle
+B cells,1088,1141,Follicle
+B cells,1083,964,Follicle
+B cells,1091,779,Follicle
+B cells,1115,355,Follicle
+B cells,1103,793,Follicle
+B cells,1110,485,Follicle
+B cells,1095,871,Follicle
+B cells,1104,853,Follicle
+B cells,1080,1377,Macrophage enriched
+B cells,1104,887,Follicle
+B cells,1103,1153,Follicle
+B cells,1091,1212,Follicle
+B cells,1100,1102,Follicle
+B cells,1119,184,Macrophage enriched
+B cells,1108,595,Follicle
+B cells,1101,1183,Follicle
+B cells,1111,712,Follicle
+B cells,1111,764,Follicle
+B cells,1115,742,Follicle
+B cells,1104,1130,Follicle
+B cells,1125,450,Follicle
+B cells,1128,293,Follicle
+B cells,1109,604,Follicle
+B cells,1114,1093,Follicle
+B cells,1117,884,Follicle
+B cells,1118,645,Follicle
+B cells,1115,1028,Follicle
+B cells,1118,669,Follicle
+B cells,1123,347,Follicle
+B cells,1124,553,Follicle
+B cells,1127,598,Follicle
+B cells,1127,608,Follicle
+B cells,1131,503,Follicle
+B cells,1124,731,Follicle
+B cells,1134,260,Follicle
+B cells,1121,525,Follicle
+B cells,1138,332,Follicle
+B cells,1127,896,Follicle
+B cells,1143,290,Follicle
+B cells,1137,671,Follicle
+B cells,1137,786,Follicle
+B cells,1133,568,Follicle
+B cells,1130,1056,Follicle
+B cells,1120,967,Follicle
+B cells,1143,449,Follicle
+B cells,1128,1227,Follicle
+B cells,1121,844,Follicle
+B cells,1131,1267,Immune-infiltrated stroma
+B cells,1134,1096,Follicle
+B cells,1148,607,Follicle
+B cells,1154,426,Follicle
+B cells,1137,1177,Follicle
+B cells,1141,893,Follicle
+B cells,1152,705,Follicle
+B cells,1144,1034,Follicle
+B cells,1132,1193,Follicle
+B cells,1133,965,Follicle
+B cells,1128,1326,Immune-infiltrated stroma
+B cells,1148,734,Follicle
+B cells,1149,656,Follicle
+B cells,1152,1067,Follicle
+B cells,1147,790,Follicle
+B cells,1142,969,Follicle
+B cells,1142,998,Follicle
+B cells,1138,977,Follicle
+B cells,1157,510,Follicle
+B cells,1162,441,Follicle
+B cells,1148,1251,Follicle
+B cells,1155,587,Follicle
+B cells,1151,995,Follicle
+B cells,1153,1197,Follicle
+B cells,1161,492,Follicle
+B cells,1163,631,Follicle
+B cells,1164,848,Follicle
+B cells,1168,587,Follicle
+B cells,1162,692,Follicle
+B cells,1178,479,Follicle
+B cells,1178,502,Follicle
+B cells,1161,822,Follicle
+B cells,1178,556,Follicle
+B cells,1167,400,Follicle
+B cells,1167,467,Follicle
+B cells,1160,564,Follicle
+B cells,1162,1183,Follicle
+B cells,1165,736,Follicle
+B cells,1172,543,Follicle
+B cells,1184,138,T cell enriched
+B cells,1180,824,Follicle
+B cells,1170,953,Follicle
+B cells,1175,772,Follicle
+B cells,1188,622,Follicle
+B cells,1186,458,Follicle
+B cells,1182,988,Follicle
+B cells,1187,670,Follicle
+B cells,1187,701,Follicle
+B cells,1196,661,Follicle
+B cells,1197,446,Follicle
+B cells,1208,238,Follicle
+B cells,1198,681,Follicle
+B cells,1181,1168,Follicle
+B cells,1182,1195,Follicle
+B cells,1197,522,Follicle
+B cells,1188,1262,Follicle
+B cells,1185,1059,Follicle
+B cells,1202,838,Follicle
+B cells,1210,268,Follicle
+B cells,1199,537,Follicle
+B cells,1210,510,Follicle
+B cells,1205,203,Follicle
+B cells,1190,892,T cell enriched
+B cells,1217,159,Follicle
+B cells,1200,592,Follicle
+B cells,1190,991,Follicle
+B cells,1209,394,Follicle
+B cells,1195,1091,Follicle
+B cells,1199,1111,Follicle
+B cells,1196,1212,Follicle
+B cells,1197,1242,Follicle
+B cells,1205,610,Follicle
+B cells,1221,268,Follicle
+B cells,1217,582,Follicle
+B cells,1216,746,T cell enriched
+B cells,1216,760,Follicle
+B cells,1227,195,Follicle
+B cells,1219,314,Follicle
+B cells,1214,1188,Follicle
+B cells,1224,400,Follicle
+B cells,1218,830,Follicle
+B cells,1201,1197,Follicle
+B cells,1220,650,Follicle
+B cells,1192,1297,T cell enriched
+B cells,1230,527,Follicle
+B cells,1215,815,Follicle
+B cells,1232,112,Follicle
+B cells,1222,532,Follicle
+B cells,1210,1237,Follicle
+B cells,1222,675,Follicle
+B cells,1227,557,Follicle
+B cells,1242,127,Follicle
+B cells,1237,312,Follicle
+B cells,1222,912,Follicle
+B cells,1241,262,Follicle
+B cells,1239,434,Follicle
+B cells,1235,543,Follicle
+B cells,1222,1089,Follicle
+B cells,1241,511,Follicle
+B cells,1234,906,Follicle
+B cells,1248,246,T cell enriched
+B cells,1223,931,Follicle
+B cells,1243,404,Follicle
+B cells,1245,329,Follicle
+B cells,1247,202,Follicle
+B cells,1219,1112,Follicle
+B cells,1237,834,Follicle
+B cells,1225,966,Follicle
+B cells,1245,470,Follicle
+B cells,1225,1032,Follicle
+B cells,1245,550,Follicle
+B cells,1223,996,Follicle
+B cells,1234,1191,Follicle
+B cells,1243,631,Follicle
+B cells,1239,677,Follicle
+B cells,1228,1214,Follicle
+B cells,1246,660,Follicle
+B cells,1248,804,Follicle
+B cells,1248,851,Follicle
+B cells,1236,1057,Follicle
+B cells,1239,1015,T cell enriched
+B cells,1246,935,Follicle
+B cells,1258,340,Follicle
+B cells,1252,307,Follicle
+B cells,1258,376,Follicle
+B cells,1264,165,Follicle
+B cells,1247,875,Follicle
+B cells,1233,1241,Follicle
+B cells,1260,391,Follicle
+B cells,1246,1251,Follicle
+B cells,1244,1159,Follicle
+B cells,1270,138,Follicle
+B cells,1259,661,Follicle
+B cells,1273,151,Follicle
+B cells,1262,469,Follicle
+B cells,1272,214,Follicle
+B cells,1264,682,Follicle
+B cells,1271,493,Follicle
+B cells,1259,905,Follicle
+B cells,1259,955,Follicle
+B cells,1256,782,Follicle
+B cells,1254,1259,Follicle
+B cells,1259,1153,Follicle
+B cells,1275,339,Follicle
+B cells,1260,1206,Follicle
+B cells,1272,416,Follicle
+B cells,1266,517,Follicle
+B cells,1273,912,Follicle
+B cells,1281,380,Follicle
+B cells,1269,867,Follicle
+B cells,1267,809,Follicle
+B cells,1281,513,Follicle
+B cells,1270,940,Follicle
+B cells,1279,555,Follicle
+B cells,1274,793,Follicle
+B cells,1272,1069,Follicle
+B cells,1279,738,Follicle
+B cells,1266,797,Follicle
+B cells,1273,1184,Follicle
+B cells,1275,993,Follicle
+B cells,1276,891,Follicle
+B cells,1281,853,Follicle
+B cells,1280,477,Follicle
+B cells,1278,677,Follicle
+B cells,1290,186,Follicle
+B cells,1272,1296,Follicle
+B cells,1279,960,Follicle
+B cells,1286,403,Follicle
+B cells,1294,325,Follicle
+B cells,1271,1242,Follicle
+B cells,1304,133,Follicle
+B cells,1284,929,Follicle
+B cells,1298,256,Follicle
+B cells,1295,416,Follicle
+B cells,1298,492,Follicle
+B cells,1288,647,Follicle
+B cells,1298,622,Follicle
+B cells,1287,1195,Follicle
+B cells,1301,361,Follicle
+B cells,1307,202,Follicle
+B cells,1291,484,Follicle
+B cells,1297,893,Follicle
+B cells,1285,1078,Follicle
+B cells,1291,544,Follicle
+B cells,1306,238,Follicle
+B cells,1292,828,Follicle
+B cells,1295,709,Follicle
+B cells,1301,730,Follicle
+B cells,1303,376,Follicle
+B cells,1289,951,Follicle
+B cells,1303,507,Follicle
+B cells,1313,398,Follicle
+B cells,1306,602,Follicle
+B cells,1293,989,Follicle
+B cells,1312,463,Follicle
+B cells,1314,319,Follicle
+B cells,1292,1010,T cell enriched
+B cells,1316,187,Follicle
+B cells,1299,526,Follicle
+B cells,1318,537,Follicle
+B cells,1315,354,Follicle
+B cells,1310,637,Follicle
+B cells,1318,591,Follicle
+B cells,1306,1050,Follicle
+B cells,1320,489,Follicle
+B cells,1320,518,Follicle
+B cells,1316,217,Follicle
+B cells,1305,1163,Follicle
+B cells,1315,663,Follicle
+B cells,1312,726,Follicle
+B cells,1293,1246,Follicle
+B cells,1299,1181,Follicle
+B cells,1313,1195,Follicle
+B cells,1323,475,Follicle
+B cells,1329,238,Follicle
+B cells,1331,150,Follicle
+B cells,1315,923,Follicle
+B cells,1323,765,Follicle
+B cells,1314,1211,Follicle
+B cells,1319,1133,Follicle
+B cells,1326,622,Follicle
+B cells,1334,324,Follicle
+B cells,1346,223,Follicle
+B cells,1335,254,Follicle
+B cells,1320,1178,Follicle
+B cells,1332,349,Follicle
+B cells,1336,499,Follicle
+B cells,1331,586,Follicle
+B cells,1344,512,Follicle
+B cells,1346,366,Follicle
+B cells,1344,622,Follicle
+B cells,1329,868,Follicle
+B cells,1327,944,Follicle
+B cells,1346,423,T cell enriched
+B cells,1347,151,Follicle
+B cells,1318,1379,Macrophage enriched
+B cells,1335,529,Follicle
+B cells,1348,328,Follicle
+B cells,1340,484,Follicle
+B cells,1333,555,Follicle
+B cells,1333,677,T cell enriched
+B cells,1349,443,Follicle
+B cells,1355,237,Follicle
+B cells,1337,821,Follicle
+B cells,1337,913,Follicle
+B cells,1355,250,Follicle
+B cells,1341,379,Follicle
+B cells,1328,1049,Follicle
+B cells,1354,729,Follicle
+B cells,1328,1078,Follicle
+B cells,1357,376,Follicle
+B cells,1351,536,Follicle
+B cells,1334,830,Follicle
+B cells,1328,1170,Follicle
+B cells,1344,1334,Macrophage enriched
+B cells,1361,90,Macrophage enriched
+B cells,1332,1096,Follicle
+B cells,1361,454,Follicle
+B cells,1363,167,Follicle
+B cells,1348,1156,Follicle
+B cells,1355,777,Follicle
+B cells,1343,972,Follicle
+B cells,1349,1036,Follicle
+B cells,1363,466,Follicle
+B cells,1347,1173,Follicle
+B cells,1350,1136,Follicle
+B cells,1367,236,Follicle
+B cells,1357,1319,Macrophage enriched
+B cells,1355,885,Follicle
+B cells,1353,815,Follicle
+B cells,1360,574,Follicle
+B cells,1352,1005,Follicle
+B cells,1368,519,Follicle
+B cells,1364,623,Follicle
+B cells,1368,560,Follicle
+B cells,1359,657,Follicle
+B cells,1364,713,Follicle
+B cells,1359,751,Follicle
+B cells,1368,872,Follicle
+B cells,1383,173,Follicle
+B cells,1376,768,Follicle
+B cells,1366,1146,Follicle
+B cells,1360,858,Follicle
+B cells,1374,290,Follicle
+B cells,1384,315,Follicle
+B cells,1372,813,Follicle
+B cells,1377,639,Follicle
+B cells,1360,910,Follicle
+B cells,1386,261,Follicle
+B cells,1379,959,Follicle
+B cells,1387,335,Follicle
+B cells,1380,470,Follicle
+B cells,1389,182,Follicle
+B cells,1387,434,Follicle
+B cells,1383,540,Follicle
+B cells,1382,994,Follicle
+B cells,1379,1204,Immune-infiltrated stroma
+B cells,1394,468,Follicle
+B cells,1384,1038,Follicle
+B cells,1391,622,Follicle
+B cells,1397,487,Follicle
+B cells,1402,149,Follicle
+B cells,1390,578,Follicle
+B cells,1385,812,Follicle
+B cells,1395,349,Follicle
+B cells,1396,589,Follicle
+B cells,1391,760,Follicle
+B cells,1405,388,Follicle
+B cells,1404,252,Follicle
+B cells,1405,410,Follicle
+B cells,1404,289,Follicle
+B cells,1390,785,Follicle
+B cells,1399,1096,Follicle
+B cells,1380,1334,Vascularized smooth muscle
+B cells,1398,457,Follicle
+B cells,1407,309,Follicle
+B cells,1404,668,Follicle
+B cells,1412,559,Follicle
+B cells,1402,619,Follicle
+B cells,1414,269,Follicle
+B cells,1411,473,Follicle
+B cells,1408,367,Follicle
+B cells,1412,824,Follicle
+B cells,1407,767,Follicle
+B cells,1417,455,Follicle
+B cells,1414,423,Follicle
+B cells,1398,940,Follicle
+B cells,1416,410,Follicle
+B cells,1414,606,Follicle
+B cells,1400,956,Follicle
+B cells,1396,1057,Follicle
+B cells,1408,547,Follicle
+B cells,1400,1076,Follicle
+B cells,1424,438,Follicle
+B cells,1401,1142,Follicle
+B cells,1419,799,Follicle
+B cells,1418,530,Follicle
+B cells,1416,771,Follicle
+B cells,1428,76,Macrophage enriched
+B cells,1423,345,Follicle
+B cells,1438,129,Follicle
+B cells,1417,1102,Follicle
+B cells,1416,1040,Follicle
+B cells,1427,524,Follicle
+B cells,1426,555,Follicle
+B cells,1432,152,Follicle
+B cells,1433,329,Follicle
+B cells,1425,665,Follicle
+B cells,1441,249,Follicle
+B cells,1425,866,Follicle
+B cells,1441,406,Follicle
+B cells,1441,518,Follicle
+B cells,1431,616,Follicle
+B cells,1447,186,Follicle
+B cells,1448,308,Follicle
+B cells,1452,124,Follicle
+B cells,1442,647,Follicle
+B cells,1430,818,Follicle
+B cells,1455,251,Follicle
+B cells,1429,938,Follicle
+B cells,1429,1026,T cell enriched
+B cells,1451,298,Follicle
+B cells,1438,773,Follicle
+B cells,1452,399,Follicle
+B cells,1452,599,Follicle
+B cells,1444,669,Follicle
+B cells,1452,718,T cell enriched
+B cells,1456,332,Follicle
+B cells,1453,615,Follicle
+B cells,1458,145,Follicle
+B cells,1443,808,Follicle
+B cells,1456,486,Follicle
+B cells,1440,750,Follicle
+B cells,1461,219,Follicle
+B cells,1440,827,Follicle
+B cells,1458,530,Follicle
+B cells,1455,677,Follicle
+B cells,1449,762,Follicle
+B cells,1458,814,Follicle
+B cells,1456,741,Follicle
+B cells,1455,779,Follicle
+B cells,1458,938,Follicle
+B cells,1460,478,Follicle
+B cells,1444,1171,Macrophage enriched
+B cells,1469,389,Follicle
+B cells,1449,898,Follicle
+B cells,1461,631,Follicle
+B cells,1460,889,T cell enriched
+B cells,1473,475,Follicle
+B cells,1476,331,Follicle
+B cells,1477,312,Follicle
+B cells,1471,618,Follicle
+B cells,1475,546,Follicle
+B cells,1483,290,Follicle
+B cells,1484,241,Follicle
+B cells,1470,562,Follicle
+B cells,1466,760,Follicle
+B cells,1465,1128,T cell enriched
+B cells,1487,632,Follicle
+B cells,1488,540,Follicle
+B cells,1492,399,Follicle
+B cells,1490,314,Follicle
+B cells,1486,735,Follicle
+B cells,1495,373,Follicle
+B cells,1495,456,Follicle
+B cells,1481,1132,T cell enriched
+B cells,1493,576,Follicle
+B cells,1501,217,Follicle
+B cells,1491,702,Follicle
+B cells,1487,1092,Follicle
+B cells,1490,655,Follicle
+B cells,1504,413,Follicle
+B cells,1497,674,Follicle
+B cells,1501,334,Follicle
+B cells,1488,1222,Macrophage enriched
+B cells,1507,176,Follicle
+B cells,1504,643,Follicle
+B cells,1496,798,Follicle
+B cells,1514,199,Follicle
+B cells,1504,715,Follicle
+B cells,1502,765,Follicle
+B cells,1507,542,Follicle
+B cells,1520,138,Follicle
+B cells,1510,399,Follicle
+B cells,1511,446,Follicle
+B cells,1499,1055,Follicle
+B cells,1514,426,Follicle
+B cells,1515,384,Follicle
+B cells,1502,912,Follicle
+B cells,1519,186,Follicle
+B cells,1504,938,Follicle
+B cells,1519,276,Follicle
+B cells,1526,158,Follicle
+B cells,1524,467,Follicle
+B cells,1511,749,Follicle
+B cells,1494,925,Follicle
+B cells,1512,624,Follicle
+B cells,1519,412,Follicle
+B cells,1514,938,Follicle
+B cells,1524,485,Follicle
+B cells,1519,686,Follicle
+B cells,1510,1039,Follicle
+B cells,1520,669,Follicle
+B cells,1510,1198,T cell enriched
+B cells,1531,629,Follicle
+B cells,1527,708,Follicle
+B cells,1529,183,Follicle
+B cells,1513,1065,Follicle
+B cells,1541,112,Follicle
+B cells,1531,766,Follicle
+B cells,1516,908,Follicle
+B cells,1525,794,Follicle
+B cells,1538,192,Follicle
+B cells,1516,983,T cell enriched
+B cells,1541,424,Follicle
+B cells,1530,318,Follicle
+B cells,1540,356,Follicle
+B cells,1533,301,Follicle
+B cells,1525,1043,Follicle
+B cells,1534,545,Follicle
+B cells,1535,716,Follicle
+B cells,1547,145,Follicle
+B cells,1526,843,T cell enriched
+B cells,1548,210,Follicle
+B cells,1539,442,Follicle
+B cells,1547,487,Follicle
+B cells,1532,996,Follicle
+B cells,1536,668,Follicle
+B cells,1540,616,Follicle
+B cells,1550,329,Follicle
+B cells,1546,521,Follicle
+B cells,1548,583,Follicle
+B cells,1552,189,Follicle
+B cells,1547,958,Follicle
+B cells,1538,902,Follicle
+B cells,1555,75,T cell enriched
+B cells,1548,1066,Follicle
+B cells,1545,638,Follicle
+B cells,1563,124,Follicle
+B cells,1545,689,Follicle
+B cells,1545,779,Follicle
+B cells,1562,422,Follicle
+B cells,1551,662,Follicle
+B cells,1538,1112,T cell enriched
+B cells,1540,1140,T cell enriched
+B cells,1562,660,Follicle
+B cells,1557,311,Follicle
+B cells,1545,931,Follicle
+B cells,1567,364,Follicle
+B cells,1561,509,Follicle
+B cells,1568,572,Follicle
+B cells,1572,303,Follicle
+B cells,1572,353,Follicle
+B cells,1563,1012,Follicle
+B cells,1566,912,Follicle
+B cells,1561,942,Follicle
+B cells,1569,623,Follicle
+B cells,1575,531,Follicle
+B cells,1571,689,Follicle
+B cells,1569,981,Follicle
+B cells,1587,275,Follicle
+B cells,1585,394,Follicle
+B cells,1591,323,Follicle
+B cells,1581,473,Follicle
+B cells,1582,431,Follicle
+B cells,1600,29,T cell enriched
+B cells,1588,669,Follicle
+B cells,1577,1075,T cell enriched
+B cells,1584,453,Follicle
+B cells,1592,548,Follicle
+B cells,1599,225,T cell enriched
+B cells,1598,471,Follicle
+B cells,1599,421,Follicle
+B cells,1599,456,Follicle
+B cells,1601,435,Follicle
+B cells,1579,899,Follicle
+B cells,1602,585,Follicle
+B cells,1598,537,Follicle
+B cells,1597,848,Follicle
+B cells,1606,310,Follicle
+B cells,1594,646,Follicle
+B cells,1594,709,Follicle
+B cells,1592,924,Follicle
+B cells,1614,96,Follicle
+B cells,1603,521,Follicle
+B cells,1587,878,Follicle
+B cells,1587,989,Follicle
+B cells,1614,471,Follicle
+B cells,1615,263,Follicle
+B cells,1605,1122,T cell enriched
+B cells,1594,1038,Follicle
+B cells,1600,1025,Follicle
+B cells,1594,1186,Follicle
+B cells,1610,398,Follicle
+B cells,1613,617,Follicle
+B cells,1617,590,Follicle
+B cells,1623,297,Follicle
+B cells,1626,509,Follicle
+B cells,1620,642,Follicle
+B cells,1609,1196,Follicle
+B cells,1627,431,Follicle
+B cells,1624,837,Follicle
+B cells,1610,659,Follicle
+B cells,1615,682,Follicle
+B cells,1638,284,Follicle
+B cells,1610,839,Follicle
+B cells,1636,451,Follicle
+B cells,1624,933,Follicle
+B cells,1630,597,Follicle
+B cells,1622,809,Follicle
+B cells,1640,124,Follicle
+B cells,1640,151,Follicle
+B cells,1628,581,Follicle
+B cells,1619,1021,Follicle
+B cells,1640,338,Follicle
+B cells,1641,684,Follicle
+B cells,1636,1016,Follicle
+B cells,1632,1132,Follicle
+B cells,1630,1165,Follicle
+B cells,1632,1186,Follicle
+B cells,1631,500,Follicle
+B cells,1642,810,Follicle
+B cells,1649,497,Follicle
+B cells,1649,575,Follicle
+B cells,1648,438,Follicle
+B cells,1656,245,Follicle
+B cells,1643,560,Follicle
+B cells,1634,1239,Follicle
+B cells,1658,226,Follicle
+B cells,1631,700,Follicle
+B cells,1628,1258,Follicle
+B cells,1631,886,Follicle
+B cells,1651,728,Follicle
+B cells,1657,338,Follicle
+B cells,1657,353,Follicle
+B cells,1646,900,Follicle
+B cells,1643,916,Follicle
+B cells,1654,759,Follicle
+B cells,1651,876,Follicle
+B cells,1658,627,T cell enriched
+B cells,1655,558,Follicle
+B cells,1662,195,Follicle
+B cells,1654,919,Follicle
+B cells,1660,286,Follicle
+B cells,1645,1061,Follicle
+B cells,1657,464,Follicle
+B cells,1655,1017,Follicle
+B cells,1663,901,Follicle
+B cells,1673,299,Follicle
+B cells,1668,365,Follicle
+B cells,1649,1190,Follicle
+B cells,1660,951,Follicle
+B cells,1673,429,Follicle
+B cells,1670,487,Follicle
+B cells,1667,532,Follicle
+B cells,1674,457,Follicle
+B cells,1681,381,Follicle
+B cells,1666,573,Follicle
+B cells,1685,303,Follicle
+B cells,1684,225,Follicle
+B cells,1657,1107,Follicle
+B cells,1684,323,Follicle
+B cells,1680,410,Follicle
+B cells,1685,474,Follicle
+B cells,1679,243,Follicle
+B cells,1680,502,Follicle
+B cells,1666,683,Follicle
+B cells,1674,767,Follicle
+B cells,1667,781,Follicle
+B cells,1683,443,Follicle
+B cells,1685,686,Follicle
+B cells,1678,694,Follicle
+B cells,1677,839,T cell enriched
+B cells,1673,1191,Follicle
+B cells,1678,1125,Follicle
+B cells,1692,261,Follicle
+B cells,1677,1068,T cell enriched
+B cells,1695,173,Follicle
+B cells,1697,359,Follicle
+B cells,1696,511,Follicle
+B cells,1699,278,Follicle
+B cells,1702,322,Follicle
+B cells,1697,436,Follicle
+B cells,1711,184,Follicle
+B cells,1698,713,Follicle
+B cells,1705,398,Follicle
+B cells,1712,464,Follicle
+B cells,1712,501,Follicle
+B cells,1708,233,Follicle
+B cells,1702,689,Follicle
+B cells,1690,1012,Follicle
+B cells,1716,203,Follicle
+B cells,1697,1143,Follicle
+B cells,1693,1110,Follicle
+B cells,1710,556,Follicle
+B cells,1721,507,Follicle
+B cells,1700,1157,Follicle
+B cells,1710,1072,Follicle
+B cells,1708,1109,Follicle
+B cells,1725,282,Follicle
+B cells,1732,304,Follicle
+B cells,1724,379,Follicle
+B cells,1710,1100,Follicle
+B cells,1727,361,Follicle
+B cells,1726,240,Follicle
+B cells,1727,473,Follicle
+B cells,1719,906,T cell enriched
+B cells,1722,969,T cell enriched
+B cells,1722,1121,Follicle
+B cells,1739,692,Follicle
+B cells,1719,1041,Follicle
+B cells,1719,1075,Follicle
+B cells,1731,513,Follicle
+B cells,1743,273,Follicle
+B cells,1745,318,Follicle
+B cells,1731,676,Follicle
+B cells,1728,857,T cell enriched
+B cells,1745,651,Follicle
+B cells,1738,989,Follicle
+B cells,1746,430,Follicle
+B cells,1747,455,Follicle
+B cells,1743,508,Follicle
+B cells,1727,1028,Follicle
+B cells,1753,340,Follicle
+B cells,1743,751,T cell enriched
+B cells,1760,350,Follicle
+B cells,1742,965,Follicle
+B cells,1760,416,Follicle
+B cells,1753,579,Follicle
+B cells,1758,681,Follicle
+B cells,1746,807,T cell enriched
+B cells,1763,432,Follicle
+B cells,1768,420,Follicle
+B cells,1767,496,Follicle
+B cells,1747,906,Follicle
+B cells,1766,546,Follicle
+B cells,1771,405,Follicle
+B cells,1764,663,Follicle
+B cells,1774,368,Follicle
+B cells,1763,1045,Follicle
+B cells,1776,449,Follicle
+B cells,1773,746,Follicle
+B cells,1771,812,Follicle
+B cells,1784,478,Follicle
+B cells,1784,541,Follicle
+B cells,1771,994,Follicle
+B cells,1782,347,Follicle
+B cells,1769,849,Follicle
+B cells,1781,654,Follicle
+B cells,1788,603,Follicle
+B cells,1782,622,Follicle
+B cells,1793,509,Follicle
+B cells,1797,459,Follicle
+B cells,1800,405,Follicle
+B cells,1801,391,Follicle
+B cells,1794,474,Follicle
+B cells,1781,1024,Follicle
+B cells,1795,970,Follicle
+B cells,1789,872,Follicle
+B cells,1807,375,Follicle
+B cells,1794,739,Follicle
+B cells,1794,775,Follicle
+B cells,1800,687,Follicle
+B cells,1799,830,Follicle
+B cells,1796,947,Follicle
+B cells,1801,939,Follicle
+B cells,1810,497,Follicle
+B cells,1816,459,Follicle
+B cells,1811,801,Follicle
+B cells,1809,633,Follicle
+B cells,1823,395,Follicle
+B cells,1822,416,Follicle
+B cells,1821,530,Follicle
+B cells,1815,653,Follicle
+B cells,1821,723,Follicle
+B cells,1815,857,Follicle
+B cells,1830,642,Follicle
+B cells,1830,679,Follicle
+B cells,1830,808,Follicle
+B cells,1834,501,Follicle
+B cells,1832,723,Follicle
+B cells,1847,490,Follicle
+B cells,1860,261,Macrophage enriched
+B cells,1839,786,Follicle
+B cells,1853,739,Follicle
+CD11b+CD68+ macrophages,1083,1257,T cell enriched
+smooth muscle,178,924,Immune-infiltrated stroma
+smooth muscle,379,347,Immune-infiltrated stroma
+smooth muscle,466,972,Follicle
+smooth muscle,468,1187,Macrophage enriched
+smooth muscle,476,1315,T cell enriched
+smooth muscle,518,360,Vascularized smooth muscle
+smooth muscle,528,401,Vascularized smooth muscle
+smooth muscle,535,325,Smooth muscle
+smooth muscle,551,413,Vascularized smooth muscle
+smooth muscle,542,1311,Follicle
+smooth muscle,562,440,Vascularized smooth muscle
+smooth muscle,596,353,Vascularized smooth muscle
+smooth muscle,597,296,Vascularized smooth muscle
+smooth muscle,598,413,Vascularized smooth muscle
+smooth muscle,614,391,Vascularized smooth muscle
+smooth muscle,629,421,Vascularized smooth muscle
+smooth muscle,652,259,Vascularized smooth muscle
+smooth muscle,654,393,Vascularized smooth muscle
+smooth muscle,663,252,Vascularized smooth muscle
+smooth muscle,677,27,T cell enriched
+smooth muscle,692,16,T cell enriched
+smooth muscle,698,334,Vascularized smooth muscle
+smooth muscle,701,397,Vascularized smooth muscle
+smooth muscle,708,331,Smooth muscle
+smooth muscle,716,246,Vascularized smooth muscle
+smooth muscle,711,355,Smooth muscle
+smooth muscle,732,354,Smooth muscle
+smooth muscle,732,664,Follicle
+smooth muscle,740,321,Vascularized smooth muscle
+smooth muscle,749,248,Vascularized smooth muscle
+smooth muscle,749,303,Smooth muscle
+smooth muscle,750,315,Smooth muscle
+smooth muscle,747,387,Vascularized smooth muscle
+smooth muscle,775,371,Vascularized smooth muscle
+smooth muscle,784,219,Vascularized smooth muscle
+smooth muscle,785,282,Smooth muscle
+smooth muscle,793,288,Smooth muscle
+smooth muscle,795,189,Vascularized smooth muscle
+smooth muscle,793,323,Smooth muscle
+smooth muscle,802,283,Smooth muscle
+smooth muscle,815,347,Vascularized smooth muscle
+smooth muscle,845,258,Vascularized smooth muscle
+smooth muscle,865,200,Vascularized smooth muscle
+smooth muscle,883,284,Vascularized smooth muscle
+smooth muscle,892,239,Vascularized smooth muscle
+smooth muscle,925,168,Macrophage enriched
+smooth muscle,933,9,T cell enriched
+smooth muscle,916,1019,T cell enriched
+smooth muscle,968,78,T cell enriched
+smooth muscle,1068,735,Follicle
+smooth muscle,1351,1429,Vascularized smooth muscle
+smooth muscle,1370,1268,Vascularized smooth muscle
+smooth muscle,1394,205,T cell enriched
+smooth muscle,1373,1399,Vascularized smooth muscle
+smooth muscle,1379,1317,Macrophage enriched
+smooth muscle,1405,1305,Vascularized smooth muscle
+smooth muscle,1390,1389,Vascularized smooth muscle
+smooth muscle,1410,1250,Vascularized smooth muscle
+smooth muscle,1457,1026,T cell enriched
+smooth muscle,1469,968,Immune-infiltrated stroma
+smooth muscle,1466,1243,Macrophage enriched
+smooth muscle,1518,84,T cell enriched
+undefined,476,589,T cell enriched
+undefined,1113,1278,Immune-infiltrated stroma
+tumor cells / immune cells,178,0,Immune-infiltrated stroma
+tumor cells / immune cells,567,11,Vascularized smooth muscle
+tumor cells / immune cells,563,811,Follicle
+tumor cells / immune cells,837,1309,Follicle
+tumor cells / immune cells,876,1318,Follicle
+tumor cells / immune cells,1492,1293,Macrophage enriched
+tumor cells / immune cells,1762,164,Follicle
+immune cells / vasculature,644,447,T cell enriched
+immune cells / vasculature,1681,1110,Follicle
+nerves,9,30,Immune-infiltrated stroma
+nerves,39,38,Immune-infiltrated stroma
+nerves,592,903,Follicle
+nerves,1633,405,Follicle
+nerves,1855,624,Immune-infiltrated stroma
+nerves,1853,668,Follicle
+CD68+ macrophages GzmB+,487,886,T cell enriched
+CD68+ macrophages GzmB+,528,88,Macrophage enriched
+CD68+ macrophages GzmB+,526,1212,Macrophage enriched
+CD68+ macrophages GzmB+,1008,1255,Follicle
+CD68+ macrophages GzmB+,1044,1344,Follicle
+CD68+ macrophages GzmB+,1082,56,T cell enriched
+CD68+ macrophages GzmB+,1084,72,T cell enriched
+CD68+ macrophages GzmB+,1227,30,T cell enriched
+CD68+ macrophages GzmB+,1259,9,T cell enriched
+CD68+ macrophages,617,536,Follicle
+CD68+ macrophages,722,1029,Follicle
+CD68+ macrophages,771,1145,Follicle
+CD163+ macrophages,817,407,Macrophage enriched

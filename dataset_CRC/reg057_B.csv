@@ -1,0 +1,1074 @@
+ClusterName,0,1,neighborhood name
+granulocytes,382,790,T cell enriched
+granulocytes,728,873,Smooth muscle
+granulocytes,815,749,Vascularized smooth muscle
+granulocytes,1076,774,T cell enriched
+granulocytes,1082,972,T cell enriched
+granulocytes,1123,801,Tumor boundary
+granulocytes,1124,1000,T cell enriched
+granulocytes,1331,641,Tumor boundary
+granulocytes,1443,748,Immune-infiltrated stroma
+granulocytes,1503,878,Vascularized smooth muscle
+granulocytes,1520,1015,Smooth muscle
+granulocytes,1571,677,Follicle
+granulocytes,1592,712,Follicle
+granulocytes,1609,383,Macrophage enriched
+granulocytes,1739,19,Vascularized smooth muscle
+vasculature,139,859,Follicle
+vasculature,181,914,Follicle
+vasculature,287,754,T cell enriched
+vasculature,317,716,T cell enriched
+vasculature,317,744,Immune-infiltrated stroma
+vasculature,339,921,Vascularized smooth muscle
+vasculature,383,973,Vascularized smooth muscle
+vasculature,418,767,T cell enriched
+vasculature,485,730,Tumor boundary
+vasculature,554,867,Vascularized smooth muscle
+vasculature,790,778,Tumor boundary
+vasculature,832,660,T cell enriched
+vasculature,816,1150,Follicle
+vasculature,877,15,Smooth muscle
+vasculature,870,1012,Follicle
+vasculature,925,707,Tumor boundary
+vasculature,1007,1072,Follicle
+vasculature,1196,1090,T cell enriched
+vasculature,1222,977,Vascularized smooth muscle
+vasculature,1218,1079,T cell enriched
+vasculature,1263,441,Immune-infiltrated stroma
+vasculature,1245,1104,Vascularized smooth muscle
+vasculature,1244,1007,Vascularized smooth muscle
+vasculature,1300,487,Vascularized smooth muscle
+vasculature,1413,787,Tumor boundary
+vasculature,1497,648,T cell enriched
+vasculature,1604,805,Follicle
+vasculature,1649,378,Macrophage enriched
+CD4+ T cells CD45RO+,64,711,Follicle
+CD4+ T cells CD45RO+,81,744,Follicle
+CD4+ T cells CD45RO+,84,785,Follicle
+CD4+ T cells CD45RO+,85,801,Follicle
+CD4+ T cells CD45RO+,99,733,T cell enriched
+CD4+ T cells CD45RO+,117,762,T cell enriched
+CD4+ T cells CD45RO+,152,725,Follicle
+CD4+ T cells CD45RO+,241,535,Follicle
+CD4+ T cells CD45RO+,248,555,Follicle
+CD4+ T cells CD45RO+,257,525,Follicle
+CD4+ T cells CD45RO+,264,886,Immune-infiltrated stroma
+CD4+ T cells CD45RO+,371,988,Vascularized smooth muscle
+CD4+ T cells CD45RO+,471,740,T cell enriched
+CD4+ T cells CD45RO+,482,811,T cell enriched
+CD4+ T cells CD45RO+,489,862,Tumor boundary
+CD4+ T cells CD45RO+,478,784,T cell enriched
+CD4+ T cells CD45RO+,499,853,Tumor boundary
+CD4+ T cells CD45RO+,522,934,T cell enriched
+CD4+ T cells CD45RO+,541,964,Follicle
+CD4+ T cells CD45RO+,678,742,Tumor boundary
+CD4+ T cells CD45RO+,698,799,Tumor boundary
+CD4+ T cells CD45RO+,728,1137,Follicle
+CD4+ T cells CD45RO+,742,1097,Follicle
+CD4+ T cells CD45RO+,755,1169,Follicle
+CD4+ T cells CD45RO+,819,800,Vascularized smooth muscle
+CD4+ T cells CD45RO+,847,1096,Follicle
+CD4+ T cells CD45RO+,872,1070,Follicle
+CD4+ T cells CD45RO+,924,108,Smooth muscle
+CD4+ T cells CD45RO+,894,922,Follicle
+CD4+ T cells CD45RO+,906,888,T cell enriched
+CD4+ T cells CD45RO+,936,896,T cell enriched
+CD4+ T cells CD45RO+,918,1087,Follicle
+CD4+ T cells CD45RO+,931,861,Tumor boundary
+CD4+ T cells CD45RO+,1004,988,Follicle
+CD4+ T cells CD45RO+,1007,1160,Follicle
+CD4+ T cells CD45RO+,1033,896,Tumor boundary
+CD4+ T cells CD45RO+,1038,793,T cell enriched
+CD4+ T cells CD45RO+,1041,956,T cell enriched
+CD4+ T cells CD45RO+,1062,799,T cell enriched
+CD4+ T cells CD45RO+,1040,990,T cell enriched
+CD4+ T cells CD45RO+,1050,1013,Follicle
+CD4+ T cells CD45RO+,1070,998,T cell enriched
+CD4+ T cells CD45RO+,1063,903,T cell enriched
+CD4+ T cells CD45RO+,1074,920,T cell enriched
+CD4+ T cells CD45RO+,1093,880,T cell enriched
+CD4+ T cells CD45RO+,1081,1033,Follicle
+CD4+ T cells CD45RO+,1094,1104,Follicle
+CD4+ T cells CD45RO+,1091,1124,Follicle
+CD4+ T cells CD45RO+,1141,977,T cell enriched
+CD4+ T cells CD45RO+,1156,1036,Follicle
+CD4+ T cells CD45RO+,1319,658,Immune-infiltrated stroma
+CD4+ T cells CD45RO+,1459,650,T cell enriched
+CD4+ T cells CD45RO+,1526,544,Follicle
+CD4+ T cells CD45RO+,1516,793,Follicle
+CD4+ T cells CD45RO+,1532,757,Follicle
+CD4+ T cells CD45RO+,1565,434,Macrophage enriched
+CD4+ T cells CD45RO+,1603,439,Follicle
+CD4+ T cells CD45RO+,1672,716,Follicle
+tumor cells,101,754,T cell enriched
+tumor cells,221,971,Follicle
+tumor cells,276,838,Tumor boundary
+tumor cells,287,965,Vascularized smooth muscle
+tumor cells,294,945,Vascularized smooth muscle
+tumor cells,310,791,Tumor boundary
+tumor cells,337,855,Tumor boundary
+tumor cells,380,831,T cell enriched
+tumor cells,435,851,Tumor boundary
+tumor cells,429,885,Tumor boundary
+tumor cells,429,901,Tumor boundary
+tumor cells,439,1004,Follicle
+tumor cells,443,988,Follicle
+tumor cells,453,824,Tumor boundary
+tumor cells,461,872,Tumor boundary
+tumor cells,469,804,T cell enriched
+tumor cells,499,729,Tumor boundary
+tumor cells,534,685,Tumor boundary
+tumor cells,536,716,Bulk tumor
+tumor cells,539,771,Tumor boundary
+tumor cells,549,744,Bulk tumor
+tumor cells,553,719,Bulk tumor
+tumor cells,543,894,T cell enriched
+tumor cells,554,943,Follicle
+tumor cells,564,696,Tumor boundary
+tumor cells,581,698,Tumor boundary
+tumor cells,597,731,Tumor boundary
+tumor cells,601,795,Tumor boundary
+tumor cells,610,841,Tumor boundary
+tumor cells,621,674,Tumor boundary
+tumor cells,620,682,Tumor boundary
+tumor cells,622,664,Tumor boundary
+tumor cells,626,767,Tumor boundary
+tumor cells,643,741,Tumor boundary
+tumor cells,641,773,Tumor boundary
+tumor cells,657,841,Tumor boundary
+tumor cells,656,937,Follicle
+tumor cells,690,703,Vascularized smooth muscle
+tumor cells,705,843,Tumor boundary
+tumor cells,725,802,Tumor boundary
+tumor cells,708,1186,Follicle
+tumor cells,735,771,T cell enriched
+tumor cells,726,933,Vascularized smooth muscle
+tumor cells,762,922,Vascularized smooth muscle
+tumor cells,781,849,Smooth muscle
+tumor cells,807,572,Macrophage enriched
+tumor cells,806,723,Tumor boundary
+tumor cells,805,941,Vascularized smooth muscle
+tumor cells,827,927,Follicle
+tumor cells,837,751,Tumor boundary
+tumor cells,874,676,Tumor boundary
+tumor cells,873,828,Vascularized smooth muscle
+tumor cells,897,673,Tumor boundary
+tumor cells,910,850,Tumor boundary
+tumor cells,914,816,Tumor boundary
+tumor cells,944,745,Tumor boundary
+tumor cells,927,897,T cell enriched
+tumor cells,946,809,Tumor boundary
+tumor cells,934,1050,Follicle
+tumor cells,957,710,Tumor boundary
+tumor cells,969,497,Smooth muscle
+tumor cells,963,847,Tumor boundary
+tumor cells,948,675,Tumor boundary
+tumor cells,969,777,Tumor boundary
+tumor cells,976,719,Tumor boundary
+tumor cells,987,645,Tumor boundary
+tumor cells,997,783,Tumor boundary
+tumor cells,1001,639,Tumor boundary
+tumor cells,987,1046,Follicle
+tumor cells,1010,555,Vascularized smooth muscle
+tumor cells,1020,915,Tumor boundary
+tumor cells,992,740,Bulk tumor
+tumor cells,1030,282,Smooth muscle
+tumor cells,1024,539,Smooth muscle
+tumor cells,1006,886,Tumor boundary
+tumor cells,1034,636,Tumor boundary
+tumor cells,1032,722,Tumor boundary
+tumor cells,1038,592,Tumor boundary
+tumor cells,1028,879,Tumor boundary
+tumor cells,1038,649,Tumor boundary
+tumor cells,1056,617,Tumor boundary
+tumor cells,1037,865,Tumor boundary
+tumor cells,1042,923,T cell enriched
+tumor cells,1064,765,T cell enriched
+tumor cells,1058,690,Tumor boundary
+tumor cells,1051,1170,Follicle
+tumor cells,1102,657,Tumor boundary
+tumor cells,1087,1245,Follicle
+tumor cells,1116,639,Tumor boundary
+tumor cells,1136,636,Vascularized smooth muscle
+tumor cells,1100,1223,Follicle
+tumor cells,1138,853,Tumor boundary
+tumor cells,1129,835,Tumor boundary
+tumor cells,1160,940,Vascularized smooth muscle
+tumor cells,1190,711,Immune-infiltrated stroma
+tumor cells,1215,542,Vascularized smooth muscle
+tumor cells,1208,921,Vascularized smooth muscle
+tumor cells,1234,570,Vascularized smooth muscle
+tumor cells,1222,987,Vascularized smooth muscle
+tumor cells,1231,638,Immune-infiltrated stroma
+tumor cells,1257,512,Vascularized smooth muscle
+tumor cells,1258,485,Vascularized smooth muscle
+tumor cells,1257,855,Vascularized smooth muscle
+tumor cells,1258,701,Immune-infiltrated stroma
+tumor cells,1288,618,Immune-infiltrated stroma
+tumor cells,1308,614,Immune-infiltrated stroma
+tumor cells,1324,1071,Smooth muscle
+tumor cells,1373,737,Tumor boundary
+tumor cells,1375,812,Vascularized smooth muscle
+tumor cells,1393,732,Tumor boundary
+tumor cells,1412,684,Tumor boundary
+tumor cells,1419,532,Macrophage enriched
+tumor cells,1419,706,Tumor boundary
+tumor cells,1430,664,Tumor boundary
+tumor cells,1503,375,Macrophage enriched
+tumor cells,1510,630,T cell enriched
+tumor cells,1553,847,Follicle
+tumor cells,1725,512,Follicle
+tumor cells,1741,488,Follicle
+stroma,282,893,Immune-infiltrated stroma
+stroma,279,914,Immune-infiltrated stroma
+stroma,311,808,Tumor boundary
+stroma,313,894,Immune-infiltrated stroma
+stroma,566,666,Tumor boundary
+stroma,603,918,Tumor boundary
+stroma,618,994,Follicle
+stroma,687,775,T cell enriched
+stroma,805,860,Smooth muscle
+stroma,844,990,Follicle
+stroma,1026,558,Vascularized smooth muscle
+stroma,1037,607,Tumor boundary
+stroma,1055,659,Tumor boundary
+stroma,1062,605,Tumor boundary
+stroma,1131,698,Tumor boundary
+stroma,1135,1088,Follicle
+stroma,1131,1236,Follicle
+stroma,1162,835,Tumor boundary
+stroma,1177,574,Vascularized smooth muscle
+stroma,1190,683,Immune-infiltrated stroma
+stroma,1205,504,Vascularized smooth muscle
+stroma,1206,582,Immune-infiltrated stroma
+stroma,1198,1033,Vascularized smooth muscle
+stroma,1231,558,Vascularized smooth muscle
+stroma,1221,674,Immune-infiltrated stroma
+stroma,1238,489,Vascularized smooth muscle
+stroma,1241,550,Immune-infiltrated stroma
+stroma,1234,956,Tumor boundary
+stroma,1250,559,Immune-infiltrated stroma
+stroma,1257,639,Tumor boundary
+stroma,1278,689,Immune-infiltrated stroma
+stroma,1295,324,Vascularized smooth muscle
+stroma,1299,496,Vascularized smooth muscle
+stroma,1263,1035,Vascularized smooth muscle
+stroma,1308,570,Immune-infiltrated stroma
+stroma,1314,738,Vascularized smooth muscle
+stroma,1312,1100,Vascularized smooth muscle
+stroma,1340,806,Vascularized smooth muscle
+stroma,1388,478,Macrophage enriched
+stroma,1450,205,Smooth muscle
+stroma,1450,728,Tumor boundary
+stroma,1445,818,Vascularized smooth muscle
+stroma,1460,582,Follicle
+stroma,1460,836,Vascularized smooth muscle
+stroma,1496,140,Smooth muscle
+stroma,1479,652,T cell enriched
+stroma,1500,720,Immune-infiltrated stroma
+stroma,1510,849,Immune-infiltrated stroma
+stroma,1560,206,Immune-infiltrated stroma
+stroma,1568,353,Macrophage enriched
+stroma,1557,827,Follicle
+stroma,1540,983,Vascularized smooth muscle
+stroma,1622,572,Follicle
+stroma,1684,390,Macrophage enriched
+CD68+CD163+ macrophages,429,758,T cell enriched
+CD68+CD163+ macrophages,446,786,T cell enriched
+CD68+CD163+ macrophages,506,702,Tumor boundary
+CD68+CD163+ macrophages,563,1019,Follicle
+CD68+CD163+ macrophages,705,636,Macrophage enriched
+CD68+CD163+ macrophages,693,638,Macrophage enriched
+CD68+CD163+ macrophages,702,672,Macrophage enriched
+CD68+CD163+ macrophages,730,616,Macrophage enriched
+CD68+CD163+ macrophages,751,624,Macrophage enriched
+CD68+CD163+ macrophages,734,780,T cell enriched
+CD68+CD163+ macrophages,761,454,Vascularized smooth muscle
+CD68+CD163+ macrophages,751,857,Vascularized smooth muscle
+CD68+CD163+ macrophages,776,745,Tumor boundary
+CD68+CD163+ macrophages,784,478,Macrophage enriched
+CD68+CD163+ macrophages,795,446,Vascularized smooth muscle
+CD68+CD163+ macrophages,799,696,Macrophage enriched
+CD68+CD163+ macrophages,811,643,Macrophage enriched
+CD68+CD163+ macrophages,825,542,Macrophage enriched
+CD68+CD163+ macrophages,826,472,Vascularized smooth muscle
+CD68+CD163+ macrophages,892,810,Tumor boundary
+CD68+CD163+ macrophages,867,1236,Follicle
+CD68+CD163+ macrophages,952,98,Smooth muscle
+CD68+CD163+ macrophages,983,95,Smooth muscle
+CD68+CD163+ macrophages,1060,927,T cell enriched
+CD68+CD163+ macrophages,1063,895,T cell enriched
+CD68+CD163+ macrophages,1078,882,T cell enriched
+CD68+CD163+ macrophages,1112,93,Macrophage enriched
+CD68+CD163+ macrophages,1119,62,Macrophage enriched
+CD68+CD163+ macrophages,1130,87,Macrophage enriched
+CD68+CD163+ macrophages,1131,56,Macrophage enriched
+CD68+CD163+ macrophages,1104,740,Tumor boundary
+CD68+CD163+ macrophages,1140,61,Macrophage enriched
+CD68+CD163+ macrophages,1145,39,Macrophage enriched
+CD68+CD163+ macrophages,1164,20,Macrophage enriched
+CD68+CD163+ macrophages,1150,775,Tumor boundary
+CD68+CD163+ macrophages,1175,49,Macrophage enriched
+CD68+CD163+ macrophages,1182,25,Macrophage enriched
+CD68+CD163+ macrophages,1200,37,Vascularized smooth muscle
+CD68+CD163+ macrophages,1232,15,Smooth muscle
+CD68+CD163+ macrophages,1210,897,Vascularized smooth muscle
+CD68+CD163+ macrophages,1204,946,Vascularized smooth muscle
+CD68+CD163+ macrophages,1257,21,Smooth muscle
+CD68+CD163+ macrophages,1222,1013,Vascularized smooth muscle
+CD68+CD163+ macrophages,1231,1029,Immune-infiltrated stroma
+CD68+CD163+ macrophages,1249,1041,Macrophage enriched
+CD68+CD163+ macrophages,1271,1070,Vascularized smooth muscle
+CD68+CD163+ macrophages,1267,1131,Vascularized smooth muscle
+CD68+CD163+ macrophages,1285,1157,Vascularized smooth muscle
+CD68+CD163+ macrophages,1306,987,Smooth muscle
+CD68+CD163+ macrophages,1325,974,Smooth muscle
+CD68+CD163+ macrophages,1363,700,Tumor boundary
+CD68+CD163+ macrophages,1347,708,Vascularized smooth muscle
+CD68+CD163+ macrophages,1347,839,Vascularized smooth muscle
+CD68+CD163+ macrophages,1373,562,Immune-infiltrated stroma
+CD68+CD163+ macrophages,1393,381,Macrophage enriched
+CD68+CD163+ macrophages,1344,1062,Smooth muscle
+CD68+CD163+ macrophages,1408,557,Macrophage enriched
+CD68+CD163+ macrophages,1435,472,Macrophage enriched
+CD68+CD163+ macrophages,1447,770,Immune-infiltrated stroma
+CD68+CD163+ macrophages,1454,676,Tumor boundary
+CD68+CD163+ macrophages,1465,606,Immune-infiltrated stroma
+CD68+CD163+ macrophages,1475,802,Macrophage enriched
+CD68+CD163+ macrophages,1492,758,Macrophage enriched
+CD68+CD163+ macrophages,1499,824,Immune-infiltrated stroma
+CD68+CD163+ macrophages,1510,350,Macrophage enriched
+CD68+CD163+ macrophages,1526,415,Macrophage enriched
+CD68+CD163+ macrophages,1504,916,Vascularized smooth muscle
+CD68+CD163+ macrophages,1536,409,Macrophage enriched
+CD68+CD163+ macrophages,1553,325,Macrophage enriched
+CD68+CD163+ macrophages,1600,415,T cell enriched
+CD68+CD163+ macrophages,1610,426,Follicle
+CD68+CD163+ macrophages,1623,392,Macrophage enriched
+CD68+CD163+ macrophages,1634,165,Vascularized smooth muscle
+CD68+CD163+ macrophages,1678,326,Macrophage enriched
+CD68+CD163+ macrophages,1662,366,Macrophage enriched
+CD68+CD163+ macrophages,1711,333,Macrophage enriched
+CD68+CD163+ macrophages,1766,505,Follicle
+adipocytes,360,794,Tumor boundary
+adipocytes,361,861,Tumor boundary
+adipocytes,368,844,Tumor boundary
+adipocytes,374,795,T cell enriched
+adipocytes,390,860,Tumor boundary
+adipocytes,421,858,Tumor boundary
+adipocytes,431,770,T cell enriched
+adipocytes,511,822,T cell enriched
+adipocytes,519,803,T cell enriched
+adipocytes,557,682,Tumor boundary
+adipocytes,593,847,Tumor boundary
+adipocytes,589,723,Tumor boundary
+adipocytes,610,709,Tumor boundary
+adipocytes,617,793,Tumor boundary
+adipocytes,652,798,Tumor boundary
+adipocytes,676,673,Vascularized smooth muscle
+adipocytes,666,848,Tumor boundary
+adipocytes,729,721,Macrophage enriched
+adipocytes,771,598,Macrophage enriched
+adipocytes,781,587,Macrophage enriched
+adipocytes,806,626,Vascularized smooth muscle
+adipocytes,823,698,Tumor boundary
+adipocytes,875,780,Tumor boundary
+adipocytes,895,767,Tumor boundary
+adipocytes,890,749,Tumor boundary
+adipocytes,935,745,Tumor boundary
+adipocytes,976,695,Tumor boundary
+adipocytes,991,666,Tumor boundary
+adipocytes,1200,861,Tumor boundary
+adipocytes,1397,613,Macrophage enriched
+adipocytes,1428,550,Macrophage enriched
+adipocytes,1494,566,Follicle
+adipocytes,1506,523,Follicle
+plasma cells,215,934,Follicle
+plasma cells,382,941,Vascularized smooth muscle
+plasma cells,402,1050,Follicle
+plasma cells,829,678,Tumor boundary
+plasma cells,881,651,Tumor boundary
+plasma cells,1014,957,T cell enriched
+plasma cells,1037,818,T cell enriched
+plasma cells,1067,850,T cell enriched
+plasma cells,1185,814,Tumor boundary
+plasma cells,1181,1075,T cell enriched
+plasma cells,1619,274,Macrophage enriched
+plasma cells,1727,386,Follicle
+CD8+ T cells,206,874,Follicle
+CD8+ T cells,263,557,Follicle
+CD8+ T cells,327,781,Immune-infiltrated stroma
+CD8+ T cells,404,679,T cell enriched
+CD8+ T cells,461,785,T cell enriched
+CD8+ T cells,704,984,Follicle
+CD8+ T cells,864,1216,Follicle
+CD8+ T cells,904,973,Follicle
+CD8+ T cells,955,1005,Follicle
+CD8+ T cells,1187,964,Vascularized smooth muscle
+CD8+ T cells,1244,908,Vascularized smooth muscle
+CD8+ T cells,1540,517,Follicle
+CD8+ T cells,1576,653,Follicle
+CD8+ T cells,1618,849,Follicle
+CD8+ T cells,1646,404,Macrophage enriched
+CD8+ T cells,1660,390,Macrophage enriched
+dirt,211,824,Follicle
+dirt,374,904,Tumor boundary
+dirt,495,944,T cell enriched
+dirt,711,1069,Follicle
+dirt,889,694,Tumor boundary
+dirt,894,1184,Follicle
+dirt,946,704,Tumor boundary
+dirt,949,662,Tumor boundary
+dirt,958,778,Tumor boundary
+dirt,979,784,Tumor boundary
+dirt,1009,610,Tumor boundary
+dirt,1094,921,T cell enriched
+dirt,1098,961,T cell enriched
+dirt,1120,764,T cell enriched
+dirt,1106,860,T cell enriched
+dirt,1141,882,Tumor boundary
+dirt,1129,849,Tumor boundary
+dirt,1198,930,Vascularized smooth muscle
+dirt,1550,128,Vascularized smooth muscle
+dirt,1537,1012,Smooth muscle
+dirt,1702,631,Follicle
+Tregs,1515,389,Macrophage enriched
+Tregs,1517,612,Follicle
+Tregs,1605,13,Smooth muscle
+CD4+ T cells,119,740,T cell enriched
+CD4+ T cells,142,757,Follicle
+CD4+ T cells,226,801,Follicle
+CD4+ T cells,245,927,T cell enriched
+CD4+ T cells,265,586,T cell enriched
+CD4+ T cells,714,786,T cell enriched
+CD4+ T cells,753,834,Tumor boundary
+CD4+ T cells,786,913,Smooth muscle
+CD4+ T cells,1056,1089,Follicle
+CD4+ T cells,1107,994,T cell enriched
+CD4+ T cells,1172,1075,Follicle
+CD4+ T cells,1188,1154,Follicle
+CD4+ T cells,1202,1043,Vascularized smooth muscle
+CD11c+ DCs,255,996,Follicle
+CD11c+ DCs,422,1091,Follicle
+CD11c+ DCs,824,1110,Follicle
+CD11c+ DCs,953,929,T cell enriched
+CD11c+ DCs,940,1218,Follicle
+CD11c+ DCs,1494,670,Immune-infiltrated stroma
+CD11c+ DCs,1523,693,Follicle
+CD11c+ DCs,1658,636,Follicle
+B cells,49,723,Follicle
+B cells,63,761,Follicle
+B cells,85,719,Follicle
+B cells,90,760,T cell enriched
+B cells,106,825,Follicle
+B cells,120,864,Follicle
+B cells,123,833,Follicle
+B cells,129,816,Follicle
+B cells,157,439,T cell enriched
+B cells,137,883,Follicle
+B cells,144,828,Follicle
+B cells,153,884,Follicle
+B cells,142,806,Follicle
+B cells,148,786,Follicle
+B cells,168,845,Follicle
+B cells,181,857,Follicle
+B cells,159,815,Follicle
+B cells,190,818,Follicle
+B cells,176,873,Follicle
+B cells,176,937,Follicle
+B cells,195,845,Follicle
+B cells,195,886,Follicle
+B cells,204,776,Follicle
+B cells,210,969,Follicle
+B cells,227,709,T cell enriched
+B cells,218,890,Follicle
+B cells,211,918,Follicle
+B cells,235,986,Tumor boundary
+B cells,255,949,Tumor boundary
+B cells,284,616,T cell enriched
+B cells,296,1022,Vascularized smooth muscle
+B cells,367,1009,Follicle
+B cells,363,1035,Follicle
+B cells,363,1051,Follicle
+B cells,400,606,Vascularized smooth muscle
+B cells,397,1094,Follicle
+B cells,411,1017,Follicle
+B cells,410,1098,Follicle
+B cells,421,1016,Follicle
+B cells,430,1032,Follicle
+B cells,432,1046,Follicle
+B cells,444,742,T cell enriched
+B cells,446,1023,Follicle
+B cells,443,1013,Follicle
+B cells,458,946,Tumor boundary
+B cells,489,632,Vascularized smooth muscle
+B cells,472,954,Follicle
+B cells,472,1065,Follicle
+B cells,471,1104,Follicle
+B cells,482,1007,Follicle
+B cells,463,1105,Follicle
+B cells,470,1037,Follicle
+B cells,481,1122,Follicle
+B cells,493,1039,Follicle
+B cells,500,1005,Follicle
+B cells,511,1090,Follicle
+B cells,512,1037,Follicle
+B cells,532,946,T cell enriched
+B cells,542,989,Follicle
+B cells,535,1047,Follicle
+B cells,530,1011,Follicle
+B cells,516,1081,Follicle
+B cells,520,1064,Follicle
+B cells,539,1095,Follicle
+B cells,549,1018,Follicle
+B cells,562,980,Follicle
+B cells,573,1008,Follicle
+B cells,570,1110,Follicle
+B cells,563,1065,Follicle
+B cells,573,1151,Follicle
+B cells,571,1043,Follicle
+B cells,579,1172,Follicle
+B cells,591,1048,Follicle
+B cells,595,1012,Follicle
+B cells,597,948,Follicle
+B cells,589,1064,Follicle
+B cells,583,1099,Follicle
+B cells,596,1179,Follicle
+B cells,612,1006,Follicle
+B cells,601,936,Follicle
+B cells,604,1187,Follicle
+B cells,608,1136,Follicle
+B cells,620,1155,Follicle
+B cells,622,1056,Follicle
+B cells,628,1023,Follicle
+B cells,648,1025,Follicle
+B cells,638,1116,Follicle
+B cells,648,1057,Follicle
+B cells,653,1083,Follicle
+B cells,654,1048,Follicle
+B cells,664,940,Follicle
+B cells,651,961,Follicle
+B cells,662,984,Follicle
+B cells,656,1097,Follicle
+B cells,668,1176,Follicle
+B cells,660,1128,Follicle
+B cells,658,1156,Follicle
+B cells,674,1046,Follicle
+B cells,675,1130,Follicle
+B cells,698,996,Follicle
+B cells,687,1079,Follicle
+B cells,697,1122,Follicle
+B cells,699,1180,Follicle
+B cells,711,1146,Follicle
+B cells,716,821,T cell enriched
+B cells,700,1109,Follicle
+B cells,703,1063,Follicle
+B cells,718,1082,Follicle
+B cells,706,1040,Follicle
+B cells,720,1118,Follicle
+B cells,724,997,Follicle
+B cells,724,1104,Follicle
+B cells,746,992,Follicle
+B cells,739,1060,Follicle
+B cells,729,1079,Follicle
+B cells,732,1169,Follicle
+B cells,747,1111,Follicle
+B cells,727,1188,Follicle
+B cells,758,1107,Follicle
+B cells,753,1014,Follicle
+B cells,753,1036,Follicle
+B cells,760,1055,Follicle
+B cells,759,973,Follicle
+B cells,767,1191,Follicle
+B cells,769,1148,Follicle
+B cells,789,987,Follicle
+B cells,775,986,Follicle
+B cells,782,951,Follicle
+B cells,782,1065,Follicle
+B cells,781,1216,Follicle
+B cells,790,1031,Follicle
+B cells,788,1156,Follicle
+B cells,795,1164,Follicle
+B cells,791,958,Follicle
+B cells,806,1083,Follicle
+B cells,804,1005,Follicle
+B cells,791,1096,Follicle
+B cells,800,988,Follicle
+B cells,813,1233,Follicle
+B cells,804,1113,Follicle
+B cells,809,1062,Follicle
+B cells,815,985,Follicle
+B cells,800,1230,Follicle
+B cells,828,1004,Follicle
+B cells,837,1065,Follicle
+B cells,826,1210,Follicle
+B cells,831,968,Follicle
+B cells,835,1195,Follicle
+B cells,822,1075,Follicle
+B cells,843,1153,Follicle
+B cells,860,947,Follicle
+B cells,852,907,Vascularized smooth muscle
+B cells,851,962,Follicle
+B cells,838,1245,Follicle
+B cells,849,920,Follicle
+B cells,864,1114,Follicle
+B cells,884,948,Follicle
+B cells,859,1079,Follicle
+B cells,870,932,Follicle
+B cells,872,1098,Follicle
+B cells,876,1196,Follicle
+B cells,894,1098,Follicle
+B cells,880,1165,Follicle
+B cells,895,1220,Follicle
+B cells,907,1017,Follicle
+B cells,899,1115,Follicle
+B cells,907,1044,Follicle
+B cells,917,1193,Follicle
+B cells,917,1215,Follicle
+B cells,908,988,Follicle
+B cells,920,1154,Follicle
+B cells,915,1040,Follicle
+B cells,938,1091,Follicle
+B cells,944,1143,Follicle
+B cells,938,1184,Follicle
+B cells,943,1165,Follicle
+B cells,956,1102,Follicle
+B cells,949,1020,Follicle
+B cells,963,892,Tumor boundary
+B cells,950,945,Follicle
+B cells,962,939,Follicle
+B cells,965,1083,Follicle
+B cells,959,1127,Follicle
+B cells,962,1195,Follicle
+B cells,961,1233,Follicle
+B cells,954,1175,Follicle
+B cells,970,1072,Follicle
+B cells,973,1116,Follicle
+B cells,967,1245,Follicle
+B cells,981,987,Follicle
+B cells,975,1201,Follicle
+B cells,980,1064,Follicle
+B cells,998,1051,Follicle
+B cells,994,1185,Follicle
+B cells,997,1225,Follicle
+B cells,1005,966,Follicle
+B cells,992,1010,Follicle
+B cells,1012,1181,Follicle
+B cells,1025,975,Follicle
+B cells,1022,1062,Follicle
+B cells,1023,1147,Follicle
+B cells,1015,1227,Follicle
+B cells,1034,1232,Follicle
+B cells,1035,1088,Follicle
+B cells,1060,868,T cell enriched
+B cells,1043,1107,Follicle
+B cells,1066,1078,Follicle
+B cells,1047,1065,Follicle
+B cells,1040,1136,Follicle
+B cells,1050,1132,Follicle
+B cells,1059,1032,Follicle
+B cells,1052,1145,Follicle
+B cells,1038,1191,Follicle
+B cells,1058,1218,Follicle
+B cells,1072,1122,Follicle
+B cells,1082,1139,Follicle
+B cells,1078,1179,Follicle
+B cells,1091,1055,Follicle
+B cells,1101,1017,Follicle
+B cells,1100,1051,Follicle
+B cells,1121,1051,Follicle
+B cells,1142,990,T cell enriched
+B cells,1108,1156,Follicle
+B cells,1115,1213,Follicle
+B cells,1128,1060,Follicle
+B cells,1124,1173,Follicle
+B cells,1119,1192,Follicle
+B cells,1139,1069,Follicle
+B cells,1155,1189,Follicle
+B cells,1158,1058,Follicle
+B cells,1145,1232,Follicle
+B cells,1153,1227,Follicle
+B cells,1160,1143,Follicle
+B cells,1162,1178,Follicle
+B cells,1163,1124,Follicle
+B cells,1173,1220,Follicle
+B cells,1179,1116,Follicle
+B cells,1172,1097,Follicle
+B cells,1192,1180,Follicle
+B cells,1197,1128,Follicle
+B cells,1214,1138,Follicle
+B cells,1226,1179,Follicle
+B cells,1426,614,T cell enriched
+B cells,1427,631,T cell enriched
+B cells,1451,627,Immune-infiltrated stroma
+B cells,1483,707,Immune-infiltrated stroma
+B cells,1509,556,Follicle
+B cells,1524,531,Follicle
+B cells,1507,807,Immune-infiltrated stroma
+B cells,1513,576,Follicle
+B cells,1537,571,Follicle
+B cells,1554,588,Follicle
+B cells,1533,809,Follicle
+B cells,1546,658,Follicle
+B cells,1541,685,Follicle
+B cells,1535,773,Follicle
+B cells,1549,537,Follicle
+B cells,1539,910,Vascularized smooth muscle
+B cells,1552,712,Follicle
+B cells,1568,617,Follicle
+B cells,1546,1085,Vascularized smooth muscle
+B cells,1561,695,Follicle
+B cells,1566,521,Follicle
+B cells,1568,733,Follicle
+B cells,1580,467,Follicle
+B cells,1584,512,Follicle
+B cells,1587,610,Follicle
+B cells,1583,449,Follicle
+B cells,1569,804,Follicle
+B cells,1588,696,Follicle
+B cells,1588,771,Follicle
+B cells,1580,826,Follicle
+B cells,1570,849,Follicle
+B cells,1599,489,Follicle
+B cells,1595,555,Follicle
+B cells,1599,643,Follicle
+B cells,1611,469,Follicle
+B cells,1596,621,Follicle
+B cells,1602,529,Follicle
+B cells,1617,602,Follicle
+B cells,1611,778,Follicle
+B cells,1617,627,Follicle
+B cells,1605,586,Follicle
+B cells,1612,644,Follicle
+B cells,1628,467,Follicle
+B cells,1627,540,Follicle
+B cells,1623,782,Follicle
+B cells,1634,558,Follicle
+B cells,1644,452,Follicle
+B cells,1638,504,Follicle
+B cells,1639,670,Follicle
+B cells,1628,865,Follicle
+B cells,1636,769,Follicle
+B cells,1650,606,Follicle
+B cells,1643,801,Follicle
+B cells,1644,656,Follicle
+B cells,1641,735,Follicle
+B cells,1654,511,Follicle
+B cells,1663,578,Follicle
+B cells,1666,465,Follicle
+B cells,1638,824,Follicle
+B cells,1658,777,Follicle
+B cells,1671,557,Follicle
+B cells,1675,734,Follicle
+B cells,1661,746,Follicle
+B cells,1659,525,Follicle
+B cells,1652,947,Follicle
+B cells,1677,507,Follicle
+B cells,1679,446,Follicle
+B cells,1662,696,Follicle
+B cells,1656,1028,Follicle
+B cells,1662,841,Follicle
+B cells,1679,525,Follicle
+B cells,1666,781,Follicle
+B cells,1678,610,Follicle
+B cells,1680,602,Follicle
+B cells,1680,627,Follicle
+B cells,1691,415,Follicle
+B cells,1688,579,Follicle
+B cells,1679,1007,Follicle
+B cells,1705,484,Follicle
+B cells,1690,681,Follicle
+B cells,1713,448,Follicle
+B cells,1710,531,Follicle
+B cells,1696,712,Follicle
+B cells,1712,468,Follicle
+B cells,1696,743,Follicle
+B cells,1703,683,Follicle
+B cells,1720,493,Follicle
+B cells,1719,598,Follicle
+B cells,1736,452,Follicle
+B cells,1731,660,Follicle
+B cells,1745,514,Follicle
+B cells,1753,461,Follicle
+B cells,1755,499,Follicle
+B cells,1754,498,Follicle
+B cells,1754,589,Follicle
+B cells,1755,555,Follicle
+B cells,1779,530,Follicle
+CD11b+CD68+ macrophages,1197,845,Vascularized smooth muscle
+smooth muscle,292,994,Vascularized smooth muscle
+smooth muscle,299,909,Immune-infiltrated stroma
+smooth muscle,298,867,Immune-infiltrated stroma
+smooth muscle,307,955,Vascularized smooth muscle
+smooth muscle,316,967,Smooth muscle
+smooth muscle,336,1006,Vascularized smooth muscle
+smooth muscle,333,951,Vascularized smooth muscle
+smooth muscle,355,924,Vascularized smooth muscle
+smooth muscle,392,1015,Follicle
+smooth muscle,407,934,Vascularized smooth muscle
+smooth muscle,407,958,Vascularized smooth muscle
+smooth muscle,504,660,Vascularized smooth muscle
+smooth muscle,500,639,Vascularized smooth muscle
+smooth muscle,538,621,Vascularized smooth muscle
+smooth muscle,520,629,Vascularized smooth muscle
+smooth muscle,586,619,Vascularized smooth muscle
+smooth muscle,577,841,Tumor boundary
+smooth muscle,591,768,Tumor boundary
+smooth muscle,589,864,Tumor boundary
+smooth muscle,618,582,Smooth muscle
+smooth muscle,632,653,Vascularized smooth muscle
+smooth muscle,648,706,Tumor boundary
+smooth muscle,667,629,Vascularized smooth muscle
+smooth muscle,657,881,Tumor boundary
+smooth muscle,678,618,Vascularized smooth muscle
+smooth muscle,675,913,Vascularized smooth muscle
+smooth muscle,704,592,Macrophage enriched
+smooth muscle,686,881,Smooth muscle
+smooth muscle,725,850,Vascularized smooth muscle
+smooth muscle,730,679,Macrophage enriched
+smooth muscle,732,901,Smooth muscle
+smooth muscle,740,880,Smooth muscle
+smooth muscle,781,433,Vascularized smooth muscle
+smooth muscle,768,906,Smooth muscle
+smooth muscle,773,681,Macrophage enriched
+smooth muscle,773,894,Smooth muscle
+smooth muscle,778,885,Smooth muscle
+smooth muscle,783,932,Vascularized smooth muscle
+smooth muscle,820,353,Smooth muscle
+smooth muscle,813,917,Smooth muscle
+smooth muscle,806,882,Smooth muscle
+smooth muscle,796,897,Smooth muscle
+smooth muscle,834,380,Smooth muscle
+smooth muscle,800,920,Smooth muscle
+smooth muscle,817,790,Tumor boundary
+smooth muscle,815,889,Smooth muscle
+smooth muscle,835,569,Vascularized smooth muscle
+smooth muscle,836,544,Macrophage enriched
+smooth muscle,816,867,Smooth muscle
+smooth muscle,827,859,Smooth muscle
+smooth muscle,841,401,Smooth muscle
+smooth muscle,854,284,Smooth muscle
+smooth muscle,832,884,Smooth muscle
+smooth muscle,859,363,Smooth muscle
+smooth muscle,840,792,Vascularized smooth muscle
+smooth muscle,844,874,Smooth muscle
+smooth muscle,862,266,Smooth muscle
+smooth muscle,864,848,Smooth muscle
+smooth muscle,886,260,Smooth muscle
+smooth muscle,848,851,Smooth muscle
+smooth muscle,866,895,Vascularized smooth muscle
+smooth muscle,902,227,Smooth muscle
+smooth muscle,899,868,Tumor boundary
+smooth muscle,939,148,Smooth muscle
+smooth muscle,953,176,Smooth muscle
+smooth muscle,964,160,Smooth muscle
+smooth muscle,978,261,Smooth muscle
+smooth muscle,975,484,Smooth muscle
+smooth muscle,971,270,Smooth muscle
+smooth muscle,996,122,Smooth muscle
+smooth muscle,990,479,Smooth muscle
+smooth muscle,985,284,Smooth muscle
+smooth muscle,998,293,Smooth muscle
+smooth muscle,1010,254,Smooth muscle
+smooth muscle,999,488,Smooth muscle
+smooth muscle,1014,488,Smooth muscle
+smooth muscle,1033,124,Smooth muscle
+smooth muscle,1013,526,Smooth muscle
+smooth muscle,1026,483,Smooth muscle
+smooth muscle,1022,461,Smooth muscle
+smooth muscle,1027,495,Smooth muscle
+smooth muscle,1012,1049,Follicle
+smooth muscle,1030,503,Smooth muscle
+smooth muscle,1035,520,Smooth muscle
+smooth muscle,1044,507,Smooth muscle
+smooth muscle,1048,499,Smooth muscle
+smooth muscle,1067,523,Smooth muscle
+smooth muscle,1073,546,Smooth muscle
+smooth muscle,1070,532,Smooth muscle
+smooth muscle,1082,567,Smooth muscle
+smooth muscle,1092,530,Smooth muscle
+smooth muscle,1103,105,Vascularized smooth muscle
+smooth muscle,1122,95,Macrophage enriched
+smooth muscle,1118,453,Smooth muscle
+smooth muscle,1122,487,Smooth muscle
+smooth muscle,1116,598,Tumor boundary
+smooth muscle,1119,473,Smooth muscle
+smooth muscle,1131,483,Smooth muscle
+smooth muscle,1136,601,Vascularized smooth muscle
+smooth muscle,1159,101,Vascularized smooth muscle
+smooth muscle,1151,465,Smooth muscle
+smooth muscle,1177,102,Smooth muscle
+smooth muscle,1187,62,Smooth muscle
+smooth muscle,1186,47,Vascularized smooth muscle
+smooth muscle,1197,57,Smooth muscle
+smooth muscle,1174,642,Vascularized smooth muscle
+smooth muscle,1153,917,Vascularized smooth muscle
+smooth muscle,1196,92,Smooth muscle
+smooth muscle,1168,674,Immune-infiltrated stroma
+smooth muscle,1167,878,Vascularized smooth muscle
+smooth muscle,1213,61,Smooth muscle
+smooth muscle,1191,546,Immune-infiltrated stroma
+smooth muscle,1172,1001,Vascularized smooth muscle
+smooth muscle,1192,607,Vascularized smooth muscle
+smooth muscle,1179,939,Vascularized smooth muscle
+smooth muscle,1185,1028,Vascularized smooth muscle
+smooth muscle,1196,990,Vascularized smooth muscle
+smooth muscle,1189,908,Vascularized smooth muscle
+smooth muscle,1213,517,Vascularized smooth muscle
+smooth muscle,1205,540,Vascularized smooth muscle
+smooth muscle,1243,71,Smooth muscle
+smooth muscle,1239,111,Smooth muscle
+smooth muscle,1245,97,Smooth muscle
+smooth muscle,1244,70,Smooth muscle
+smooth muscle,1205,1018,Vascularized smooth muscle
+smooth muscle,1260,102,Smooth muscle
+smooth muscle,1241,524,Immune-infiltrated stroma
+smooth muscle,1259,79,Smooth muscle
+smooth muscle,1268,39,Smooth muscle
+smooth muscle,1267,29,Smooth muscle
+smooth muscle,1268,101,Smooth muscle
+smooth muscle,1268,483,Vascularized smooth muscle
+smooth muscle,1279,36,Smooth muscle
+smooth muscle,1277,169,Smooth muscle
+smooth muscle,1272,212,Smooth muscle
+smooth muscle,1286,24,Smooth muscle
+smooth muscle,1280,77,Smooth muscle
+smooth muscle,1253,817,Vascularized smooth muscle
+smooth muscle,1275,493,Vascularized smooth muscle
+smooth muscle,1250,991,Immune-infiltrated stroma
+smooth muscle,1297,36,Smooth muscle
+smooth muscle,1297,64,Smooth muscle
+smooth muscle,1303,15,Smooth muscle
+smooth muscle,1299,89,Smooth muscle
+smooth muscle,1254,1084,Vascularized smooth muscle
+smooth muscle,1283,511,Vascularized smooth muscle
+smooth muscle,1305,132,Smooth muscle
+smooth muscle,1311,67,Smooth muscle
+smooth muscle,1313,59,Smooth muscle
+smooth muscle,1283,906,Smooth muscle
+smooth muscle,1294,703,Immune-infiltrated stroma
+smooth muscle,1285,943,Smooth muscle
+smooth muscle,1279,923,Smooth muscle
+smooth muscle,1283,1070,Vascularized smooth muscle
+smooth muscle,1294,1002,Smooth muscle
+smooth muscle,1310,915,Smooth muscle
+smooth muscle,1338,15,Smooth muscle
+smooth muscle,1295,1041,Smooth muscle
+smooth muscle,1337,195,Smooth muscle
+smooth muscle,1316,829,Vascularized smooth muscle
+smooth muscle,1313,901,Smooth muscle
+smooth muscle,1312,965,Smooth muscle
+smooth muscle,1356,32,Smooth muscle
+smooth muscle,1321,998,Smooth muscle
+smooth muscle,1315,1124,Vascularized smooth muscle
+smooth muscle,1375,125,Smooth muscle
+smooth muscle,1381,69,Smooth muscle
+smooth muscle,1332,1014,Smooth muscle
+smooth muscle,1362,726,Tumor boundary
+smooth muscle,1346,1045,Smooth muscle
+smooth muscle,1355,1027,Smooth muscle
+smooth muscle,1397,20,Smooth muscle
+smooth muscle,1394,148,Smooth muscle
+smooth muscle,1395,59,Smooth muscle
+smooth muscle,1366,748,Immune-infiltrated stroma
+smooth muscle,1342,1107,Smooth muscle
+smooth muscle,1406,123,Smooth muscle
+smooth muscle,1409,18,Smooth muscle
+smooth muscle,1424,37,Smooth muscle
+smooth muscle,1382,1113,Smooth muscle
+smooth muscle,1429,108,Smooth muscle
+smooth muscle,1427,62,Smooth muscle
+smooth muscle,1375,990,Smooth muscle
+smooth muscle,1401,1002,Smooth muscle
+smooth muscle,1392,1048,Smooth muscle
+smooth muscle,1398,871,Vascularized smooth muscle
+smooth muscle,1437,39,Smooth muscle
+smooth muscle,1412,824,Vascularized smooth muscle
+smooth muscle,1452,15,Smooth muscle
+smooth muscle,1430,867,Vascularized smooth muscle
+smooth muscle,1433,882,Vascularized smooth muscle
+smooth muscle,1437,1012,Smooth muscle
+smooth muscle,1479,76,Smooth muscle
+smooth muscle,1486,47,Smooth muscle
+smooth muscle,1447,989,Smooth muscle
+smooth muscle,1488,64,Smooth muscle
+smooth muscle,1499,131,Smooth muscle
+smooth muscle,1452,997,Smooth muscle
+smooth muscle,1502,23,Smooth muscle
+smooth muscle,1470,1021,Smooth muscle
+smooth muscle,1462,973,Smooth muscle
+smooth muscle,1518,83,Smooth muscle
+smooth muscle,1519,79,Smooth muscle
+smooth muscle,1482,1024,Smooth muscle
+smooth muscle,1492,872,Vascularized smooth muscle
+smooth muscle,1519,1040,Smooth muscle
+smooth muscle,1562,871,Immune-infiltrated stroma
+smooth muscle,1534,949,Vascularized smooth muscle
+undefined,344,1060,Follicle
+undefined,408,741,T cell enriched
+undefined,403,697,T cell enriched
+undefined,420,749,T cell enriched
+undefined,539,907,T cell enriched
+undefined,557,921,T cell enriched
+undefined,573,896,Tumor boundary
+undefined,711,774,T cell enriched
+undefined,704,750,T cell enriched
+undefined,1002,677,Tumor boundary
+undefined,1083,642,Bulk tumor
+undefined,1112,979,T cell enriched
+undefined,1150,609,Vascularized smooth muscle
+undefined,1128,905,Tumor boundary
+undefined,1161,689,Tumor boundary
+undefined,1169,618,Vascularized smooth muscle
+undefined,1298,282,Vascularized smooth muscle
+undefined,1324,782,Vascularized smooth muscle
+undefined,1606,89,Vascularized smooth muscle
+undefined,1780,307,Macrophage enriched
+tumor cells / immune cells,338,825,Tumor boundary
+tumor cells / immune cells,395,829,Tumor boundary
+tumor cells / immune cells,396,889,Tumor boundary
+tumor cells / immune cells,585,672,Tumor boundary
+tumor cells / immune cells,618,778,Tumor boundary
+tumor cells / immune cells,629,739,Tumor boundary
+tumor cells / immune cells,655,819,Tumor boundary
+tumor cells / immune cells,851,706,Tumor boundary
+tumor cells / immune cells,926,809,Tumor boundary
+tumor cells / immune cells,938,878,Tumor boundary
+tumor cells / immune cells,936,789,Tumor boundary
+tumor cells / immune cells,958,876,Tumor boundary
+tumor cells / immune cells,989,879,Tumor boundary
+tumor cells / immune cells,1000,664,Tumor boundary
+tumor cells / immune cells,1025,820,Tumor boundary
+tumor cells / immune cells,1220,1061,Vascularized smooth muscle
+tumor cells / immune cells,1517,593,Follicle
+immune cells / vasculature,241,886,T cell enriched
+immune cells / vasculature,252,788,Tumor boundary
+immune cells / vasculature,301,688,T cell enriched
+immune cells / vasculature,447,954,Tumor boundary
+immune cells / vasculature,489,917,T cell enriched
+immune cells / vasculature,518,882,T cell enriched
+immune cells / vasculature,670,258,Smooth muscle
+immune cells / vasculature,761,1129,Follicle
+immune cells / vasculature,777,1187,Follicle
+immune cells / vasculature,965,665,Tumor boundary
+immune cells / vasculature,1051,900,T cell enriched
+immune cells / vasculature,1233,923,Vascularized smooth muscle
+immune cells / vasculature,1253,1121,Vascularized smooth muscle
+immune cells / vasculature,1571,570,Follicle
+immune cells / vasculature,1617,876,Follicle
+immune cells / vasculature,1726,260,Macrophage enriched
+immune cells / vasculature,1770,239,Macrophage enriched
+immune cells,266,928,Immune-infiltrated stroma
+immune cells,776,943,Vascularized smooth muscle
+immune cells,851,688,Tumor boundary
+immune cells,1017,638,Tumor boundary
+immune cells,1072,806,T cell enriched
+immune cells,1086,842,T cell enriched
+immune cells,1113,787,Tumor boundary
+immune cells,1146,663,Tumor boundary
+immune cells,1182,1105,Follicle
+immune cells,1212,963,Vascularized smooth muscle
+immune cells,1265,621,Tumor boundary
+immune cells,1775,544,Follicle
+nerves,1135,959,Vascularized smooth muscle
+CD3+ T cells,1629,717,Follicle

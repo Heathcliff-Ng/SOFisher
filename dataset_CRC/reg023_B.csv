@@ -1,0 +1,2395 @@
+ClusterName,0,1,neighborhood name
+granulocytes,61,505,Vascularized smooth muscle
+granulocytes,64,730,Vascularized smooth muscle
+granulocytes,80,619,Macrophage enriched
+granulocytes,87,637,Macrophage enriched
+granulocytes,166,150,T cell enriched
+granulocytes,127,969,Vascularized smooth muscle
+granulocytes,143,710,T cell enriched
+granulocytes,180,88,T cell enriched
+granulocytes,155,645,Macrophage enriched
+granulocytes,151,958,Granulocyte enriched
+granulocytes,184,494,Vascularized smooth muscle
+granulocytes,175,528,T cell enriched
+granulocytes,187,936,T cell enriched
+granulocytes,218,610,T cell enriched
+granulocytes,216,860,Macrophage enriched
+granulocytes,251,203,T cell enriched
+granulocytes,238,1037,T cell enriched
+granulocytes,228,1160,Macrophage enriched
+granulocytes,290,40,T cell enriched
+granulocytes,261,716,T cell enriched
+granulocytes,272,454,Smooth muscle
+granulocytes,296,77,T cell enriched
+granulocytes,283,783,T cell enriched
+granulocytes,267,805,T cell enriched
+granulocytes,315,92,T cell enriched
+granulocytes,314,456,T cell enriched
+granulocytes,311,1046,T cell enriched
+granulocytes,315,870,T cell enriched
+granulocytes,323,754,T cell enriched
+granulocytes,332,426,Vascularized smooth muscle
+granulocytes,348,579,Macrophage enriched
+granulocytes,381,13,T cell enriched
+granulocytes,374,512,T cell enriched
+granulocytes,412,208,Granulocyte enriched
+granulocytes,432,199,Granulocyte enriched
+granulocytes,446,57,T cell enriched
+granulocytes,447,477,Macrophage enriched
+granulocytes,460,172,T cell enriched
+granulocytes,455,208,T cell enriched
+granulocytes,432,867,T cell enriched
+granulocytes,481,241,T cell enriched
+granulocytes,432,1306,T cell enriched
+granulocytes,504,546,T cell enriched
+granulocytes,506,1067,T cell enriched
+granulocytes,572,222,T cell enriched
+granulocytes,587,402,Macrophage enriched
+granulocytes,611,277,T cell enriched
+granulocytes,616,244,Granulocyte enriched
+granulocytes,595,1200,T cell enriched
+granulocytes,626,541,T cell enriched
+granulocytes,617,892,T cell enriched
+granulocytes,643,231,T cell enriched
+granulocytes,647,303,Macrophage enriched
+granulocytes,637,539,T cell enriched
+granulocytes,659,255,Granulocyte enriched
+granulocytes,662,152,Macrophage enriched
+granulocytes,635,923,T cell enriched
+granulocytes,632,1005,Macrophage enriched
+granulocytes,684,266,T cell enriched
+granulocytes,638,1159,T cell enriched
+granulocytes,687,1194,T cell enriched
+granulocytes,696,1222,T cell enriched
+granulocytes,717,801,Immune-infiltrated stroma
+granulocytes,730,465,T cell enriched
+granulocytes,743,813,Tumor boundary
+granulocytes,781,1229,T cell enriched
+granulocytes,791,1302,T cell enriched
+granulocytes,831,775,T cell enriched
+granulocytes,819,1047,T cell enriched
+granulocytes,862,356,T cell enriched
+granulocytes,854,674,T cell enriched
+granulocytes,837,1159,T cell enriched
+granulocytes,873,556,Tumor boundary
+granulocytes,880,442,T cell enriched
+granulocytes,875,587,T cell enriched
+granulocytes,896,375,T cell enriched
+granulocytes,875,1171,Macrophage enriched
+granulocytes,901,634,T cell enriched
+granulocytes,924,211,Tumor boundary
+granulocytes,918,651,Granulocyte enriched
+granulocytes,899,1293,T cell enriched
+granulocytes,909,1108,T cell enriched
+granulocytes,953,689,Granulocyte enriched
+granulocytes,939,686,Granulocyte enriched
+granulocytes,957,623,T cell enriched
+granulocytes,947,1290,T cell enriched
+granulocytes,968,809,T cell enriched
+granulocytes,1015,75,T cell enriched
+granulocytes,1006,379,Follicle
+granulocytes,957,1300,T cell enriched
+granulocytes,987,677,Granulocyte enriched
+granulocytes,1007,570,Tumor boundary
+granulocytes,1004,672,Granulocyte enriched
+granulocytes,1009,623,T cell enriched
+granulocytes,995,782,T cell enriched
+granulocytes,1020,657,Granulocyte enriched
+granulocytes,984,1356,T cell enriched
+granulocytes,1048,394,Follicle
+granulocytes,1028,706,Granulocyte enriched
+granulocytes,1057,174,Macrophage enriched
+granulocytes,1047,666,Granulocyte enriched
+granulocytes,1046,684,Granulocyte enriched
+granulocytes,1078,215,Macrophage enriched
+granulocytes,1075,228,Macrophage enriched
+granulocytes,1067,660,Granulocyte enriched
+granulocytes,1058,817,T cell enriched
+granulocytes,1036,1358,T cell enriched
+granulocytes,1068,1422,T cell enriched
+granulocytes,1115,334,Follicle
+granulocytes,1148,90,T cell enriched
+granulocytes,1130,637,T cell enriched
+granulocytes,1108,983,T cell enriched
+granulocytes,1136,1124,T cell enriched
+granulocytes,1181,519,T cell enriched
+granulocytes,1183,534,T cell enriched
+granulocytes,1181,626,Follicle
+granulocytes,1176,934,T cell enriched
+granulocytes,1197,804,T cell enriched
+granulocytes,1197,942,T cell enriched
+granulocytes,1230,152,Macrophage enriched
+granulocytes,1209,775,Granulocyte enriched
+granulocytes,1219,795,T cell enriched
+granulocytes,1209,1077,T cell enriched
+granulocytes,1226,942,T cell enriched
+granulocytes,1250,758,T cell enriched
+granulocytes,1274,195,Macrophage enriched
+granulocytes,1262,750,T cell enriched
+granulocytes,1272,663,T cell enriched
+granulocytes,1261,976,T cell enriched
+granulocytes,1287,236,Macrophage enriched
+granulocytes,1260,1165,T cell enriched
+granulocytes,1296,702,Granulocyte enriched
+granulocytes,1295,691,T cell enriched
+granulocytes,1322,243,Macrophage enriched
+granulocytes,1304,730,T cell enriched
+granulocytes,1307,899,T cell enriched
+granulocytes,1325,726,Granulocyte enriched
+granulocytes,1327,645,T cell enriched
+granulocytes,1322,1128,T cell enriched
+granulocytes,1338,551,T cell enriched
+granulocytes,1370,88,T cell enriched
+granulocytes,1360,871,T cell enriched
+granulocytes,1370,543,Granulocyte enriched
+granulocytes,1390,665,T cell enriched
+granulocytes,1411,566,T cell enriched
+granulocytes,1376,1281,Macrophage enriched
+granulocytes,1441,326,T cell enriched
+granulocytes,1401,901,Macrophage enriched
+granulocytes,1401,1102,Macrophage enriched
+granulocytes,1419,1004,T cell enriched
+granulocytes,1404,1200,Macrophage enriched
+granulocytes,1439,974,Tumor boundary
+granulocytes,1455,724,Immune-infiltrated stroma
+granulocytes,1449,902,T cell enriched
+granulocytes,1489,338,T cell enriched
+granulocytes,1522,762,Immune-infiltrated stroma
+granulocytes,1527,1334,Granulocyte enriched
+granulocytes,1531,1267,Immune-infiltrated stroma
+granulocytes,1526,1259,Immune-infiltrated stroma
+granulocytes,1539,1060,Macrophage enriched
+granulocytes,1587,432,T cell enriched
+granulocytes,1608,276,Macrophage enriched
+granulocytes,1614,390,T cell enriched
+granulocytes,1586,1310,Immune-infiltrated stroma
+granulocytes,1704,471,Macrophage enriched
+granulocytes,1748,408,T cell enriched
+granulocytes,1770,394,Macrophage enriched
+granulocytes,1785,485,Granulocyte enriched
+granulocytes,1801,503,Granulocyte enriched
+granulocytes,1810,472,Granulocyte enriched
+granulocytes,1810,506,Granulocyte enriched
+granulocytes,1802,819,Tumor boundary
+granulocytes,1834,628,Macrophage enriched
+granulocytes,1854,777,Macrophage enriched
+vasculature,505,1360,Vascularized smooth muscle
+vasculature,539,1018,T cell enriched
+vasculature,543,785,T cell enriched
+vasculature,547,1343,Vascularized smooth muscle
+vasculature,567,1309,Vascularized smooth muscle
+vasculature,598,1097,T cell enriched
+vasculature,565,1439,Vascularized smooth muscle
+vasculature,661,18,T cell enriched
+vasculature,615,1314,Vascularized smooth muscle
+vasculature,612,1391,Vascularized smooth muscle
+vasculature,656,789,Immune-infiltrated stroma
+vasculature,640,845,T cell enriched
+vasculature,632,1272,Vascularized smooth muscle
+vasculature,659,847,Immune-infiltrated stroma
+vasculature,642,1380,Vascularized smooth muscle
+vasculature,687,853,Immune-infiltrated stroma
+vasculature,675,1106,Macrophage enriched
+vasculature,713,1307,Smooth muscle
+vasculature,725,1029,T cell enriched
+vasculature,746,880,T cell enriched
+vasculature,772,855,Macrophage enriched
+vasculature,762,1311,Vascularized smooth muscle
+vasculature,814,1375,Smooth muscle
+vasculature,884,354,T cell enriched
+vasculature,832,1396,Smooth muscle
+vasculature,902,357,T cell enriched
+vasculature,1003,733,Immune-infiltrated stroma
+vasculature,1042,751,T cell enriched
+vasculature,1133,71,T cell enriched
+vasculature,1104,488,Follicle
+vasculature,1098,1344,T cell enriched
+vasculature,1193,67,T cell enriched
+vasculature,1217,84,T cell enriched
+vasculature,1252,1266,T cell enriched
+vasculature,1298,98,T cell enriched
+vasculature,1324,57,T cell enriched
+vasculature,1306,565,T cell enriched
+vasculature,1332,15,T cell enriched
+vasculature,1294,1121,T cell enriched
+vasculature,1302,977,T cell enriched
+vasculature,1331,712,Granulocyte enriched
+vasculature,1359,235,T cell enriched
+vasculature,1328,964,T cell enriched
+vasculature,1365,632,Tumor boundary
+vasculature,1395,367,T cell enriched
+vasculature,1379,992,Follicle
+vasculature,1419,673,T cell enriched
+vasculature,1422,693,Macrophage enriched
+vasculature,1430,869,T cell enriched
+vasculature,1515,613,T cell enriched
+vasculature,1512,592,T cell enriched
+vasculature,1521,913,Immune-infiltrated stroma
+vasculature,1520,885,Immune-infiltrated stroma
+vasculature,1617,307,T cell enriched
+vasculature,1642,520,T cell enriched
+vasculature,1673,375,T cell enriched
+vasculature,1669,367,T cell enriched
+vasculature,1688,529,Macrophage enriched
+vasculature,1714,307,T cell enriched
+vasculature,1826,828,Tumor boundary
+vasculature,1884,816,Tumor boundary
+vasculature,1898,832,Macrophage enriched
+CD4+ T cells CD45RO+,59,431,Vascularized smooth muscle
+CD4+ T cells CD45RO+,78,545,T cell enriched
+CD4+ T cells CD45RO+,79,574,Macrophage enriched
+CD4+ T cells CD45RO+,108,733,Macrophage enriched
+CD4+ T cells CD45RO+,93,828,T cell enriched
+CD4+ T cells CD45RO+,113,521,T cell enriched
+CD4+ T cells CD45RO+,131,555,T cell enriched
+CD4+ T cells CD45RO+,120,856,Macrophage enriched
+CD4+ T cells CD45RO+,153,186,T cell enriched
+CD4+ T cells CD45RO+,126,870,Macrophage enriched
+CD4+ T cells CD45RO+,179,448,Smooth muscle
+CD4+ T cells CD45RO+,169,714,Macrophage enriched
+CD4+ T cells CD45RO+,170,781,Macrophage enriched
+CD4+ T cells CD45RO+,195,283,T cell enriched
+CD4+ T cells CD45RO+,188,534,T cell enriched
+CD4+ T cells CD45RO+,206,298,T cell enriched
+CD4+ T cells CD45RO+,214,104,T cell enriched
+CD4+ T cells CD45RO+,217,416,Smooth muscle
+CD4+ T cells CD45RO+,202,568,T cell enriched
+CD4+ T cells CD45RO+,228,116,T cell enriched
+CD4+ T cells CD45RO+,228,124,T cell enriched
+CD4+ T cells CD45RO+,208,551,T cell enriched
+CD4+ T cells CD45RO+,243,29,T cell enriched
+CD4+ T cells CD45RO+,226,325,T cell enriched
+CD4+ T cells CD45RO+,207,898,T cell enriched
+CD4+ T cells CD45RO+,239,344,T cell enriched
+CD4+ T cells CD45RO+,215,878,T cell enriched
+CD4+ T cells CD45RO+,224,871,T cell enriched
+CD4+ T cells CD45RO+,223,947,T cell enriched
+CD4+ T cells CD45RO+,242,365,T cell enriched
+CD4+ T cells CD45RO+,230,650,T cell enriched
+CD4+ T cells CD45RO+,262,13,T cell enriched
+CD4+ T cells CD45RO+,228,748,T cell enriched
+CD4+ T cells CD45RO+,231,680,T cell enriched
+CD4+ T cells CD45RO+,235,912,T cell enriched
+CD4+ T cells CD45RO+,259,305,Vascularized smooth muscle
+CD4+ T cells CD45RO+,239,938,T cell enriched
+CD4+ T cells CD45RO+,227,772,Macrophage enriched
+CD4+ T cells CD45RO+,257,519,T cell enriched
+CD4+ T cells CD45RO+,252,678,T cell enriched
+CD4+ T cells CD45RO+,274,307,Vascularized smooth muscle
+CD4+ T cells CD45RO+,254,688,T cell enriched
+CD4+ T cells CD45RO+,256,874,T cell enriched
+CD4+ T cells CD45RO+,271,526,T cell enriched
+CD4+ T cells CD45RO+,272,525,T cell enriched
+CD4+ T cells CD45RO+,277,514,T cell enriched
+CD4+ T cells CD45RO+,259,827,T cell enriched
+CD4+ T cells CD45RO+,268,659,T cell enriched
+CD4+ T cells CD45RO+,268,691,T cell enriched
+CD4+ T cells CD45RO+,252,1140,Macrophage enriched
+CD4+ T cells CD45RO+,261,1039,T cell enriched
+CD4+ T cells CD45RO+,263,744,T cell enriched
+CD4+ T cells CD45RO+,311,74,T cell enriched
+CD4+ T cells CD45RO+,282,689,T cell enriched
+CD4+ T cells CD45RO+,274,1034,T cell enriched
+CD4+ T cells CD45RO+,315,137,T cell enriched
+CD4+ T cells CD45RO+,274,1197,T cell enriched
+CD4+ T cells CD45RO+,284,844,T cell enriched
+CD4+ T cells CD45RO+,322,113,T cell enriched
+CD4+ T cells CD45RO+,331,57,T cell enriched
+CD4+ T cells CD45RO+,307,809,T cell enriched
+CD4+ T cells CD45RO+,338,14,T cell enriched
+CD4+ T cells CD45RO+,291,1213,T cell enriched
+CD4+ T cells CD45RO+,294,1203,T cell enriched
+CD4+ T cells CD45RO+,331,476,T cell enriched
+CD4+ T cells CD45RO+,346,118,T cell enriched
+CD4+ T cells CD45RO+,340,504,T cell enriched
+CD4+ T cells CD45RO+,329,509,T cell enriched
+CD4+ T cells CD45RO+,313,841,T cell enriched
+CD4+ T cells CD45RO+,315,1125,Macrophage enriched
+CD4+ T cells CD45RO+,370,96,T cell enriched
+CD4+ T cells CD45RO+,338,944,Macrophage enriched
+CD4+ T cells CD45RO+,355,656,T cell enriched
+CD4+ T cells CD45RO+,365,494,T cell enriched
+CD4+ T cells CD45RO+,340,1166,T cell enriched
+CD4+ T cells CD45RO+,341,888,Macrophage enriched
+CD4+ T cells CD45RO+,327,1058,Macrophage enriched
+CD4+ T cells CD45RO+,332,983,T cell enriched
+CD4+ T cells CD45RO+,341,1110,Macrophage enriched
+CD4+ T cells CD45RO+,395,82,T cell enriched
+CD4+ T cells CD45RO+,350,1187,Macrophage enriched
+CD4+ T cells CD45RO+,403,150,T cell enriched
+CD4+ T cells CD45RO+,413,35,T cell enriched
+CD4+ T cells CD45RO+,405,454,T cell enriched
+CD4+ T cells CD45RO+,388,635,T cell enriched
+CD4+ T cells CD45RO+,424,181,T cell enriched
+CD4+ T cells CD45RO+,433,47,T cell enriched
+CD4+ T cells CD45RO+,396,966,Macrophage enriched
+CD4+ T cells CD45RO+,436,275,T cell enriched
+CD4+ T cells CD45RO+,425,762,T cell enriched
+CD4+ T cells CD45RO+,397,1123,Macrophage enriched
+CD4+ T cells CD45RO+,433,532,T cell enriched
+CD4+ T cells CD45RO+,435,318,T cell enriched
+CD4+ T cells CD45RO+,465,235,T cell enriched
+CD4+ T cells CD45RO+,471,195,Granulocyte enriched
+CD4+ T cells CD45RO+,464,309,T cell enriched
+CD4+ T cells CD45RO+,479,14,T cell enriched
+CD4+ T cells CD45RO+,459,370,T cell enriched
+CD4+ T cells CD45RO+,471,257,T cell enriched
+CD4+ T cells CD45RO+,457,570,T cell enriched
+CD4+ T cells CD45RO+,477,322,T cell enriched
+CD4+ T cells CD45RO+,459,526,T cell enriched
+CD4+ T cells CD45RO+,462,406,T cell enriched
+CD4+ T cells CD45RO+,444,1023,T cell enriched
+CD4+ T cells CD45RO+,432,1268,Macrophage enriched
+CD4+ T cells CD45RO+,438,1075,T cell enriched
+CD4+ T cells CD45RO+,471,627,T cell enriched
+CD4+ T cells CD45RO+,466,806,T cell enriched
+CD4+ T cells CD45RO+,440,1312,T cell enriched
+CD4+ T cells CD45RO+,484,665,T cell enriched
+CD4+ T cells CD45RO+,503,225,T cell enriched
+CD4+ T cells CD45RO+,501,247,T cell enriched
+CD4+ T cells CD45RO+,509,400,T cell enriched
+CD4+ T cells CD45RO+,520,35,T cell enriched
+CD4+ T cells CD45RO+,482,1065,T cell enriched
+CD4+ T cells CD45RO+,473,1197,Macrophage enriched
+CD4+ T cells CD45RO+,508,350,T cell enriched
+CD4+ T cells CD45RO+,518,238,T cell enriched
+CD4+ T cells CD45RO+,515,417,T cell enriched
+CD4+ T cells CD45RO+,526,221,T cell enriched
+CD4+ T cells CD45RO+,469,1061,T cell enriched
+CD4+ T cells CD45RO+,521,430,T cell enriched
+CD4+ T cells CD45RO+,546,34,T cell enriched
+CD4+ T cells CD45RO+,543,177,T cell enriched
+CD4+ T cells CD45RO+,540,406,T cell enriched
+CD4+ T cells CD45RO+,516,761,Vascularized smooth muscle
+CD4+ T cells CD45RO+,555,22,T cell enriched
+CD4+ T cells CD45RO+,503,1152,T cell enriched
+CD4+ T cells CD45RO+,554,195,T cell enriched
+CD4+ T cells CD45RO+,550,216,T cell enriched
+CD4+ T cells CD45RO+,530,570,T cell enriched
+CD4+ T cells CD45RO+,537,840,T cell enriched
+CD4+ T cells CD45RO+,550,520,T cell enriched
+CD4+ T cells CD45RO+,565,139,T cell enriched
+CD4+ T cells CD45RO+,573,164,T cell enriched
+CD4+ T cells CD45RO+,580,73,T cell enriched
+CD4+ T cells CD45RO+,588,106,T cell enriched
+CD4+ T cells CD45RO+,583,245,T cell enriched
+CD4+ T cells CD45RO+,594,282,T cell enriched
+CD4+ T cells CD45RO+,560,1132,T cell enriched
+CD4+ T cells CD45RO+,610,209,T cell enriched
+CD4+ T cells CD45RO+,610,263,T cell enriched
+CD4+ T cells CD45RO+,610,334,Macrophage enriched
+CD4+ T cells CD45RO+,598,681,T cell enriched
+CD4+ T cells CD45RO+,608,561,T cell enriched
+CD4+ T cells CD45RO+,576,1144,T cell enriched
+CD4+ T cells CD45RO+,614,968,T cell enriched
+CD4+ T cells CD45RO+,638,556,T cell enriched
+CD4+ T cells CD45RO+,691,35,T cell enriched
+CD4+ T cells CD45RO+,637,1227,Granulocyte enriched
+CD4+ T cells CD45RO+,676,893,T cell enriched
+CD4+ T cells CD45RO+,693,670,T cell enriched
+CD4+ T cells CD45RO+,706,280,Follicle
+CD4+ T cells CD45RO+,725,223,T cell enriched
+CD4+ T cells CD45RO+,736,50,T cell enriched
+CD4+ T cells CD45RO+,740,156,T cell enriched
+CD4+ T cells CD45RO+,736,265,T cell enriched
+CD4+ T cells CD45RO+,725,609,T cell enriched
+CD4+ T cells CD45RO+,730,418,T cell enriched
+CD4+ T cells CD45RO+,746,92,T cell enriched
+CD4+ T cells CD45RO+,722,698,T cell enriched
+CD4+ T cells CD45RO+,724,708,T cell enriched
+CD4+ T cells CD45RO+,747,265,T cell enriched
+CD4+ T cells CD45RO+,716,929,T cell enriched
+CD4+ T cells CD45RO+,754,137,T cell enriched
+CD4+ T cells CD45RO+,750,661,T cell enriched
+CD4+ T cells CD45RO+,749,573,T cell enriched
+CD4+ T cells CD45RO+,761,190,T cell enriched
+CD4+ T cells CD45RO+,726,1098,T cell enriched
+CD4+ T cells CD45RO+,766,296,T cell enriched
+CD4+ T cells CD45RO+,787,84,T cell enriched
+CD4+ T cells CD45RO+,771,277,T cell enriched
+CD4+ T cells CD45RO+,745,1178,T cell enriched
+CD4+ T cells CD45RO+,743,1259,Vascularized smooth muscle
+CD4+ T cells CD45RO+,778,411,Follicle
+CD4+ T cells CD45RO+,790,272,T cell enriched
+CD4+ T cells CD45RO+,798,289,T cell enriched
+CD4+ T cells CD45RO+,787,530,T cell enriched
+CD4+ T cells CD45RO+,774,901,Macrophage enriched
+CD4+ T cells CD45RO+,812,204,T cell enriched
+CD4+ T cells CD45RO+,803,695,T cell enriched
+CD4+ T cells CD45RO+,826,40,T cell enriched
+CD4+ T cells CD45RO+,804,478,Follicle
+CD4+ T cells CD45RO+,815,793,T cell enriched
+CD4+ T cells CD45RO+,832,130,T cell enriched
+CD4+ T cells CD45RO+,825,626,T cell enriched
+CD4+ T cells CD45RO+,834,452,Follicle
+CD4+ T cells CD45RO+,809,1044,T cell enriched
+CD4+ T cells CD45RO+,844,352,T cell enriched
+CD4+ T cells CD45RO+,838,581,T cell enriched
+CD4+ T cells CD45RO+,831,1077,T cell enriched
+CD4+ T cells CD45RO+,870,133,T cell enriched
+CD4+ T cells CD45RO+,877,52,T cell enriched
+CD4+ T cells CD45RO+,862,412,T cell enriched
+CD4+ T cells CD45RO+,851,586,T cell enriched
+CD4+ T cells CD45RO+,838,1032,T cell enriched
+CD4+ T cells CD45RO+,856,608,T cell enriched
+CD4+ T cells CD45RO+,892,19,T cell enriched
+CD4+ T cells CD45RO+,887,464,T cell enriched
+CD4+ T cells CD45RO+,842,1041,T cell enriched
+CD4+ T cells CD45RO+,875,462,T cell enriched
+CD4+ T cells CD45RO+,889,307,T cell enriched
+CD4+ T cells CD45RO+,844,993,Macrophage enriched
+CD4+ T cells CD45RO+,881,402,T cell enriched
+CD4+ T cells CD45RO+,886,455,T cell enriched
+CD4+ T cells CD45RO+,883,426,T cell enriched
+CD4+ T cells CD45RO+,888,392,T cell enriched
+CD4+ T cells CD45RO+,844,1113,T cell enriched
+CD4+ T cells CD45RO+,847,1058,T cell enriched
+CD4+ T cells CD45RO+,871,806,T cell enriched
+CD4+ T cells CD45RO+,871,829,T cell enriched
+CD4+ T cells CD45RO+,844,1235,Macrophage enriched
+CD4+ T cells CD45RO+,887,598,T cell enriched
+CD4+ T cells CD45RO+,867,961,Macrophage enriched
+CD4+ T cells CD45RO+,872,782,T cell enriched
+CD4+ T cells CD45RO+,867,1075,T cell enriched
+CD4+ T cells CD45RO+,883,646,T cell enriched
+CD4+ T cells CD45RO+,903,124,T cell enriched
+CD4+ T cells CD45RO+,871,1016,T cell enriched
+CD4+ T cells CD45RO+,916,23,T cell enriched
+CD4+ T cells CD45RO+,891,903,Macrophage enriched
+CD4+ T cells CD45RO+,925,143,Macrophage enriched
+CD4+ T cells CD45RO+,897,888,T cell enriched
+CD4+ T cells CD45RO+,942,134,Macrophage enriched
+CD4+ T cells CD45RO+,947,52,T cell enriched
+CD4+ T cells CD45RO+,928,457,Follicle
+CD4+ T cells CD45RO+,907,802,T cell enriched
+CD4+ T cells CD45RO+,896,1116,T cell enriched
+CD4+ T cells CD45RO+,934,784,T cell enriched
+CD4+ T cells CD45RO+,933,612,Granulocyte enriched
+CD4+ T cells CD45RO+,950,424,Follicle
+CD4+ T cells CD45RO+,934,962,Macrophage enriched
+CD4+ T cells CD45RO+,909,1246,T cell enriched
+CD4+ T cells CD45RO+,944,786,T cell enriched
+CD4+ T cells CD45RO+,955,543,T cell enriched
+CD4+ T cells CD45RO+,906,1439,T cell enriched
+CD4+ T cells CD45RO+,938,1178,Macrophage enriched
+CD4+ T cells CD45RO+,922,1103,T cell enriched
+CD4+ T cells CD45RO+,921,1182,Macrophage enriched
+CD4+ T cells CD45RO+,963,506,Follicle
+CD4+ T cells CD45RO+,953,914,T cell enriched
+CD4+ T cells CD45RO+,924,1283,T cell enriched
+CD4+ T cells CD45RO+,981,387,Follicle
+CD4+ T cells CD45RO+,974,792,T cell enriched
+CD4+ T cells CD45RO+,985,817,T cell enriched
+CD4+ T cells CD45RO+,965,1396,T cell enriched
+CD4+ T cells CD45RO+,985,849,T cell enriched
+CD4+ T cells CD45RO+,1001,1255,Macrophage enriched
+CD4+ T cells CD45RO+,1010,806,T cell enriched
+CD4+ T cells CD45RO+,989,1143,T cell enriched
+CD4+ T cells CD45RO+,1009,898,T cell enriched
+CD4+ T cells CD45RO+,1012,1032,Follicle
+CD4+ T cells CD45RO+,981,1387,T cell enriched
+CD4+ T cells CD45RO+,981,1409,T cell enriched
+CD4+ T cells CD45RO+,1023,1013,Follicle
+CD4+ T cells CD45RO+,1049,514,Follicle
+CD4+ T cells CD45RO+,1047,591,T cell enriched
+CD4+ T cells CD45RO+,1028,1027,Follicle
+CD4+ T cells CD45RO+,1043,617,Macrophage enriched
+CD4+ T cells CD45RO+,1031,830,Immune-infiltrated stroma
+CD4+ T cells CD45RO+,1052,547,T cell enriched
+CD4+ T cells CD45RO+,1077,46,T cell enriched
+CD4+ T cells CD45RO+,1056,698,Granulocyte enriched
+CD4+ T cells CD45RO+,1070,786,T cell enriched
+CD4+ T cells CD45RO+,1088,555,T cell enriched
+CD4+ T cells CD45RO+,1108,111,T cell enriched
+CD4+ T cells CD45RO+,1107,102,T cell enriched
+CD4+ T cells CD45RO+,1051,1325,T cell enriched
+CD4+ T cells CD45RO+,1070,1378,T cell enriched
+CD4+ T cells CD45RO+,1128,41,T cell enriched
+CD4+ T cells CD45RO+,1096,527,T cell enriched
+CD4+ T cells CD45RO+,1085,871,T cell enriched
+CD4+ T cells CD45RO+,1086,980,Follicle
+CD4+ T cells CD45RO+,1124,175,T cell enriched
+CD4+ T cells CD45RO+,1081,1331,T cell enriched
+CD4+ T cells CD45RO+,1109,496,Follicle
+CD4+ T cells CD45RO+,1084,1151,T cell enriched
+CD4+ T cells CD45RO+,1095,853,T cell enriched
+CD4+ T cells CD45RO+,1075,1306,T cell enriched
+CD4+ T cells CD45RO+,1090,946,T cell enriched
+CD4+ T cells CD45RO+,1126,652,Immune-infiltrated stroma
+CD4+ T cells CD45RO+,1099,843,T cell enriched
+CD4+ T cells CD45RO+,1089,1185,T cell enriched
+CD4+ T cells CD45RO+,1109,876,T cell enriched
+CD4+ T cells CD45RO+,1139,450,T cell enriched
+CD4+ T cells CD45RO+,1103,1306,T cell enriched
+CD4+ T cells CD45RO+,1130,1086,T cell enriched
+CD4+ T cells CD45RO+,1129,1159,T cell enriched
+CD4+ T cells CD45RO+,1137,966,T cell enriched
+CD4+ T cells CD45RO+,1135,1218,Macrophage enriched
+CD4+ T cells CD45RO+,1123,1306,T cell enriched
+CD4+ T cells CD45RO+,1144,996,T cell enriched
+CD4+ T cells CD45RO+,1149,862,T cell enriched
+CD4+ T cells CD45RO+,1152,581,Follicle
+CD4+ T cells CD45RO+,1161,579,Follicle
+CD4+ T cells CD45RO+,1147,873,T cell enriched
+CD4+ T cells CD45RO+,1151,1073,T cell enriched
+CD4+ T cells CD45RO+,1151,1170,T cell enriched
+CD4+ T cells CD45RO+,1163,699,T cell enriched
+CD4+ T cells CD45RO+,1171,855,T cell enriched
+CD4+ T cells CD45RO+,1185,879,T cell enriched
+CD4+ T cells CD45RO+,1196,558,T cell enriched
+CD4+ T cells CD45RO+,1187,698,T cell enriched
+CD4+ T cells CD45RO+,1176,823,T cell enriched
+CD4+ T cells CD45RO+,1164,887,T cell enriched
+CD4+ T cells CD45RO+,1187,721,T cell enriched
+CD4+ T cells CD45RO+,1167,1072,T cell enriched
+CD4+ T cells CD45RO+,1202,740,T cell enriched
+CD4+ T cells CD45RO+,1210,387,T cell enriched
+CD4+ T cells CD45RO+,1205,640,T cell enriched
+CD4+ T cells CD45RO+,1196,1122,T cell enriched
+CD4+ T cells CD45RO+,1215,549,T cell enriched
+CD4+ T cells CD45RO+,1209,661,T cell enriched
+CD4+ T cells CD45RO+,1204,627,T cell enriched
+CD4+ T cells CD45RO+,1209,822,T cell enriched
+CD4+ T cells CD45RO+,1204,1038,T cell enriched
+CD4+ T cells CD45RO+,1246,526,T cell enriched
+CD4+ T cells CD45RO+,1219,809,T cell enriched
+CD4+ T cells CD45RO+,1249,561,T cell enriched
+CD4+ T cells CD45RO+,1225,954,T cell enriched
+CD4+ T cells CD45RO+,1225,986,T cell enriched
+CD4+ T cells CD45RO+,1228,829,T cell enriched
+CD4+ T cells CD45RO+,1226,898,T cell enriched
+CD4+ T cells CD45RO+,1228,1038,T cell enriched
+CD4+ T cells CD45RO+,1232,1019,T cell enriched
+CD4+ T cells CD45RO+,1252,738,T cell enriched
+CD4+ T cells CD45RO+,1211,1255,T cell enriched
+CD4+ T cells CD45RO+,1245,1102,T cell enriched
+CD4+ T cells CD45RO+,1256,677,T cell enriched
+CD4+ T cells CD45RO+,1255,882,Macrophage enriched
+CD4+ T cells CD45RO+,1283,130,T cell enriched
+CD4+ T cells CD45RO+,1270,579,T cell enriched
+CD4+ T cells CD45RO+,1260,923,T cell enriched
+CD4+ T cells CD45RO+,1233,1329,Tumor boundary
+CD4+ T cells CD45RO+,1251,1299,T cell enriched
+CD4+ T cells CD45RO+,1308,189,T cell enriched
+CD4+ T cells CD45RO+,1302,449,Macrophage enriched
+CD4+ T cells CD45RO+,1277,723,Granulocyte enriched
+CD4+ T cells CD45RO+,1280,830,T cell enriched
+CD4+ T cells CD45RO+,1288,751,T cell enriched
+CD4+ T cells CD45RO+,1281,976,T cell enriched
+CD4+ T cells CD45RO+,1276,1053,T cell enriched
+CD4+ T cells CD45RO+,1308,1057,T cell enriched
+CD4+ T cells CD45RO+,1289,934,T cell enriched
+CD4+ T cells CD45RO+,1304,826,T cell enriched
+CD4+ T cells CD45RO+,1288,1140,T cell enriched
+CD4+ T cells CD45RO+,1310,863,T cell enriched
+CD4+ T cells CD45RO+,1304,938,T cell enriched
+CD4+ T cells CD45RO+,1345,183,T cell enriched
+CD4+ T cells CD45RO+,1311,1199,Macrophage enriched
+CD4+ T cells CD45RO+,1334,800,T cell enriched
+CD4+ T cells CD45RO+,1378,202,T cell enriched
+CD4+ T cells CD45RO+,1341,872,T cell enriched
+CD4+ T cells CD45RO+,1345,1042,T cell enriched
+CD4+ T cells CD45RO+,1379,810,T cell enriched
+CD4+ T cells CD45RO+,1384,779,T cell enriched
+CD4+ T cells CD45RO+,1383,843,T cell enriched
+CD4+ T cells CD45RO+,1388,876,T cell enriched
+CD4+ T cells CD45RO+,1391,1064,Macrophage enriched
+CD4+ T cells CD45RO+,1431,272,Tumor boundary
+CD4+ T cells CD45RO+,1430,415,T cell enriched
+CD4+ T cells CD45RO+,1401,856,T cell enriched
+CD4+ T cells CD45RO+,1420,922,Macrophage enriched
+CD4+ T cells CD45RO+,1418,1034,T cell enriched
+CD4+ T cells CD45RO+,1502,478,Macrophage enriched
+CD4+ T cells CD45RO+,1552,420,T cell enriched
+CD4+ T cells CD45RO+,1558,557,T cell enriched
+CD4+ T cells CD45RO+,1592,1301,Immune-infiltrated stroma
+CD4+ T cells CD45RO+,1645,234,Immune-infiltrated stroma
+CD4+ T cells CD45RO+,1651,360,T cell enriched
+CD4+ T cells CD45RO+,1662,357,T cell enriched
+CD4+ T cells CD45RO+,1709,365,T cell enriched
+CD4+ T cells CD45RO+,1720,470,Macrophage enriched
+tumor cells,56,666,Macrophage enriched
+tumor cells,112,509,Vascularized smooth muscle
+tumor cells,94,868,Macrophage enriched
+tumor cells,150,593,T cell enriched
+tumor cells,157,741,T cell enriched
+tumor cells,177,743,Macrophage enriched
+tumor cells,190,977,T cell enriched
+tumor cells,222,515,T cell enriched
+tumor cells,213,595,T cell enriched
+tumor cells,247,60,T cell enriched
+tumor cells,226,831,Macrophage enriched
+tumor cells,246,728,T cell enriched
+tumor cells,240,1171,Tumor boundary
+tumor cells,264,886,T cell enriched
+tumor cells,275,1156,T cell enriched
+tumor cells,265,1215,T cell enriched
+tumor cells,332,200,Macrophage enriched
+tumor cells,357,356,Smooth muscle
+tumor cells,382,51,T cell enriched
+tumor cells,365,591,Macrophage enriched
+tumor cells,320,1237,T cell enriched
+tumor cells,352,1248,Macrophage enriched
+tumor cells,396,281,Vascularized smooth muscle
+tumor cells,381,620,T cell enriched
+tumor cells,414,284,T cell enriched
+tumor cells,431,15,T cell enriched
+tumor cells,401,895,T cell enriched
+tumor cells,440,241,T cell enriched
+tumor cells,389,1293,T cell enriched
+tumor cells,415,1071,T cell enriched
+tumor cells,443,179,T cell enriched
+tumor cells,456,95,T cell enriched
+tumor cells,501,109,Macrophage enriched
+tumor cells,488,870,T cell enriched
+tumor cells,534,320,T cell enriched
+tumor cells,549,535,T cell enriched
+tumor cells,570,755,Vascularized smooth muscle
+tumor cells,601,480,T cell enriched
+tumor cells,593,614,T cell enriched
+tumor cells,615,425,Macrophage enriched
+tumor cells,617,372,Macrophage enriched
+tumor cells,630,147,Macrophage enriched
+tumor cells,621,706,T cell enriched
+tumor cells,625,746,Tumor boundary
+tumor cells,636,775,Immune-infiltrated stroma
+tumor cells,677,252,T cell enriched
+tumor cells,712,375,Follicle
+tumor cells,686,1099,T cell enriched
+tumor cells,737,72,T cell enriched
+tumor cells,763,62,T cell enriched
+tumor cells,745,556,T cell enriched
+tumor cells,761,97,T cell enriched
+tumor cells,737,718,Macrophage enriched
+tumor cells,769,465,T cell enriched
+tumor cells,760,515,Tumor boundary
+tumor cells,759,794,T cell enriched
+tumor cells,763,708,T cell enriched
+tumor cells,768,1015,Macrophage enriched
+tumor cells,784,773,T cell enriched
+tumor cells,815,289,T cell enriched
+tumor cells,801,394,Follicle
+tumor cells,827,249,Tumor boundary
+tumor cells,833,211,Tumor boundary
+tumor cells,837,229,Tumor boundary
+tumor cells,819,606,T cell enriched
+tumor cells,824,572,T cell enriched
+tumor cells,843,477,Follicle
+tumor cells,822,1172,T cell enriched
+tumor cells,847,566,T cell enriched
+tumor cells,879,236,Tumor boundary
+tumor cells,842,1013,T cell enriched
+tumor cells,886,274,Follicle
+tumor cells,886,536,Follicle
+tumor cells,856,1052,T cell enriched
+tumor cells,893,571,Tumor boundary
+tumor cells,870,1219,Macrophage enriched
+tumor cells,904,334,T cell enriched
+tumor cells,884,797,T cell enriched
+tumor cells,924,242,Follicle
+tumor cells,942,198,Macrophage enriched
+tumor cells,919,602,T cell enriched
+tumor cells,949,273,Follicle
+tumor cells,968,55,T cell enriched
+tumor cells,952,886,T cell enriched
+tumor cells,977,279,Follicle
+tumor cells,995,22,T cell enriched
+tumor cells,982,450,Follicle
+tumor cells,976,546,T cell enriched
+tumor cells,989,566,Tumor boundary
+tumor cells,994,586,Tumor boundary
+tumor cells,996,611,Tumor boundary
+tumor cells,999,877,T cell enriched
+tumor cells,1024,416,Follicle
+tumor cells,1035,135,Macrophage enriched
+tumor cells,991,1411,T cell enriched
+tumor cells,1032,277,Macrophage enriched
+tumor cells,1047,350,T cell enriched
+tumor cells,1027,339,Macrophage enriched
+tumor cells,1060,134,Macrophage enriched
+tumor cells,1046,890,Tumor boundary
+tumor cells,1034,872,Tumor boundary
+tumor cells,1062,843,T cell enriched
+tumor cells,1075,920,Tumor boundary
+tumor cells,1107,609,Follicle
+tumor cells,1125,433,Macrophage enriched
+tumor cells,1099,919,T cell enriched
+tumor cells,1137,550,T cell enriched
+tumor cells,1137,660,T cell enriched
+tumor cells,1153,453,T cell enriched
+tumor cells,1153,521,T cell enriched
+tumor cells,1176,653,T cell enriched
+tumor cells,1211,210,Macrophage enriched
+tumor cells,1185,1052,T cell enriched
+tumor cells,1175,1091,T cell enriched
+tumor cells,1176,1253,T cell enriched
+tumor cells,1188,1345,T cell enriched
+tumor cells,1237,368,T cell enriched
+tumor cells,1240,346,T cell enriched
+tumor cells,1226,530,T cell enriched
+tumor cells,1234,972,T cell enriched
+tumor cells,1228,1373,Tumor boundary
+tumor cells,1261,1322,T cell enriched
+tumor cells,1311,424,T cell enriched
+tumor cells,1293,1030,T cell enriched
+tumor cells,1327,829,T cell enriched
+tumor cells,1333,375,Macrophage enriched
+tumor cells,1342,666,T cell enriched
+tumor cells,1343,650,Tumor boundary
+tumor cells,1338,970,T cell enriched
+tumor cells,1339,895,T cell enriched
+tumor cells,1358,1062,T cell enriched
+tumor cells,1337,1439,Tumor boundary
+tumor cells,1359,985,T cell enriched
+tumor cells,1396,327,Immune-infiltrated stroma
+tumor cells,1395,536,T cell enriched
+tumor cells,1381,1041,T cell enriched
+tumor cells,1357,1439,Tumor boundary
+tumor cells,1436,45,T cell enriched
+tumor cells,1410,664,T cell enriched
+tumor cells,1435,317,T cell enriched
+tumor cells,1420,987,Tumor boundary
+tumor cells,1399,1300,Macrophage enriched
+tumor cells,1427,1024,T cell enriched
+tumor cells,1468,260,Macrophage enriched
+tumor cells,1498,852,Tumor boundary
+tumor cells,1502,874,Tumor boundary
+tumor cells,1530,587,T cell enriched
+tumor cells,1558,749,Tumor boundary
+tumor cells,1570,654,Macrophage enriched
+tumor cells,1549,1410,Tumor boundary
+tumor cells,1570,772,Tumor boundary
+tumor cells,1622,329,T cell enriched
+tumor cells,1603,608,Macrophage enriched
+tumor cells,1585,1167,Macrophage enriched
+tumor cells,1599,774,Tumor boundary
+tumor cells,1580,1392,T cell enriched
+tumor cells,1610,829,Tumor boundary
+tumor cells,1623,780,Tumor boundary
+tumor cells,1640,848,Vascularized smooth muscle
+tumor cells,1661,250,T cell enriched
+tumor cells,1656,537,Macrophage enriched
+tumor cells,1677,308,Tumor boundary
+tumor cells,1669,477,T cell enriched
+tumor cells,1703,944,Tumor boundary
+tumor cells,1720,733,Macrophage enriched
+tumor cells,1725,397,T cell enriched
+tumor cells,1741,1003,Vascularized smooth muscle
+tumor cells,1725,879,Vascularized smooth muscle
+tumor cells,1768,817,Vascularized smooth muscle
+tumor cells,1786,370,Macrophage enriched
+tumor cells,1792,883,Tumor boundary
+tumor cells,1786,1107,Tumor boundary
+tumor cells,1786,1131,Tumor boundary
+tumor cells,1809,902,Tumor boundary
+tumor cells,1807,1093,Tumor boundary
+tumor cells,1832,664,Macrophage enriched
+tumor cells,1831,896,Tumor boundary
+tumor cells,1808,1129,Tumor boundary
+tumor cells,1839,952,Tumor boundary
+tumor cells,1852,705,Macrophage enriched
+tumor cells,1871,386,Macrophage enriched
+tumor cells,1841,1121,Tumor boundary
+tumor cells,1899,557,Macrophage enriched
+tumor cells,1919,816,Macrophage enriched
+tumor cells,1919,834,Macrophage enriched
+stroma,57,634,Macrophage enriched
+stroma,190,830,Macrophage enriched
+stroma,236,740,T cell enriched
+stroma,281,621,Immune-infiltrated stroma
+stroma,279,661,T cell enriched
+stroma,312,343,Smooth muscle
+stroma,291,1024,T cell enriched
+stroma,305,642,Immune-infiltrated stroma
+stroma,318,1006,T cell enriched
+stroma,387,674,T cell enriched
+stroma,407,194,T cell enriched
+stroma,392,549,Macrophage enriched
+stroma,377,1281,Tumor boundary
+stroma,421,272,Tumor boundary
+stroma,454,928,T cell enriched
+stroma,475,1397,Vascularized smooth muscle
+stroma,507,1439,Vascularized smooth muscle
+stroma,534,1086,T cell enriched
+stroma,582,791,Tumor boundary
+stroma,644,762,Immune-infiltrated stroma
+stroma,666,721,Immune-infiltrated stroma
+stroma,665,817,Immune-infiltrated stroma
+stroma,709,18,T cell enriched
+stroma,711,52,T cell enriched
+stroma,670,1367,Vascularized smooth muscle
+stroma,701,826,Immune-infiltrated stroma
+stroma,744,397,Follicle
+stroma,753,306,T cell enriched
+stroma,710,1381,Smooth muscle
+stroma,738,1415,Smooth muscle
+stroma,736,1385,Smooth muscle
+stroma,797,247,T cell enriched
+stroma,831,556,T cell enriched
+stroma,838,650,T cell enriched
+stroma,868,123,T cell enriched
+stroma,832,688,T cell enriched
+stroma,857,751,T cell enriched
+stroma,884,1313,T cell enriched
+stroma,919,515,Follicle
+stroma,953,311,Follicle
+stroma,964,125,Macrophage enriched
+stroma,954,719,Immune-infiltrated stroma
+stroma,954,769,T cell enriched
+stroma,984,547,Tumor boundary
+stroma,1008,227,Follicle
+stroma,1008,847,T cell enriched
+stroma,1022,253,Immune-infiltrated stroma
+stroma,1033,80,T cell enriched
+stroma,1014,736,Immune-infiltrated stroma
+stroma,1027,545,T cell enriched
+stroma,1051,327,T cell enriched
+stroma,1042,562,T cell enriched
+stroma,1053,956,T cell enriched
+stroma,1051,838,T cell enriched
+stroma,1052,1195,Macrophage enriched
+stroma,1074,884,Tumor boundary
+stroma,1107,295,Macrophage enriched
+stroma,1082,1439,T cell enriched
+stroma,1072,1213,T cell enriched
+stroma,1128,685,T cell enriched
+stroma,1131,809,T cell enriched
+stroma,1129,1015,Macrophage enriched
+stroma,1144,609,Follicle
+stroma,1158,371,Macrophage enriched
+stroma,1150,883,T cell enriched
+stroma,1157,649,Immune-infiltrated stroma
+stroma,1148,928,T cell enriched
+stroma,1157,788,T cell enriched
+stroma,1198,685,T cell enriched
+stroma,1212,265,Macrophage enriched
+stroma,1249,125,T cell enriched
+stroma,1248,854,T cell enriched
+stroma,1227,1173,Macrophage enriched
+stroma,1259,842,T cell enriched
+stroma,1275,434,T cell enriched
+stroma,1261,1383,Tumor boundary
+stroma,1280,1003,T cell enriched
+stroma,1295,1193,Macrophage enriched
+stroma,1365,355,Macrophage enriched
+stroma,1365,1026,T cell enriched
+stroma,1383,596,Granulocyte enriched
+stroma,1357,1132,Macrophage enriched
+stroma,1402,265,Tumor boundary
+stroma,1423,621,T cell enriched
+stroma,1399,1036,T cell enriched
+stroma,1444,736,Macrophage enriched
+stroma,1403,952,Macrophage enriched
+stroma,1455,374,T cell enriched
+stroma,1479,16,Immune-infiltrated stroma
+stroma,1463,729,Macrophage enriched
+stroma,1484,432,T cell enriched
+stroma,1508,673,Immune-infiltrated stroma
+stroma,1487,1058,Macrophage enriched
+stroma,1514,683,Macrophage enriched
+stroma,1507,781,Immune-infiltrated stroma
+stroma,1538,12,T cell enriched
+stroma,1518,841,Vascularized smooth muscle
+stroma,1538,585,T cell enriched
+stroma,1522,991,Macrophage enriched
+stroma,1566,503,T cell enriched
+stroma,1569,921,Immune-infiltrated stroma
+stroma,1548,1252,Immune-infiltrated stroma
+stroma,1549,1308,Granulocyte enriched
+stroma,1574,899,Immune-infiltrated stroma
+stroma,1584,460,Macrophage enriched
+stroma,1574,1229,Immune-infiltrated stroma
+stroma,1575,1269,Immune-infiltrated stroma
+stroma,1613,341,T cell enriched
+stroma,1596,1039,Macrophage enriched
+stroma,1587,1361,T cell enriched
+stroma,1648,152,T cell enriched
+stroma,1612,943,Vascularized smooth muscle
+stroma,1656,660,Macrophage enriched
+stroma,1674,451,Macrophage enriched
+stroma,1695,436,Immune-infiltrated stroma
+stroma,1668,885,Vascularized smooth muscle
+stroma,1712,201,Immune-infiltrated stroma
+stroma,1737,1047,T cell enriched
+stroma,1769,752,Macrophage enriched
+stroma,1759,1056,Tumor boundary
+stroma,1806,535,Granulocyte enriched
+stroma,1859,840,Immune-infiltrated stroma
+CD68+CD163+ macrophages,54,614,Macrophage enriched
+CD68+CD163+ macrophages,73,699,T cell enriched
+CD68+CD163+ macrophages,101,619,Macrophage enriched
+CD68+CD163+ macrophages,96,580,Macrophage enriched
+CD68+CD163+ macrophages,87,527,T cell enriched
+CD68+CD163+ macrophages,89,714,Vascularized smooth muscle
+CD68+CD163+ macrophages,108,640,Macrophage enriched
+CD68+CD163+ macrophages,117,565,T cell enriched
+CD68+CD163+ macrophages,106,807,Macrophage enriched
+CD68+CD163+ macrophages,96,893,Macrophage enriched
+CD68+CD163+ macrophages,117,810,Macrophage enriched
+CD68+CD163+ macrophages,124,657,Macrophage enriched
+CD68+CD163+ macrophages,123,774,Macrophage enriched
+CD68+CD163+ macrophages,146,521,T cell enriched
+CD68+CD163+ macrophages,125,905,Macrophage enriched
+CD68+CD163+ macrophages,137,953,Macrophage enriched
+CD68+CD163+ macrophages,157,763,Macrophage enriched
+CD68+CD163+ macrophages,168,615,T cell enriched
+CD68+CD163+ macrophages,149,906,Macrophage enriched
+CD68+CD163+ macrophages,170,503,Vascularized smooth muscle
+CD68+CD163+ macrophages,157,924,Macrophage enriched
+CD68+CD163+ macrophages,147,861,Macrophage enriched
+CD68+CD163+ macrophages,169,734,Macrophage enriched
+CD68+CD163+ macrophages,158,803,Macrophage enriched
+CD68+CD163+ macrophages,180,782,Macrophage enriched
+CD68+CD163+ macrophages,158,876,Macrophage enriched
+CD68+CD163+ macrophages,174,803,Macrophage enriched
+CD68+CD163+ macrophages,174,915,Macrophage enriched
+CD68+CD163+ macrophages,186,621,Macrophage enriched
+CD68+CD163+ macrophages,195,722,Macrophage enriched
+CD68+CD163+ macrophages,192,860,Macrophage enriched
+CD68+CD163+ macrophages,200,765,Macrophage enriched
+CD68+CD163+ macrophages,211,643,T cell enriched
+CD68+CD163+ macrophages,200,874,T cell enriched
+CD68+CD163+ macrophages,200,887,Macrophage enriched
+CD68+CD163+ macrophages,216,740,T cell enriched
+CD68+CD163+ macrophages,216,833,Macrophage enriched
+CD68+CD163+ macrophages,197,1035,T cell enriched
+CD68+CD163+ macrophages,222,796,Macrophage enriched
+CD68+CD163+ macrophages,211,1120,Macrophage enriched
+CD68+CD163+ macrophages,221,967,T cell enriched
+CD68+CD163+ macrophages,219,1025,T cell enriched
+CD68+CD163+ macrophages,255,85,T cell enriched
+CD68+CD163+ macrophages,244,795,Macrophage enriched
+CD68+CD163+ macrophages,245,824,Macrophage enriched
+CD68+CD163+ macrophages,229,1124,Macrophage enriched
+CD68+CD163+ macrophages,283,70,Granulocyte enriched
+CD68+CD163+ macrophages,281,232,Vascularized smooth muscle
+CD68+CD163+ macrophages,238,1116,Macrophage enriched
+CD68+CD163+ macrophages,252,855,T cell enriched
+CD68+CD163+ macrophages,256,954,T cell enriched
+CD68+CD163+ macrophages,258,767,T cell enriched
+CD68+CD163+ macrophages,259,910,T cell enriched
+CD68+CD163+ macrophages,288,558,T cell enriched
+CD68+CD163+ macrophages,259,1129,Macrophage enriched
+CD68+CD163+ macrophages,259,1167,Tumor boundary
+CD68+CD163+ macrophages,286,594,Macrophage enriched
+CD68+CD163+ macrophages,257,1110,Macrophage enriched
+CD68+CD163+ macrophages,288,961,Macrophage enriched
+CD68+CD163+ macrophages,283,1066,T cell enriched
+CD68+CD163+ macrophages,282,1087,Macrophage enriched
+CD68+CD163+ macrophages,285,1118,Macrophage enriched
+CD68+CD163+ macrophages,305,724,T cell enriched
+CD68+CD163+ macrophages,331,133,T cell enriched
+CD68+CD163+ macrophages,301,1264,Tumor boundary
+CD68+CD163+ macrophages,297,1101,Macrophage enriched
+CD68+CD163+ macrophages,299,906,Macrophage enriched
+CD68+CD163+ macrophages,335,596,Macrophage enriched
+CD68+CD163+ macrophages,320,770,T cell enriched
+CD68+CD163+ macrophages,360,110,T cell enriched
+CD68+CD163+ macrophages,357,179,Macrophage enriched
+CD68+CD163+ macrophages,360,171,Macrophage enriched
+CD68+CD163+ macrophages,319,1150,T cell enriched
+CD68+CD163+ macrophages,344,544,T cell enriched
+CD68+CD163+ macrophages,331,902,T cell enriched
+CD68+CD163+ macrophages,313,929,Macrophage enriched
+CD68+CD163+ macrophages,324,1248,Macrophage enriched
+CD68+CD163+ macrophages,344,628,Macrophage enriched
+CD68+CD163+ macrophages,350,435,T cell enriched
+CD68+CD163+ macrophages,350,469,Macrophage enriched
+CD68+CD163+ macrophages,365,509,T cell enriched
+CD68+CD163+ macrophages,365,564,Macrophage enriched
+CD68+CD163+ macrophages,350,608,Macrophage enriched
+CD68+CD163+ macrophages,347,990,Macrophage enriched
+CD68+CD163+ macrophages,358,614,Macrophage enriched
+CD68+CD163+ macrophages,353,1058,Macrophage enriched
+CD68+CD163+ macrophages,391,131,T cell enriched
+CD68+CD163+ macrophages,358,853,T cell enriched
+CD68+CD163+ macrophages,363,946,T cell enriched
+CD68+CD163+ macrophages,350,1210,Macrophage enriched
+CD68+CD163+ macrophages,362,1081,Macrophage enriched
+CD68+CD163+ macrophages,380,698,T cell enriched
+CD68+CD163+ macrophages,353,1298,Macrophage enriched
+CD68+CD163+ macrophages,389,446,T cell enriched
+CD68+CD163+ macrophages,373,998,Macrophage enriched
+CD68+CD163+ macrophages,376,1009,Macrophage enriched
+CD68+CD163+ macrophages,375,1206,Macrophage enriched
+CD68+CD163+ macrophages,368,1097,Macrophage enriched
+CD68+CD163+ macrophages,425,58,T cell enriched
+CD68+CD163+ macrophages,405,578,Macrophage enriched
+CD68+CD163+ macrophages,415,317,T cell enriched
+CD68+CD163+ macrophages,381,1186,Macrophage enriched
+CD68+CD163+ macrophages,384,1101,Macrophage enriched
+CD68+CD163+ macrophages,425,528,T cell enriched
+CD68+CD163+ macrophages,422,566,Macrophage enriched
+CD68+CD163+ macrophages,447,129,T cell enriched
+CD68+CD163+ macrophages,400,1233,Macrophage enriched
+CD68+CD163+ macrophages,406,1356,T cell enriched
+CD68+CD163+ macrophages,435,490,T cell enriched
+CD68+CD163+ macrophages,473,98,T cell enriched
+CD68+CD163+ macrophages,473,216,T cell enriched
+CD68+CD163+ macrophages,457,466,Macrophage enriched
+CD68+CD163+ macrophages,451,587,T cell enriched
+CD68+CD163+ macrophages,474,269,T cell enriched
+CD68+CD163+ macrophages,417,1222,Macrophage enriched
+CD68+CD163+ macrophages,432,1155,Macrophage enriched
+CD68+CD163+ macrophages,473,458,Macrophage enriched
+CD68+CD163+ macrophages,445,1182,Macrophage enriched
+CD68+CD163+ macrophages,445,1228,Macrophage enriched
+CD68+CD163+ macrophages,482,472,Macrophage enriched
+CD68+CD163+ macrophages,478,676,T cell enriched
+CD68+CD163+ macrophages,477,703,Macrophage enriched
+CD68+CD163+ macrophages,454,1160,Macrophage enriched
+CD68+CD163+ macrophages,489,509,Macrophage enriched
+CD68+CD163+ macrophages,455,1210,Macrophage enriched
+CD68+CD163+ macrophages,497,387,T cell enriched
+CD68+CD163+ macrophages,497,459,Macrophage enriched
+CD68+CD163+ macrophages,473,1175,Macrophage enriched
+CD68+CD163+ macrophages,517,135,T cell enriched
+CD68+CD163+ macrophages,531,86,Macrophage enriched
+CD68+CD163+ macrophages,482,1241,Macrophage enriched
+CD68+CD163+ macrophages,536,120,T cell enriched
+CD68+CD163+ macrophages,507,678,T cell enriched
+CD68+CD163+ macrophages,526,385,T cell enriched
+CD68+CD163+ macrophages,537,285,T cell enriched
+CD68+CD163+ macrophages,540,295,T cell enriched
+CD68+CD163+ macrophages,517,507,Macrophage enriched
+CD68+CD163+ macrophages,530,450,T cell enriched
+CD68+CD163+ macrophages,514,770,Vascularized smooth muscle
+CD68+CD163+ macrophages,554,73,T cell enriched
+CD68+CD163+ macrophages,534,855,T cell enriched
+CD68+CD163+ macrophages,518,1230,Macrophage enriched
+CD68+CD163+ macrophages,572,89,T cell enriched
+CD68+CD163+ macrophages,562,560,T cell enriched
+CD68+CD163+ macrophages,543,1004,Macrophage enriched
+CD68+CD163+ macrophages,590,255,T cell enriched
+CD68+CD163+ macrophages,611,29,T cell enriched
+CD68+CD163+ macrophages,606,158,T cell enriched
+CD68+CD163+ macrophages,597,425,T cell enriched
+CD68+CD163+ macrophages,592,374,Macrophage enriched
+CD68+CD163+ macrophages,606,410,Macrophage enriched
+CD68+CD163+ macrophages,618,191,T cell enriched
+CD68+CD163+ macrophages,591,1106,T cell enriched
+CD68+CD163+ macrophages,597,1059,Macrophage enriched
+CD68+CD163+ macrophages,624,298,T cell enriched
+CD68+CD163+ macrophages,624,395,Macrophage enriched
+CD68+CD163+ macrophages,600,1076,T cell enriched
+CD68+CD163+ macrophages,634,194,T cell enriched
+CD68+CD163+ macrophages,651,88,T cell enriched
+CD68+CD163+ macrophages,633,638,T cell enriched
+CD68+CD163+ macrophages,638,366,Macrophage enriched
+CD68+CD163+ macrophages,642,342,Macrophage enriched
+CD68+CD163+ macrophages,645,323,Macrophage enriched
+CD68+CD163+ macrophages,655,447,T cell enriched
+CD68+CD163+ macrophages,664,326,Follicle
+CD68+CD163+ macrophages,664,383,Macrophage enriched
+CD68+CD163+ macrophages,679,141,T cell enriched
+CD68+CD163+ macrophages,626,1244,Granulocyte enriched
+CD68+CD163+ macrophages,690,413,Macrophage enriched
+CD68+CD163+ macrophages,683,788,Immune-infiltrated stroma
+CD68+CD163+ macrophages,680,643,T cell enriched
+CD68+CD163+ macrophages,689,747,Macrophage enriched
+CD68+CD163+ macrophages,709,448,T cell enriched
+CD68+CD163+ macrophages,679,1176,T cell enriched
+CD68+CD163+ macrophages,706,762,Macrophage enriched
+CD68+CD163+ macrophages,744,347,Follicle
+CD68+CD163+ macrophages,762,20,T cell enriched
+CD68+CD163+ macrophages,754,231,T cell enriched
+CD68+CD163+ macrophages,745,1177,T cell enriched
+CD68+CD163+ macrophages,788,224,T cell enriched
+CD68+CD163+ macrophages,783,732,T cell enriched
+CD68+CD163+ macrophages,803,203,T cell enriched
+CD68+CD163+ macrophages,783,791,T cell enriched
+CD68+CD163+ macrophages,790,509,T cell enriched
+CD68+CD163+ macrophages,784,541,T cell enriched
+CD68+CD163+ macrophages,788,558,T cell enriched
+CD68+CD163+ macrophages,789,588,T cell enriched
+CD68+CD163+ macrophages,775,761,T cell enriched
+CD68+CD163+ macrophages,816,17,T cell enriched
+CD68+CD163+ macrophages,813,263,T cell enriched
+CD68+CD163+ macrophages,830,77,T cell enriched
+CD68+CD163+ macrophages,796,1014,Macrophage enriched
+CD68+CD163+ macrophages,792,1024,Macrophage enriched
+CD68+CD163+ macrophages,806,992,Macrophage enriched
+CD68+CD163+ macrophages,805,904,Macrophage enriched
+CD68+CD163+ macrophages,799,1277,T cell enriched
+CD68+CD163+ macrophages,810,856,Macrophage enriched
+CD68+CD163+ macrophages,818,877,Macrophage enriched
+CD68+CD163+ macrophages,832,309,T cell enriched
+CD68+CD163+ macrophages,843,269,Follicle
+CD68+CD163+ macrophages,816,1288,T cell enriched
+CD68+CD163+ macrophages,825,896,Macrophage enriched
+CD68+CD163+ macrophages,862,93,Macrophage enriched
+CD68+CD163+ macrophages,819,1000,Macrophage enriched
+CD68+CD163+ macrophages,855,273,Follicle
+CD68+CD163+ macrophages,827,851,Macrophage enriched
+CD68+CD163+ macrophages,867,108,Macrophage enriched
+CD68+CD163+ macrophages,838,865,Macrophage enriched
+CD68+CD163+ macrophages,832,756,T cell enriched
+CD68+CD163+ macrophages,882,76,Macrophage enriched
+CD68+CD163+ macrophages,883,118,Macrophage enriched
+CD68+CD163+ macrophages,849,983,Macrophage enriched
+CD68+CD163+ macrophages,852,1011,T cell enriched
+CD68+CD163+ macrophages,894,182,T cell enriched
+CD68+CD163+ macrophages,853,1196,Macrophage enriched
+CD68+CD163+ macrophages,894,506,Follicle
+CD68+CD163+ macrophages,882,963,Macrophage enriched
+CD68+CD163+ macrophages,884,1163,Macrophage enriched
+CD68+CD163+ macrophages,932,111,T cell enriched
+CD68+CD163+ macrophages,902,923,Macrophage enriched
+CD68+CD163+ macrophages,902,935,Macrophage enriched
+CD68+CD163+ macrophages,942,23,T cell enriched
+CD68+CD163+ macrophages,881,1150,Macrophage enriched
+CD68+CD163+ macrophages,881,1197,Macrophage enriched
+CD68+CD163+ macrophages,945,84,T cell enriched
+CD68+CD163+ macrophages,892,1385,T cell enriched
+CD68+CD163+ macrophages,902,1138,T cell enriched
+CD68+CD163+ macrophages,900,1226,Macrophage enriched
+CD68+CD163+ macrophages,927,560,T cell enriched
+CD68+CD163+ macrophages,932,590,T cell enriched
+CD68+CD163+ macrophages,953,177,T cell enriched
+CD68+CD163+ macrophages,911,934,Macrophage enriched
+CD68+CD163+ macrophages,938,653,Granulocyte enriched
+CD68+CD163+ macrophages,925,925,Macrophage enriched
+CD68+CD163+ macrophages,931,896,T cell enriched
+CD68+CD163+ macrophages,978,16,T cell enriched
+CD68+CD163+ macrophages,971,158,Macrophage enriched
+CD68+CD163+ macrophages,931,1268,T cell enriched
+CD68+CD163+ macrophages,956,994,Macrophage enriched
+CD68+CD163+ macrophages,1002,173,Macrophage enriched
+CD68+CD163+ macrophages,964,865,T cell enriched
+CD68+CD163+ macrophages,1021,163,Macrophage enriched
+CD68+CD163+ macrophages,974,1371,T cell enriched
+CD68+CD163+ macrophages,1039,95,Macrophage enriched
+CD68+CD163+ macrophages,984,1288,T cell enriched
+CD68+CD163+ macrophages,1025,599,T cell enriched
+CD68+CD163+ macrophages,1003,1233,T cell enriched
+CD68+CD163+ macrophages,1034,208,Macrophage enriched
+CD68+CD163+ macrophages,1024,582,T cell enriched
+CD68+CD163+ macrophages,1046,66,Macrophage enriched
+CD68+CD163+ macrophages,1027,319,Tumor boundary
+CD68+CD163+ macrophages,1047,262,Macrophage enriched
+CD68+CD163+ macrophages,1042,306,Tumor boundary
+CD68+CD163+ macrophages,1027,382,Follicle
+CD68+CD163+ macrophages,1007,1215,T cell enriched
+CD68+CD163+ macrophages,1076,110,T cell enriched
+CD68+CD163+ macrophages,1025,1236,Macrophage enriched
+CD68+CD163+ macrophages,1026,845,Tumor boundary
+CD68+CD163+ macrophages,1058,634,T cell enriched
+CD68+CD163+ macrophages,1088,66,T cell enriched
+CD68+CD163+ macrophages,1046,1276,T cell enriched
+CD68+CD163+ macrophages,1076,630,T cell enriched
+CD68+CD163+ macrophages,1066,968,T cell enriched
+CD68+CD163+ macrophages,1058,926,Tumor boundary
+CD68+CD163+ macrophages,1065,858,Tumor boundary
+CD68+CD163+ macrophages,1042,1124,T cell enriched
+CD68+CD163+ macrophages,1099,170,T cell enriched
+CD68+CD163+ macrophages,1087,262,Macrophage enriched
+CD68+CD163+ macrophages,1069,1146,T cell enriched
+CD68+CD163+ macrophages,1093,428,Follicle
+CD68+CD163+ macrophages,1075,969,T cell enriched
+CD68+CD163+ macrophages,1117,239,T cell enriched
+CD68+CD163+ macrophages,1104,363,Follicle
+CD68+CD163+ macrophages,1126,154,T cell enriched
+CD68+CD163+ macrophages,1121,361,Follicle
+CD68+CD163+ macrophages,1084,1125,Macrophage enriched
+CD68+CD163+ macrophages,1110,441,T cell enriched
+CD68+CD163+ macrophages,1085,1245,T cell enriched
+CD68+CD163+ macrophages,1103,1074,T cell enriched
+CD68+CD163+ macrophages,1113,1041,Macrophage enriched
+CD68+CD163+ macrophages,1098,1213,Macrophage enriched
+CD68+CD163+ macrophages,1145,393,Follicle
+CD68+CD163+ macrophages,1114,1261,Macrophage enriched
+CD68+CD163+ macrophages,1140,1255,Macrophage enriched
+CD68+CD163+ macrophages,1130,1237,Macrophage enriched
+CD68+CD163+ macrophages,1163,416,T cell enriched
+CD68+CD163+ macrophages,1142,1292,T cell enriched
+CD68+CD163+ macrophages,1148,1036,Macrophage enriched
+CD68+CD163+ macrophages,1202,120,T cell enriched
+CD68+CD163+ macrophages,1170,962,Macrophage enriched
+CD68+CD163+ macrophages,1202,225,Macrophage enriched
+CD68+CD163+ macrophages,1158,1055,T cell enriched
+CD68+CD163+ macrophages,1170,1037,Macrophage enriched
+CD68+CD163+ macrophages,1162,1111,T cell enriched
+CD68+CD163+ macrophages,1173,1164,T cell enriched
+CD68+CD163+ macrophages,1157,999,Macrophage enriched
+CD68+CD163+ macrophages,1156,1401,T cell enriched
+CD68+CD163+ macrophages,1212,223,Macrophage enriched
+CD68+CD163+ macrophages,1187,978,Macrophage enriched
+CD68+CD163+ macrophages,1176,1140,Macrophage enriched
+CD68+CD163+ macrophages,1230,189,Macrophage enriched
+CD68+CD163+ macrophages,1242,164,Macrophage enriched
+CD68+CD163+ macrophages,1207,1006,T cell enriched
+CD68+CD163+ macrophages,1205,1170,Macrophage enriched
+CD68+CD163+ macrophages,1247,279,Macrophage enriched
+CD68+CD163+ macrophages,1254,192,Macrophage enriched
+CD68+CD163+ macrophages,1258,288,Macrophage enriched
+CD68+CD163+ macrophages,1259,214,Macrophage enriched
+CD68+CD163+ macrophages,1256,224,Macrophage enriched
+CD68+CD163+ macrophages,1216,869,T cell enriched
+CD68+CD163+ macrophages,1204,1294,T cell enriched
+CD68+CD163+ macrophages,1235,623,T cell enriched
+CD68+CD163+ macrophages,1267,255,Macrophage enriched
+CD68+CD163+ macrophages,1242,599,T cell enriched
+CD68+CD163+ macrophages,1256,507,Macrophage enriched
+CD68+CD163+ macrophages,1234,1061,T cell enriched
+CD68+CD163+ macrophages,1241,868,T cell enriched
+CD68+CD163+ macrophages,1247,1080,T cell enriched
+CD68+CD163+ macrophages,1267,771,T cell enriched
+CD68+CD163+ macrophages,1247,1185,Macrophage enriched
+CD68+CD163+ macrophages,1288,293,Macrophage enriched
+CD68+CD163+ macrophages,1276,512,Macrophage enriched
+CD68+CD163+ macrophages,1300,220,Macrophage enriched
+CD68+CD163+ macrophages,1280,476,Macrophage enriched
+CD68+CD163+ macrophages,1270,904,T cell enriched
+CD68+CD163+ macrophages,1266,1185,Macrophage enriched
+CD68+CD163+ macrophages,1282,625,T cell enriched
+CD68+CD163+ macrophages,1270,1071,T cell enriched
+CD68+CD163+ macrophages,1303,662,Granulocyte enriched
+CD68+CD163+ macrophages,1288,765,T cell enriched
+CD68+CD163+ macrophages,1276,1198,T cell enriched
+CD68+CD163+ macrophages,1325,499,Macrophage enriched
+CD68+CD163+ macrophages,1331,324,Macrophage enriched
+CD68+CD163+ macrophages,1331,434,Macrophage enriched
+CD68+CD163+ macrophages,1333,294,Macrophage enriched
+CD68+CD163+ macrophages,1360,122,T cell enriched
+CD68+CD163+ macrophages,1336,514,Macrophage enriched
+CD68+CD163+ macrophages,1347,458,Macrophage enriched
+CD68+CD163+ macrophages,1358,374,Macrophage enriched
+CD68+CD163+ macrophages,1350,756,T cell enriched
+CD68+CD163+ macrophages,1368,410,Macrophage enriched
+CD68+CD163+ macrophages,1343,741,Macrophage enriched
+CD68+CD163+ macrophages,1341,808,T cell enriched
+CD68+CD163+ macrophages,1372,440,Macrophage enriched
+CD68+CD163+ macrophages,1340,1158,Macrophage enriched
+CD68+CD163+ macrophages,1338,1132,Macrophage enriched
+CD68+CD163+ macrophages,1350,1206,Macrophage enriched
+CD68+CD163+ macrophages,1351,1178,Macrophage enriched
+CD68+CD163+ macrophages,1363,932,Macrophage enriched
+CD68+CD163+ macrophages,1349,1087,T cell enriched
+CD68+CD163+ macrophages,1372,824,T cell enriched
+CD68+CD163+ macrophages,1379,740,Macrophage enriched
+CD68+CD163+ macrophages,1389,706,Macrophage enriched
+CD68+CD163+ macrophages,1357,1148,Macrophage enriched
+CD68+CD163+ macrophages,1363,1198,Macrophage enriched
+CD68+CD163+ macrophages,1362,1226,Macrophage enriched
+CD68+CD163+ macrophages,1400,63,T cell enriched
+CD68+CD163+ macrophages,1343,1258,Macrophage enriched
+CD68+CD163+ macrophages,1376,948,Macrophage enriched
+CD68+CD163+ macrophages,1384,938,Macrophage enriched
+CD68+CD163+ macrophages,1378,899,Macrophage enriched
+CD68+CD163+ macrophages,1381,1102,Macrophage enriched
+CD68+CD163+ macrophages,1425,12,T cell enriched
+CD68+CD163+ macrophages,1393,893,T cell enriched
+CD68+CD163+ macrophages,1378,1212,Macrophage enriched
+CD68+CD163+ macrophages,1393,1129,Macrophage enriched
+CD68+CD163+ macrophages,1386,1223,Macrophage enriched
+CD68+CD163+ macrophages,1420,723,Macrophage enriched
+CD68+CD163+ macrophages,1443,299,Tumor boundary
+CD68+CD163+ macrophages,1382,1300,Macrophage enriched
+CD68+CD163+ macrophages,1436,675,T cell enriched
+CD68+CD163+ macrophages,1399,1268,Macrophage enriched
+CD68+CD163+ macrophages,1441,557,Macrophage enriched
+CD68+CD163+ macrophages,1390,1439,Tumor boundary
+CD68+CD163+ macrophages,1411,1146,Macrophage enriched
+CD68+CD163+ macrophages,1420,1088,Macrophage enriched
+CD68+CD163+ macrophages,1404,1253,Macrophage enriched
+CD68+CD163+ macrophages,1451,422,T cell enriched
+CD68+CD163+ macrophages,1418,1061,Macrophage enriched
+CD68+CD163+ macrophages,1419,1249,Macrophage enriched
+CD68+CD163+ macrophages,1435,800,T cell enriched
+CD68+CD163+ macrophages,1436,1131,Macrophage enriched
+CD68+CD163+ macrophages,1440,1078,Macrophage enriched
+CD68+CD163+ macrophages,1456,577,Macrophage enriched
+CD68+CD163+ macrophages,1486,254,Macrophage enriched
+CD68+CD163+ macrophages,1462,706,Immune-infiltrated stroma
+CD68+CD163+ macrophages,1471,507,Macrophage enriched
+CD68+CD163+ macrophages,1474,575,Macrophage enriched
+CD68+CD163+ macrophages,1449,1225,Macrophage enriched
+CD68+CD163+ macrophages,1451,1068,Macrophage enriched
+CD68+CD163+ macrophages,1451,1131,Macrophage enriched
+CD68+CD163+ macrophages,1506,236,Macrophage enriched
+CD68+CD163+ macrophages,1459,879,T cell enriched
+CD68+CD163+ macrophages,1461,1099,Macrophage enriched
+CD68+CD163+ macrophages,1480,835,Macrophage enriched
+CD68+CD163+ macrophages,1480,1046,Macrophage enriched
+CD68+CD163+ macrophages,1468,1188,Macrophage enriched
+CD68+CD163+ macrophages,1469,1164,Macrophage enriched
+CD68+CD163+ macrophages,1501,1129,Macrophage enriched
+CD68+CD163+ macrophages,1491,1186,Macrophage enriched
+CD68+CD163+ macrophages,1502,991,Macrophage enriched
+CD68+CD163+ macrophages,1505,1027,Macrophage enriched
+CD68+CD163+ macrophages,1549,52,T cell enriched
+CD68+CD163+ macrophages,1520,706,Macrophage enriched
+CD68+CD163+ macrophages,1565,80,T cell enriched
+CD68+CD163+ macrophages,1556,438,T cell enriched
+CD68+CD163+ macrophages,1556,665,Macrophage enriched
+CD68+CD163+ macrophages,1538,1152,Macrophage enriched
+CD68+CD163+ macrophages,1528,1097,Macrophage enriched
+CD68+CD163+ macrophages,1570,462,Macrophage enriched
+CD68+CD163+ macrophages,1561,607,T cell enriched
+CD68+CD163+ macrophages,1574,485,Macrophage enriched
+CD68+CD163+ macrophages,1550,1205,Macrophage enriched
+CD68+CD163+ macrophages,1586,293,T cell enriched
+CD68+CD163+ macrophages,1588,500,T cell enriched
+CD68+CD163+ macrophages,1553,1393,Tumor boundary
+CD68+CD163+ macrophages,1571,1094,Macrophage enriched
+CD68+CD163+ macrophages,1583,691,Macrophage enriched
+CD68+CD163+ macrophages,1589,677,Macrophage enriched
+CD68+CD163+ macrophages,1618,320,T cell enriched
+CD68+CD163+ macrophages,1592,808,Tumor boundary
+CD68+CD163+ macrophages,1608,562,T cell enriched
+CD68+CD163+ macrophages,1618,567,Macrophage enriched
+CD68+CD163+ macrophages,1602,629,Macrophage enriched
+CD68+CD163+ macrophages,1636,434,Immune-infiltrated stroma
+CD68+CD163+ macrophages,1597,957,Vascularized smooth muscle
+CD68+CD163+ macrophages,1583,1268,Immune-infiltrated stroma
+CD68+CD163+ macrophages,1616,910,Immune-infiltrated stroma
+CD68+CD163+ macrophages,1592,1247,Immune-infiltrated stroma
+CD68+CD163+ macrophages,1598,1067,Macrophage enriched
+CD68+CD163+ macrophages,1612,1100,Macrophage enriched
+CD68+CD163+ macrophages,1638,723,Macrophage enriched
+CD68+CD163+ macrophages,1619,1118,Macrophage enriched
+CD68+CD163+ macrophages,1626,1004,Macrophage enriched
+CD68+CD163+ macrophages,1639,744,Macrophage enriched
+CD68+CD163+ macrophages,1643,619,Macrophage enriched
+CD68+CD163+ macrophages,1638,1156,Macrophage enriched
+CD68+CD163+ macrophages,1671,417,Immune-infiltrated stroma
+CD68+CD163+ macrophages,1675,270,T cell enriched
+CD68+CD163+ macrophages,1670,596,Macrophage enriched
+CD68+CD163+ macrophages,1642,1419,Tumor boundary
+CD68+CD163+ macrophages,1668,548,Macrophage enriched
+CD68+CD163+ macrophages,1653,1074,Macrophage enriched
+CD68+CD163+ macrophages,1684,495,T cell enriched
+CD68+CD163+ macrophages,1662,763,Macrophage enriched
+CD68+CD163+ macrophages,1686,565,Macrophage enriched
+CD68+CD163+ macrophages,1680,758,Macrophage enriched
+CD68+CD163+ macrophages,1695,575,Macrophage enriched
+CD68+CD163+ macrophages,1709,557,Macrophage enriched
+CD68+CD163+ macrophages,1696,789,Macrophage enriched
+CD68+CD163+ macrophages,1706,677,Macrophage enriched
+CD68+CD163+ macrophages,1698,852,Macrophage enriched
+CD68+CD163+ macrophages,1721,491,Macrophage enriched
+CD68+CD163+ macrophages,1714,753,Macrophage enriched
+CD68+CD163+ macrophages,1744,332,Tumor boundary
+CD68+CD163+ macrophages,1742,480,Macrophage enriched
+CD68+CD163+ macrophages,1723,701,Macrophage enriched
+CD68+CD163+ macrophages,1743,647,Macrophage enriched
+CD68+CD163+ macrophages,1729,789,Macrophage enriched
+CD68+CD163+ macrophages,1755,318,Tumor boundary
+CD68+CD163+ macrophages,1745,814,Macrophage enriched
+CD68+CD163+ macrophages,1769,642,Macrophage enriched
+CD68+CD163+ macrophages,1735,1293,Vascularized smooth muscle
+CD68+CD163+ macrophages,1789,471,Granulocyte enriched
+CD68+CD163+ macrophages,1792,425,Macrophage enriched
+CD68+CD163+ macrophages,1807,368,Macrophage enriched
+CD68+CD163+ macrophages,1795,686,Macrophage enriched
+CD68+CD163+ macrophages,1826,422,Macrophage enriched
+CD68+CD163+ macrophages,1821,583,Macrophage enriched
+CD68+CD163+ macrophages,1819,725,Macrophage enriched
+CD68+CD163+ macrophages,1856,408,Macrophage enriched
+CD68+CD163+ macrophages,1847,485,Macrophage enriched
+CD68+CD163+ macrophages,1867,563,Macrophage enriched
+CD68+CD163+ macrophages,1897,20,Immune-infiltrated stroma
+CD68+CD163+ macrophages,1886,557,Macrophage enriched
+CD68+CD163+ macrophages,1891,576,Macrophage enriched
+CD68+CD163+ macrophages,1886,844,Macrophage enriched
+CD68+CD163+ macrophages,1877,959,Tumor boundary
+CD68+CD163+ macrophages,1903,481,Macrophage enriched
+CD68+CD163+ macrophages,1898,740,Macrophage enriched
+CD68+CD163+ macrophages,1903,663,Macrophage enriched
+CD68+CD163+ macrophages,1895,849,Macrophage enriched
+CD68+CD163+ macrophages,1911,746,Macrophage enriched
+CD68+CD163+ macrophages,1919,877,Macrophage enriched
+CD68+CD163+ macrophages,1916,527,Macrophage enriched
+CD68+CD163+ macrophages,1913,625,Macrophage enriched
+adipocytes,483,1326,T cell enriched
+adipocytes,777,809,T cell enriched
+adipocytes,1297,1297,T cell enriched
+adipocytes,1306,1361,T cell enriched
+adipocytes,1317,1439,Tumor boundary
+adipocytes,1332,1314,Tumor boundary
+adipocytes,1434,119,T cell enriched
+adipocytes,1380,1409,Tumor boundary
+adipocytes,1478,122,T cell enriched
+adipocytes,1508,98,T cell enriched
+adipocytes,1509,74,T cell enriched
+adipocytes,1509,202,T cell enriched
+adipocytes,1487,1278,Granulocyte enriched
+plasma cells,104,657,Macrophage enriched
+plasma cells,120,694,Macrophage enriched
+plasma cells,148,691,T cell enriched
+plasma cells,138,581,Macrophage enriched
+plasma cells,167,451,Vascularized smooth muscle
+plasma cells,190,804,Macrophage enriched
+plasma cells,235,586,T cell enriched
+plasma cells,246,824,Macrophage enriched
+plasma cells,264,621,T cell enriched
+plasma cells,304,768,T cell enriched
+plasma cells,294,826,T cell enriched
+plasma cells,300,789,T cell enriched
+plasma cells,290,1142,Macrophage enriched
+plasma cells,321,806,T cell enriched
+plasma cells,323,817,T cell enriched
+plasma cells,332,954,Macrophage enriched
+plasma cells,377,867,T cell enriched
+plasma cells,389,529,T cell enriched
+plasma cells,420,16,T cell enriched
+plasma cells,397,741,T cell enriched
+plasma cells,419,640,T cell enriched
+plasma cells,436,715,T cell enriched
+plasma cells,476,38,T cell enriched
+plasma cells,423,1299,T cell enriched
+plasma cells,467,613,T cell enriched
+plasma cells,468,568,T cell enriched
+plasma cells,512,171,T cell enriched
+plasma cells,517,592,T cell enriched
+plasma cells,544,361,T cell enriched
+plasma cells,545,369,T cell enriched
+plasma cells,524,724,Macrophage enriched
+plasma cells,551,51,T cell enriched
+plasma cells,513,1183,Macrophage enriched
+plasma cells,572,104,T cell enriched
+plasma cells,594,502,T cell enriched
+plasma cells,599,518,T cell enriched
+plasma cells,616,16,T cell enriched
+plasma cells,641,38,T cell enriched
+plasma cells,729,139,T cell enriched
+plasma cells,774,253,T cell enriched
+plasma cells,761,353,Follicle
+plasma cells,809,94,T cell enriched
+plasma cells,798,842,Macrophage enriched
+plasma cells,798,1175,T cell enriched
+plasma cells,859,300,Macrophage enriched
+plasma cells,900,104,Macrophage enriched
+plasma cells,890,391,T cell enriched
+plasma cells,888,608,T cell enriched
+plasma cells,883,854,T cell enriched
+plasma cells,900,840,T cell enriched
+plasma cells,912,620,T cell enriched
+plasma cells,918,1122,T cell enriched
+plasma cells,971,739,Immune-infiltrated stroma
+plasma cells,966,1264,T cell enriched
+plasma cells,998,1300,T cell enriched
+plasma cells,1013,669,Granulocyte enriched
+plasma cells,1064,380,Follicle
+plasma cells,1063,522,Follicle
+plasma cells,1035,1003,T cell enriched
+plasma cells,1028,1330,T cell enriched
+plasma cells,1084,189,T cell enriched
+plasma cells,1054,1076,Follicle
+plasma cells,1056,1305,T cell enriched
+plasma cells,1105,204,Macrophage enriched
+plasma cells,1079,1096,Macrophage enriched
+plasma cells,1123,532,T cell enriched
+plasma cells,1108,790,T cell enriched
+plasma cells,1156,311,T cell enriched
+plasma cells,1153,1391,T cell enriched
+plasma cells,1199,441,T cell enriched
+plasma cells,1163,1292,Macrophage enriched
+plasma cells,1236,502,T cell enriched
+plasma cells,1240,581,T cell enriched
+plasma cells,1247,474,Macrophage enriched
+plasma cells,1250,655,T cell enriched
+plasma cells,1240,1131,T cell enriched
+plasma cells,1261,685,T cell enriched
+plasma cells,1289,402,T cell enriched
+plasma cells,1285,680,T cell enriched
+plasma cells,1301,756,T cell enriched
+plasma cells,1315,835,T cell enriched
+plasma cells,1301,1097,T cell enriched
+plasma cells,1286,1098,T cell enriched
+plasma cells,1310,1343,T cell enriched
+plasma cells,1312,1145,T cell enriched
+plasma cells,1295,1376,Tumor boundary
+plasma cells,1364,485,Macrophage enriched
+plasma cells,1402,663,Immune-infiltrated stroma
+plasma cells,1406,504,T cell enriched
+plasma cells,1388,1011,Immune-infiltrated stroma
+plasma cells,1417,514,T cell enriched
+plasma cells,1434,497,T cell enriched
+plasma cells,1447,109,T cell enriched
+plasma cells,1437,521,Macrophage enriched
+plasma cells,1411,1223,Macrophage enriched
+plasma cells,1451,646,T cell enriched
+plasma cells,1459,960,T cell enriched
+plasma cells,1518,422,T cell enriched
+plasma cells,1542,620,T cell enriched
+plasma cells,1582,595,T cell enriched
+plasma cells,1591,687,Macrophage enriched
+plasma cells,1571,1354,Immune-infiltrated stroma
+plasma cells,1605,715,Macrophage enriched
+plasma cells,1615,685,Macrophage enriched
+plasma cells,1671,232,Immune-infiltrated stroma
+plasma cells,1760,473,Macrophage enriched
+plasma cells,1769,519,Macrophage enriched
+plasma cells,1730,1235,Vascularized smooth muscle
+plasma cells,1860,678,Macrophage enriched
+plasma cells,1857,910,Tumor boundary
+plasma cells,1866,855,Immune-infiltrated stroma
+CD8+ T cells,53,510,Vascularized smooth muscle
+CD8+ T cells,77,376,T cell enriched
+CD8+ T cells,101,442,Vascularized smooth muscle
+CD8+ T cells,85,389,Vascularized smooth muscle
+CD8+ T cells,88,508,T cell enriched
+CD8+ T cells,91,802,T cell enriched
+CD8+ T cells,128,720,T cell enriched
+CD8+ T cells,147,254,T cell enriched
+CD8+ T cells,136,630,Macrophage enriched
+CD8+ T cells,157,308,T cell enriched
+CD8+ T cells,166,390,T cell enriched
+CD8+ T cells,152,827,Macrophage enriched
+CD8+ T cells,163,584,T cell enriched
+CD8+ T cells,193,152,T cell enriched
+CD8+ T cells,171,640,Macrophage enriched
+CD8+ T cells,188,351,T cell enriched
+CD8+ T cells,200,347,T cell enriched
+CD8+ T cells,182,928,Macrophage enriched
+CD8+ T cells,188,766,Macrophage enriched
+CD8+ T cells,180,1099,Macrophage enriched
+CD8+ T cells,205,178,T cell enriched
+CD8+ T cells,222,74,T cell enriched
+CD8+ T cells,218,533,T cell enriched
+CD8+ T cells,205,937,T cell enriched
+CD8+ T cells,248,287,T cell enriched
+CD8+ T cells,231,507,T cell enriched
+CD8+ T cells,212,1013,Macrophage enriched
+CD8+ T cells,236,530,T cell enriched
+CD8+ T cells,235,863,T cell enriched
+CD8+ T cells,243,604,T cell enriched
+CD8+ T cells,243,623,T cell enriched
+CD8+ T cells,257,502,T cell enriched
+CD8+ T cells,293,245,Vascularized smooth muscle
+CD8+ T cells,301,20,T cell enriched
+CD8+ T cells,260,933,T cell enriched
+CD8+ T cells,299,159,T cell enriched
+CD8+ T cells,278,808,T cell enriched
+CD8+ T cells,270,972,T cell enriched
+CD8+ T cells,264,1069,Macrophage enriched
+CD8+ T cells,302,549,T cell enriched
+CD8+ T cells,284,912,Macrophage enriched
+CD8+ T cells,290,802,T cell enriched
+CD8+ T cells,280,970,T cell enriched
+CD8+ T cells,315,532,T cell enriched
+CD8+ T cells,293,1174,T cell enriched
+CD8+ T cells,322,713,T cell enriched
+CD8+ T cells,314,1095,Macrophage enriched
+CD8+ T cells,351,15,T cell enriched
+CD8+ T cells,310,1171,T cell enriched
+CD8+ T cells,362,81,T cell enriched
+CD8+ T cells,364,14,T cell enriched
+CD8+ T cells,340,678,T cell enriched
+CD8+ T cells,322,1204,T cell enriched
+CD8+ T cells,338,806,T cell enriched
+CD8+ T cells,342,1030,Macrophage enriched
+CD8+ T cells,363,695,T cell enriched
+CD8+ T cells,372,935,T cell enriched
+CD8+ T cells,371,1167,Macrophage enriched
+CD8+ T cells,404,506,T cell enriched
+CD8+ T cells,410,414,T cell enriched
+CD8+ T cells,377,1244,Macrophage enriched
+CD8+ T cells,420,158,T cell enriched
+CD8+ T cells,423,237,T cell enriched
+CD8+ T cells,405,655,T cell enriched
+CD8+ T cells,423,253,Tumor boundary
+CD8+ T cells,433,101,Macrophage enriched
+CD8+ T cells,408,787,T cell enriched
+CD8+ T cells,417,581,T cell enriched
+CD8+ T cells,442,401,T cell enriched
+CD8+ T cells,444,251,T cell enriched
+CD8+ T cells,448,151,T cell enriched
+CD8+ T cells,433,832,T cell enriched
+CD8+ T cells,428,1027,T cell enriched
+CD8+ T cells,459,287,T cell enriched
+CD8+ T cells,460,417,T cell enriched
+CD8+ T cells,489,31,T cell enriched
+CD8+ T cells,493,148,T cell enriched
+CD8+ T cells,456,908,T cell enriched
+CD8+ T cells,494,342,T cell enriched
+CD8+ T cells,469,556,T cell enriched
+CD8+ T cells,495,300,T cell enriched
+CD8+ T cells,497,262,T cell enriched
+CD8+ T cells,490,621,T cell enriched
+CD8+ T cells,483,1209,Macrophage enriched
+CD8+ T cells,515,284,T cell enriched
+CD8+ T cells,524,55,T cell enriched
+CD8+ T cells,524,111,Macrophage enriched
+CD8+ T cells,541,105,Macrophage enriched
+CD8+ T cells,547,159,T cell enriched
+CD8+ T cells,532,426,T cell enriched
+CD8+ T cells,544,349,T cell enriched
+CD8+ T cells,497,1122,T cell enriched
+CD8+ T cells,536,599,T cell enriched
+CD8+ T cells,521,817,T cell enriched
+CD8+ T cells,561,432,T cell enriched
+CD8+ T cells,573,310,T cell enriched
+CD8+ T cells,564,500,T cell enriched
+CD8+ T cells,586,464,T cell enriched
+CD8+ T cells,570,531,T cell enriched
+CD8+ T cells,582,354,T cell enriched
+CD8+ T cells,565,641,T cell enriched
+CD8+ T cells,601,177,T cell enriched
+CD8+ T cells,570,694,T cell enriched
+CD8+ T cells,593,309,T cell enriched
+CD8+ T cells,605,86,Macrophage enriched
+CD8+ T cells,598,446,T cell enriched
+CD8+ T cells,612,509,T cell enriched
+CD8+ T cells,594,1019,Macrophage enriched
+CD8+ T cells,587,825,T cell enriched
+CD8+ T cells,587,842,T cell enriched
+CD8+ T cells,627,182,T cell enriched
+CD8+ T cells,615,629,T cell enriched
+CD8+ T cells,615,654,T cell enriched
+CD8+ T cells,643,14,T cell enriched
+CD8+ T cells,635,478,T cell enriched
+CD8+ T cells,652,213,T cell enriched
+CD8+ T cells,632,584,T cell enriched
+CD8+ T cells,639,405,Macrophage enriched
+CD8+ T cells,672,201,Granulocyte enriched
+CD8+ T cells,654,496,T cell enriched
+CD8+ T cells,665,273,Granulocyte enriched
+CD8+ T cells,678,49,T cell enriched
+CD8+ T cells,652,742,Tumor boundary
+CD8+ T cells,689,93,T cell enriched
+CD8+ T cells,671,579,T cell enriched
+CD8+ T cells,689,429,Macrophage enriched
+CD8+ T cells,694,328,Follicle
+CD8+ T cells,699,401,T cell enriched
+CD8+ T cells,728,59,T cell enriched
+CD8+ T cells,708,611,T cell enriched
+CD8+ T cells,721,349,Follicle
+CD8+ T cells,740,105,T cell enriched
+CD8+ T cells,734,509,T cell enriched
+CD8+ T cells,755,46,T cell enriched
+CD8+ T cells,707,1192,T cell enriched
+CD8+ T cells,752,437,T cell enriched
+CD8+ T cells,747,456,T cell enriched
+CD8+ T cells,747,539,T cell enriched
+CD8+ T cells,780,17,T cell enriched
+CD8+ T cells,756,421,Follicle
+CD8+ T cells,775,83,T cell enriched
+CD8+ T cells,739,1136,T cell enriched
+CD8+ T cells,756,598,T cell enriched
+CD8+ T cells,781,206,T cell enriched
+CD8+ T cells,778,301,T cell enriched
+CD8+ T cells,780,326,Follicle
+CD8+ T cells,784,106,T cell enriched
+CD8+ T cells,753,754,Tumor boundary
+CD8+ T cells,785,30,T cell enriched
+CD8+ T cells,748,969,T cell enriched
+CD8+ T cells,762,939,T cell enriched
+CD8+ T cells,774,526,T cell enriched
+CD8+ T cells,794,199,T cell enriched
+CD8+ T cells,770,773,Macrophage enriched
+CD8+ T cells,804,47,T cell enriched
+CD8+ T cells,815,61,T cell enriched
+CD8+ T cells,817,42,T cell enriched
+CD8+ T cells,798,752,Macrophage enriched
+CD8+ T cells,782,1127,T cell enriched
+CD8+ T cells,813,558,T cell enriched
+CD8+ T cells,792,951,Macrophage enriched
+CD8+ T cells,800,770,T cell enriched
+CD8+ T cells,831,147,T cell enriched
+CD8+ T cells,816,737,T cell enriched
+CD8+ T cells,845,138,T cell enriched
+CD8+ T cells,819,594,T cell enriched
+CD8+ T cells,818,669,T cell enriched
+CD8+ T cells,840,375,T cell enriched
+CD8+ T cells,817,1126,T cell enriched
+CD8+ T cells,833,821,T cell enriched
+CD8+ T cells,836,887,Macrophage enriched
+CD8+ T cells,817,1246,T cell enriched
+CD8+ T cells,866,172,T cell enriched
+CD8+ T cells,849,549,T cell enriched
+CD8+ T cells,821,1187,Granulocyte enriched
+CD8+ T cells,827,976,Macrophage enriched
+CD8+ T cells,833,1267,T cell enriched
+CD8+ T cells,850,780,T cell enriched
+CD8+ T cells,850,802,T cell enriched
+CD8+ T cells,882,204,Tumor boundary
+CD8+ T cells,834,1305,T cell enriched
+CD8+ T cells,850,896,Macrophage enriched
+CD8+ T cells,891,143,T cell enriched
+CD8+ T cells,842,1301,T cell enriched
+CD8+ T cells,866,1356,T cell enriched
+CD8+ T cells,898,721,Granulocyte enriched
+CD8+ T cells,903,537,Tumor boundary
+CD8+ T cells,915,871,T cell enriched
+CD8+ T cells,936,860,T cell enriched
+CD8+ T cells,921,820,T cell enriched
+CD8+ T cells,906,1237,T cell enriched
+CD8+ T cells,935,872,T cell enriched
+CD8+ T cells,936,1302,T cell enriched
+CD8+ T cells,981,39,T cell enriched
+CD8+ T cells,982,215,Follicle
+CD8+ T cells,965,658,Granulocyte enriched
+CD8+ T cells,977,332,Follicle
+CD8+ T cells,973,578,Tumor boundary
+CD8+ T cells,1007,39,T cell enriched
+CD8+ T cells,978,487,Follicle
+CD8+ T cells,1007,109,Macrophage enriched
+CD8+ T cells,939,1210,T cell enriched
+CD8+ T cells,980,618,T cell enriched
+CD8+ T cells,963,1139,T cell enriched
+CD8+ T cells,1005,303,T cell enriched
+CD8+ T cells,965,1314,T cell enriched
+CD8+ T cells,942,1396,T cell enriched
+CD8+ T cells,965,1426,T cell enriched
+CD8+ T cells,980,889,T cell enriched
+CD8+ T cells,991,1126,T cell enriched
+CD8+ T cells,1000,910,Tumor boundary
+CD8+ T cells,987,870,T cell enriched
+CD8+ T cells,986,1258,Macrophage enriched
+CD8+ T cells,1031,19,T cell enriched
+CD8+ T cells,1002,1170,T cell enriched
+CD8+ T cells,1032,285,Macrophage enriched
+CD8+ T cells,1006,1284,T cell enriched
+CD8+ T cells,1063,105,Macrophage enriched
+CD8+ T cells,1067,158,Macrophage enriched
+CD8+ T cells,1070,365,Follicle
+CD8+ T cells,1024,1123,T cell enriched
+CD8+ T cells,1044,552,T cell enriched
+CD8+ T cells,1067,409,Follicle
+CD8+ T cells,1055,570,T cell enriched
+CD8+ T cells,1065,613,T cell enriched
+CD8+ T cells,1079,158,Macrophage enriched
+CD8+ T cells,1074,608,T cell enriched
+CD8+ T cells,1016,1298,T cell enriched
+CD8+ T cells,1043,1253,Macrophage enriched
+CD8+ T cells,1076,563,T cell enriched
+CD8+ T cells,1045,1235,Macrophage enriched
+CD8+ T cells,1078,572,T cell enriched
+CD8+ T cells,1109,56,T cell enriched
+CD8+ T cells,1051,1258,T cell enriched
+CD8+ T cells,1069,1258,T cell enriched
+CD8+ T cells,1040,1080,Follicle
+CD8+ T cells,1094,351,T cell enriched
+CD8+ T cells,1067,1358,T cell enriched
+CD8+ T cells,1079,1003,Follicle
+CD8+ T cells,1107,725,T cell enriched
+CD8+ T cells,1116,540,T cell enriched
+CD8+ T cells,1131,111,T cell enriched
+CD8+ T cells,1122,221,Macrophage enriched
+CD8+ T cells,1103,542,T cell enriched
+CD8+ T cells,1106,634,T cell enriched
+CD8+ T cells,1135,504,T cell enriched
+CD8+ T cells,1126,1127,T cell enriched
+CD8+ T cells,1099,1421,T cell enriched
+CD8+ T cells,1133,914,T cell enriched
+CD8+ T cells,1114,1281,Macrophage enriched
+CD8+ T cells,1140,1075,Macrophage enriched
+CD8+ T cells,1146,820,T cell enriched
+CD8+ T cells,1156,482,T cell enriched
+CD8+ T cells,1159,269,Macrophage enriched
+CD8+ T cells,1189,80,T cell enriched
+CD8+ T cells,1160,442,T cell enriched
+CD8+ T cells,1187,345,T cell enriched
+CD8+ T cells,1146,1431,T cell enriched
+CD8+ T cells,1156,1133,T cell enriched
+CD8+ T cells,1159,969,T cell enriched
+CD8+ T cells,1197,507,T cell enriched
+CD8+ T cells,1157,923,T cell enriched
+CD8+ T cells,1152,1236,T cell enriched
+CD8+ T cells,1184,1207,T cell enriched
+CD8+ T cells,1189,995,Macrophage enriched
+CD8+ T cells,1214,164,Macrophage enriched
+CD8+ T cells,1204,490,T cell enriched
+CD8+ T cells,1215,559,T cell enriched
+CD8+ T cells,1238,222,Macrophage enriched
+CD8+ T cells,1222,334,T cell enriched
+CD8+ T cells,1239,232,Macrophage enriched
+CD8+ T cells,1219,662,T cell enriched
+CD8+ T cells,1228,573,T cell enriched
+CD8+ T cells,1258,173,Macrophage enriched
+CD8+ T cells,1236,545,T cell enriched
+CD8+ T cells,1228,653,T cell enriched
+CD8+ T cells,1228,848,T cell enriched
+CD8+ T cells,1220,710,T cell enriched
+CD8+ T cells,1233,669,T cell enriched
+CD8+ T cells,1254,627,T cell enriched
+CD8+ T cells,1240,836,T cell enriched
+CD8+ T cells,1239,715,T cell enriched
+CD8+ T cells,1272,141,T cell enriched
+CD8+ T cells,1240,928,T cell enriched
+CD8+ T cells,1242,695,T cell enriched
+CD8+ T cells,1210,1439,T cell enriched
+CD8+ T cells,1264,378,T cell enriched
+CD8+ T cells,1232,1002,T cell enriched
+CD8+ T cells,1242,775,Granulocyte enriched
+CD8+ T cells,1249,1171,Macrophage enriched
+CD8+ T cells,1220,1240,T cell enriched
+CD8+ T cells,1250,1123,T cell enriched
+CD8+ T cells,1267,727,Granulocyte enriched
+CD8+ T cells,1276,322,Macrophage enriched
+CD8+ T cells,1270,449,T cell enriched
+CD8+ T cells,1261,1045,T cell enriched
+CD8+ T cells,1282,174,T cell enriched
+CD8+ T cells,1268,606,T cell enriched
+CD8+ T cells,1295,170,T cell enriched
+CD8+ T cells,1256,1022,T cell enriched
+CD8+ T cells,1259,1209,Macrophage enriched
+CD8+ T cells,1304,470,Macrophage enriched
+CD8+ T cells,1273,960,T cell enriched
+CD8+ T cells,1320,119,T cell enriched
+CD8+ T cells,1297,678,Granulocyte enriched
+CD8+ T cells,1269,1231,Macrophage enriched
+CD8+ T cells,1279,1028,T cell enriched
+CD8+ T cells,1301,853,T cell enriched
+CD8+ T cells,1306,772,T cell enriched
+CD8+ T cells,1289,815,T cell enriched
+CD8+ T cells,1321,375,T cell enriched
+CD8+ T cells,1287,851,T cell enriched
+CD8+ T cells,1316,601,T cell enriched
+CD8+ T cells,1310,689,T cell enriched
+CD8+ T cells,1275,1146,T cell enriched
+CD8+ T cells,1322,623,T cell enriched
+CD8+ T cells,1296,918,T cell enriched
+CD8+ T cells,1341,25,T cell enriched
+CD8+ T cells,1319,760,T cell enriched
+CD8+ T cells,1319,878,T cell enriched
+CD8+ T cells,1367,113,T cell enriched
+CD8+ T cells,1323,1105,T cell enriched
+CD8+ T cells,1328,1038,T cell enriched
+CD8+ T cells,1358,189,T cell enriched
+CD8+ T cells,1333,771,T cell enriched
+CD8+ T cells,1364,398,Macrophage enriched
+CD8+ T cells,1373,103,T cell enriched
+CD8+ T cells,1330,1116,T cell enriched
+CD8+ T cells,1334,943,T cell enriched
+CD8+ T cells,1385,35,T cell enriched
+CD8+ T cells,1340,989,T cell enriched
+CD8+ T cells,1366,769,Macrophage enriched
+CD8+ T cells,1353,910,Macrophage enriched
+CD8+ T cells,1359,857,T cell enriched
+CD8+ T cells,1371,810,T cell enriched
+CD8+ T cells,1400,85,T cell enriched
+CD8+ T cells,1410,75,T cell enriched
+CD8+ T cells,1391,830,T cell enriched
+CD8+ T cells,1403,448,Macrophage enriched
+CD8+ T cells,1416,388,T cell enriched
+CD8+ T cells,1432,361,T cell enriched
+CD8+ T cells,1414,747,Macrophage enriched
+CD8+ T cells,1435,449,T cell enriched
+CD8+ T cells,1435,646,T cell enriched
+CD8+ T cells,1460,120,T cell enriched
+CD8+ T cells,1437,1037,T cell enriched
+CD8+ T cells,1437,1209,Macrophage enriched
+CD8+ T cells,1484,34,Immune-infiltrated stroma
+CD8+ T cells,1493,14,T cell enriched
+CD8+ T cells,1472,291,Macrophage enriched
+CD8+ T cells,1466,601,T cell enriched
+CD8+ T cells,1481,401,T cell enriched
+CD8+ T cells,1451,1041,Macrophage enriched
+CD8+ T cells,1506,364,T cell enriched
+CD8+ T cells,1468,1020,Macrophage enriched
+CD8+ T cells,1493,876,Tumor boundary
+CD8+ T cells,1489,926,T cell enriched
+CD8+ T cells,1501,1047,Macrophage enriched
+CD8+ T cells,1486,955,T cell enriched
+CD8+ T cells,1557,66,T cell enriched
+CD8+ T cells,1529,378,T cell enriched
+CD8+ T cells,1539,425,T cell enriched
+CD8+ T cells,1553,542,T cell enriched
+CD8+ T cells,1516,1424,Tumor boundary
+CD8+ T cells,1542,600,T cell enriched
+CD8+ T cells,1550,573,T cell enriched
+CD8+ T cells,1550,788,Tumor boundary
+CD8+ T cells,1565,585,T cell enriched
+CD8+ T cells,1568,398,T cell enriched
+CD8+ T cells,1550,1040,Macrophage enriched
+CD8+ T cells,1594,42,T cell enriched
+CD8+ T cells,1556,1237,Immune-infiltrated stroma
+CD8+ T cells,1613,151,T cell enriched
+CD8+ T cells,1591,726,Macrophage enriched
+CD8+ T cells,1609,468,Macrophage enriched
+CD8+ T cells,1620,493,Immune-infiltrated stroma
+CD8+ T cells,1585,1380,Tumor boundary
+CD8+ T cells,1637,315,T cell enriched
+CD8+ T cells,1606,1211,Macrophage enriched
+CD8+ T cells,1638,679,Macrophage enriched
+CD8+ T cells,1640,570,Macrophage enriched
+CD8+ T cells,1623,868,Vascularized smooth muscle
+CD8+ T cells,1666,511,T cell enriched
+CD8+ T cells,1660,796,Macrophage enriched
+CD8+ T cells,1664,837,Vascularized smooth muscle
+CD8+ T cells,1661,1017,Vascularized smooth muscle
+CD8+ T cells,1678,979,T cell enriched
+CD8+ T cells,1684,926,Vascularized smooth muscle
+CD8+ T cells,1683,727,Macrophage enriched
+CD8+ T cells,1694,771,Macrophage enriched
+CD8+ T cells,1724,379,T cell enriched
+CD8+ T cells,1711,962,Vascularized smooth muscle
+CD8+ T cells,1743,428,T cell enriched
+CD8+ T cells,1737,523,Macrophage enriched
+CD8+ T cells,1744,1121,Tumor boundary
+CD8+ T cells,1768,792,Macrophage enriched
+CD8+ T cells,1776,628,Macrophage enriched
+CD8+ T cells,1789,991,T cell enriched
+CD8+ T cells,1782,1099,Tumor boundary
+CD8+ T cells,1826,526,Macrophage enriched
+CD8+ T cells,1789,1231,Tumor boundary
+CD8+ T cells,1807,1062,Tumor boundary
+CD8+ T cells,1822,666,Macrophage enriched
+CD8+ T cells,1849,449,Macrophage enriched
+CD8+ T cells,1830,1013,T cell enriched
+CD8+ T cells,1836,874,Tumor boundary
+CD8+ T cells,1852,644,Macrophage enriched
+CD8+ T cells,1866,538,Macrophage enriched
+CD8+ T cells,1883,745,Macrophage enriched
+CD8+ T cells,1913,921,Macrophage enriched
+dirt,40,668,Granulocyte enriched
+dirt,101,666,Macrophage enriched
+dirt,79,840,Macrophage enriched
+dirt,100,914,Macrophage enriched
+dirt,316,961,T cell enriched
+dirt,379,106,T cell enriched
+dirt,342,1246,Macrophage enriched
+dirt,406,134,T cell enriched
+dirt,416,1364,T cell enriched
+dirt,441,1379,Vascularized smooth muscle
+dirt,606,793,Tumor boundary
+dirt,628,790,Immune-infiltrated stroma
+dirt,1112,389,Macrophage enriched
+dirt,1254,460,T cell enriched
+dirt,1319,184,T cell enriched
+dirt,1347,682,Tumor boundary
+dirt,1434,12,T cell enriched
+dirt,1502,825,Immune-infiltrated stroma
+dirt,1531,223,Macrophage enriched
+dirt,1568,855,Vascularized smooth muscle
+dirt,1591,1012,Macrophage enriched
+dirt,1779,1252,Vascularized smooth muscle
+Tregs,133,521,Macrophage enriched
+Tregs,116,955,Macrophage enriched
+Tregs,259,468,Vascularized smooth muscle
+Tregs,293,993,T cell enriched
+Tregs,348,156,Macrophage enriched
+Tregs,322,1175,T cell enriched
+Tregs,429,680,T cell enriched
+Tregs,461,320,T cell enriched
+Tregs,492,193,T cell enriched
+Tregs,500,604,T cell enriched
+Tregs,528,533,T cell enriched
+Tregs,507,1290,T cell enriched
+Tregs,847,415,T cell enriched
+Tregs,855,391,T cell enriched
+Tregs,862,885,T cell enriched
+Tregs,940,550,T cell enriched
+Tregs,923,1422,T cell enriched
+Tregs,921,1344,T cell enriched
+Tregs,986,416,Follicle
+Tregs,1009,1314,T cell enriched
+Tregs,1021,1408,T cell enriched
+Tregs,1066,560,T cell enriched
+Tregs,1178,316,T cell enriched
+Tregs,1172,495,T cell enriched
+Tregs,1200,593,Follicle
+Tregs,1203,519,T cell enriched
+Tregs,1241,908,T cell enriched
+Tregs,1244,941,T cell enriched
+Tregs,1303,519,Macrophage enriched
+Tregs,1331,1151,Macrophage enriched
+Tregs,1381,717,Macrophage enriched
+Tregs,1410,698,Macrophage enriched
+Tregs,1461,556,Macrophage enriched
+Tregs,1533,1350,Immune-infiltrated stroma
+Tregs,1635,1050,Macrophage enriched
+Tregs,1666,496,Tumor boundary
+Tregs,1703,658,Macrophage enriched
+CD4+ T cells,181,1068,Macrophage enriched
+CD4+ T cells,207,988,Macrophage enriched
+CD4+ T cells,221,1004,Macrophage enriched
+CD4+ T cells,242,752,T cell enriched
+CD4+ T cells,242,898,T cell enriched
+CD4+ T cells,252,929,T cell enriched
+CD4+ T cells,357,138,Macrophage enriched
+CD4+ T cells,368,655,T cell enriched
+CD4+ T cells,441,102,Macrophage enriched
+CD4+ T cells,444,428,T cell enriched
+CD4+ T cells,497,14,T cell enriched
+CD4+ T cells,489,125,Macrophage enriched
+CD4+ T cells,505,38,T cell enriched
+CD4+ T cells,480,834,T cell enriched
+CD4+ T cells,571,294,T cell enriched
+CD4+ T cells,708,685,T cell enriched
+CD4+ T cells,731,291,T cell enriched
+CD4+ T cells,726,549,T cell enriched
+CD4+ T cells,807,312,T cell enriched
+CD4+ T cells,896,63,T cell enriched
+CD4+ T cells,936,845,T cell enriched
+CD4+ T cells,951,598,T cell enriched
+CD4+ T cells,976,653,Granulocyte enriched
+CD4+ T cells,1057,459,Follicle
+CD4+ T cells,1029,1387,T cell enriched
+CD4+ T cells,1127,618,Follicle
+CD4+ T cells,1091,1265,T cell enriched
+CD4+ T cells,1115,925,T cell enriched
+CD4+ T cells,1113,857,T cell enriched
+CD4+ T cells,1144,668,T cell enriched
+CD4+ T cells,1138,876,T cell enriched
+CD4+ T cells,1150,843,T cell enriched
+CD4+ T cells,1164,867,T cell enriched
+CD4+ T cells,1196,897,T cell enriched
+CD4+ T cells,1202,856,T cell enriched
+CD4+ T cells,1176,1382,T cell enriched
+CD4+ T cells,1207,705,T cell enriched
+CD4+ T cells,1165,1235,T cell enriched
+CD4+ T cells,1208,1118,T cell enriched
+CD4+ T cells,1237,785,Granulocyte enriched
+CD4+ T cells,1235,739,T cell enriched
+CD4+ T cells,1253,782,Granulocyte enriched
+CD4+ T cells,1271,142,T cell enriched
+CD4+ T cells,1220,1117,T cell enriched
+CD4+ T cells,1265,828,T cell enriched
+CD4+ T cells,1302,813,T cell enriched
+CD4+ T cells,1339,1102,Macrophage enriched
+CD4+ T cells,1396,985,Tumor boundary
+CD4+ T cells,1533,399,T cell enriched
+CD11c+ DCs,1240,414,T cell enriched
+B cells,159,965,Granulocyte enriched
+B cells,213,184,T cell enriched
+B cells,192,1008,Macrophage enriched
+B cells,199,990,Macrophage enriched
+B cells,226,550,T cell enriched
+B cells,226,879,T cell enriched
+B cells,254,534,T cell enriched
+B cells,260,730,T cell enriched
+B cells,283,731,T cell enriched
+B cells,283,748,Granulocyte enriched
+B cells,292,647,T cell enriched
+B cells,297,956,T cell enriched
+B cells,324,1029,T cell enriched
+B cells,331,785,T cell enriched
+B cells,403,177,T cell enriched
+B cells,414,82,T cell enriched
+B cells,403,526,Macrophage enriched
+B cells,413,435,T cell enriched
+B cells,404,927,T cell enriched
+B cells,427,788,T cell enriched
+B cells,457,120,T cell enriched
+B cells,430,1117,Macrophage enriched
+B cells,463,1106,T cell enriched
+B cells,529,177,T cell enriched
+B cells,540,509,T cell enriched
+B cells,555,260,T cell enriched
+B cells,581,46,T cell enriched
+B cells,598,12,T cell enriched
+B cells,579,297,T cell enriched
+B cells,635,277,Granulocyte enriched
+B cells,635,500,T cell enriched
+B cells,650,346,Macrophage enriched
+B cells,677,376,Follicle
+B cells,685,284,T cell enriched
+B cells,684,349,Follicle
+B cells,695,303,Follicle
+B cells,702,318,Follicle
+B cells,705,355,Follicle
+B cells,703,507,T cell enriched
+B cells,736,116,T cell enriched
+B cells,718,600,T cell enriched
+B cells,733,362,Follicle
+B cells,729,381,Follicle
+B cells,734,309,Follicle
+B cells,730,348,Follicle
+B cells,741,140,T cell enriched
+B cells,745,415,Follicle
+B cells,757,326,Follicle
+B cells,754,373,Follicle
+B cells,756,411,Follicle
+B cells,766,209,T cell enriched
+B cells,766,336,Follicle
+B cells,774,358,Follicle
+B cells,773,390,Follicle
+B cells,795,264,T cell enriched
+B cells,795,329,Follicle
+B cells,790,454,Follicle
+B cells,786,345,Follicle
+B cells,785,383,Follicle
+B cells,788,403,Follicle
+B cells,798,445,Follicle
+B cells,808,182,T cell enriched
+B cells,785,601,T cell enriched
+B cells,793,853,Macrophage enriched
+B cells,798,1044,T cell enriched
+B cells,814,378,Follicle
+B cells,799,1147,T cell enriched
+B cells,826,434,Follicle
+B cells,814,444,Follicle
+B cells,821,406,Follicle
+B cells,819,532,T cell enriched
+B cells,823,477,Follicle
+B cells,823,495,Follicle
+B cells,841,499,Follicle
+B cells,843,117,T cell enriched
+B cells,835,401,Follicle
+B cells,846,307,T cell enriched
+B cells,847,244,Tumor boundary
+B cells,868,13,T cell enriched
+B cells,857,239,Tumor boundary
+B cells,877,252,Tumor boundary
+B cells,855,768,T cell enriched
+B cells,869,506,Follicle
+B cells,878,524,Follicle
+B cells,902,29,T cell enriched
+B cells,898,390,T cell enriched
+B cells,872,917,T cell enriched
+B cells,902,521,Follicle
+B cells,903,297,Tumor boundary
+B cells,907,276,Tumor boundary
+B cells,888,1027,T cell enriched
+B cells,884,1241,Macrophage enriched
+B cells,910,418,T cell enriched
+B cells,920,483,Follicle
+B cells,921,534,Follicle
+B cells,936,383,Follicle
+B cells,941,522,Follicle
+B cells,943,502,Follicle
+B cells,951,253,Follicle
+B cells,955,211,Follicle
+B cells,955,239,Tumor boundary
+B cells,945,473,Follicle
+B cells,923,1131,T cell enriched
+B cells,958,290,Follicle
+B cells,933,884,T cell enriched
+B cells,944,876,T cell enriched
+B cells,961,515,Follicle
+B cells,962,383,Follicle
+B cells,963,473,Follicle
+B cells,956,838,T cell enriched
+B cells,977,348,Follicle
+B cells,983,304,Follicle
+B cells,979,256,Follicle
+B cells,997,267,Follicle
+B cells,989,465,Follicle
+B cells,996,386,Follicle
+B cells,999,340,Follicle
+B cells,993,431,Follicle
+B cells,1005,498,Follicle
+B cells,996,531,Follicle
+B cells,1002,863,T cell enriched
+B cells,1013,428,Follicle
+B cells,1022,347,Follicle
+B cells,1023,450,Follicle
+B cells,1025,502,Follicle
+B cells,1033,508,Follicle
+B cells,1035,420,Follicle
+B cells,1039,462,Follicle
+B cells,1054,370,Follicle
+B cells,1050,416,Follicle
+B cells,1067,398,Follicle
+B cells,1031,1059,Follicle
+B cells,1010,1386,T cell enriched
+B cells,1048,1017,Follicle
+B cells,1060,506,Follicle
+B cells,1048,1207,Macrophage enriched
+B cells,1047,1063,Follicle
+B cells,1054,980,T cell enriched
+B cells,1081,330,Immune-infiltrated stroma
+B cells,1082,494,Follicle
+B cells,1075,473,Follicle
+B cells,1088,378,Follicle
+B cells,1034,1373,T cell enriched
+B cells,1085,510,Follicle
+B cells,1096,460,Follicle
+B cells,1089,604,Follicle
+B cells,1102,573,Follicle
+B cells,1104,386,Follicle
+B cells,1121,404,Macrophage enriched
+B cells,1083,1051,Follicle
+B cells,1132,381,Follicle
+B cells,1125,491,Follicle
+B cells,1114,586,Follicle
+B cells,1120,516,T cell enriched
+B cells,1086,1355,T cell enriched
+B cells,1102,960,T cell enriched
+B cells,1090,1078,T cell enriched
+B cells,1111,950,T cell enriched
+B cells,1120,605,Follicle
+B cells,1099,1007,T cell enriched
+B cells,1111,1168,T cell enriched
+B cells,1148,349,Macrophage enriched
+B cells,1110,1227,Macrophage enriched
+B cells,1119,1428,T cell enriched
+B cells,1162,602,T cell enriched
+B cells,1157,554,T cell enriched
+B cells,1182,582,Follicle
+B cells,1159,541,T cell enriched
+B cells,1181,461,T cell enriched
+B cells,1182,610,Follicle
+B cells,1182,867,T cell enriched
+B cells,1147,1269,Macrophage enriched
+B cells,1187,671,T cell enriched
+B cells,1198,574,T cell enriched
+B cells,1188,638,Follicle
+B cells,1213,103,T cell enriched
+B cells,1175,996,Macrophage enriched
+B cells,1160,1098,T cell enriched
+B cells,1205,604,Follicle
+B cells,1221,72,T cell enriched
+B cells,1160,1255,Macrophage enriched
+B cells,1212,687,T cell enriched
+B cells,1206,1133,T cell enriched
+B cells,1208,1096,T cell enriched
+B cells,1251,592,T cell enriched
+B cells,1250,824,T cell enriched
+B cells,1265,646,T cell enriched
+B cells,1268,637,T cell enriched
+B cells,1274,879,T cell enriched
+B cells,1255,1235,T cell enriched
+B cells,1268,860,T cell enriched
+B cells,1313,458,Macrophage enriched
+B cells,1290,642,T cell enriched
+B cells,1315,707,Granulocyte enriched
+B cells,1318,517,Macrophage enriched
+B cells,1275,1098,T cell enriched
+B cells,1286,1226,T cell enriched
+B cells,1319,795,T cell enriched
+B cells,1367,137,T cell enriched
+B cells,1324,1223,Macrophage enriched
+B cells,1355,948,Macrophage enriched
+B cells,1381,977,Follicle
+B cells,1394,562,Granulocyte enriched
+B cells,1387,1023,Immune-infiltrated stroma
+B cells,1390,860,T cell enriched
+B cells,1420,586,Immune-infiltrated stroma
+B cells,1398,1011,T cell enriched
+B cells,1410,988,Follicle
+B cells,1414,882,T cell enriched
+B cells,1440,598,Macrophage enriched
+B cells,1440,1001,T cell enriched
+B cells,1620,718,Macrophage enriched
+smooth muscle,44,562,Macrophage enriched
+smooth muscle,66,497,T cell enriched
+smooth muscle,108,488,Vascularized smooth muscle
+smooth muscle,83,767,Macrophage enriched
+smooth muscle,91,738,Macrophage enriched
+smooth muscle,127,464,Vascularized smooth muscle
+smooth muscle,145,471,Vascularized smooth muscle
+smooth muscle,132,1000,Vascularized smooth muscle
+smooth muscle,176,223,T cell enriched
+smooth muscle,192,104,T cell enriched
+smooth muscle,146,1016,Vascularized smooth muscle
+smooth muscle,202,76,T cell enriched
+smooth muscle,203,471,Vascularized smooth muscle
+smooth muscle,224,440,Smooth muscle
+smooth muscle,219,475,Vascularized smooth muscle
+smooth muscle,230,463,Vascularized smooth muscle
+smooth muscle,244,435,Smooth muscle
+smooth muscle,254,244,Vascularized smooth muscle
+smooth muscle,264,427,Smooth muscle
+smooth muscle,271,400,Smooth muscle
+smooth muscle,290,320,Vascularized smooth muscle
+smooth muscle,289,386,Smooth muscle
+smooth muscle,300,278,Vascularized smooth muscle
+smooth muscle,313,272,Smooth muscle
+smooth muscle,319,307,Smooth muscle
+smooth muscle,319,427,Vascularized smooth muscle
+smooth muscle,326,404,Vascularized smooth muscle
+smooth muscle,342,312,Smooth muscle
+smooth muscle,347,364,Smooth muscle
+smooth muscle,360,239,Smooth muscle
+smooth muscle,365,230,Vascularized smooth muscle
+smooth muscle,338,827,T cell enriched
+smooth muscle,367,300,Smooth muscle
+smooth muscle,363,342,Smooth muscle
+smooth muscle,361,1056,Macrophage enriched
+smooth muscle,388,252,Vascularized smooth muscle
+smooth muscle,385,339,Vascularized smooth muscle
+smooth muscle,402,270,Vascularized smooth muscle
+smooth muscle,444,1250,Macrophage enriched
+smooth muscle,473,778,T cell enriched
+smooth muscle,511,734,Vascularized smooth muscle
+smooth muscle,515,1174,T cell enriched
+smooth muscle,497,1412,Vascularized smooth muscle
+smooth muscle,539,730,Macrophage enriched
+smooth muscle,496,1435,Vascularized smooth muscle
+smooth muscle,542,1421,Vascularized smooth muscle
+smooth muscle,553,1362,Vascularized smooth muscle
+smooth muscle,612,727,Tumor boundary
+smooth muscle,568,1352,Vascularized smooth muscle
+smooth muscle,634,1343,Vascularized smooth muscle
+smooth muscle,654,1310,Vascularized smooth muscle
+smooth muscle,707,160,T cell enriched
+smooth muscle,697,1312,Smooth muscle
+smooth muscle,728,1314,Smooth muscle
+smooth muscle,744,1337,Smooth muscle
+smooth muscle,740,1364,Smooth muscle
+smooth muscle,746,1429,Smooth muscle
+smooth muscle,751,1377,Smooth muscle
+smooth muscle,769,1409,Smooth muscle
+smooth muscle,760,1358,Smooth muscle
+smooth muscle,803,1425,Smooth muscle
+smooth muscle,788,1423,Smooth muscle
+smooth muscle,819,1404,Smooth muscle
+smooth muscle,1018,775,T cell enriched
+smooth muscle,1122,835,T cell enriched
+smooth muscle,1250,349,T cell enriched
+smooth muscle,1216,744,T cell enriched
+smooth muscle,1548,913,Immune-infiltrated stroma
+smooth muscle,1560,801,Tumor boundary
+smooth muscle,1564,824,Tumor boundary
+smooth muscle,1564,989,Immune-infiltrated stroma
+smooth muscle,1575,807,Tumor boundary
+smooth muscle,1589,1424,T cell enriched
+smooth muscle,1634,812,Tumor boundary
+smooth muscle,1638,906,Immune-infiltrated stroma
+smooth muscle,1649,877,Vascularized smooth muscle
+smooth muscle,1693,614,Macrophage enriched
+smooth muscle,1674,1176,Macrophage enriched
+smooth muscle,1706,970,Vascularized smooth muscle
+smooth muscle,1730,833,Macrophage enriched
+smooth muscle,1716,1029,Vascularized smooth muscle
+smooth muscle,1761,882,Tumor boundary
+smooth muscle,1752,978,Vascularized smooth muscle
+smooth muscle,1743,1220,Vascularized smooth muscle
+smooth muscle,1775,924,Tumor boundary
+smooth muscle,1777,1327,Vascularized smooth muscle
+smooth muscle,1910,38,Immune-infiltrated stroma
+smooth muscle,1919,48,Immune-infiltrated stroma
+smooth muscle,1919,826,Macrophage enriched
+undefined,352,1284,Macrophage enriched
+undefined,565,412,T cell enriched
+undefined,583,182,T cell enriched
+undefined,1066,1186,T cell enriched
+undefined,1309,754,T cell enriched
+undefined,1508,517,T cell enriched
+undefined,1581,29,T cell enriched
+undefined,1742,601,Macrophage enriched
+undefined,1810,441,Macrophage enriched
+undefined,1783,941,Tumor boundary
+undefined,1819,950,Tumor boundary
+tumor cells / immune cells,1167,570,Follicle
+tumor cells / immune cells,1219,725,T cell enriched
+immune cells / vasculature,62,390,Vascularized smooth muscle
+immune cells / vasculature,159,546,T cell enriched
+immune cells / vasculature,194,1122,Macrophage enriched
+immune cells / vasculature,276,16,T cell enriched
+immune cells / vasculature,266,1232,T cell enriched
+immune cells / vasculature,351,1089,Macrophage enriched
+immune cells / vasculature,530,559,T cell enriched
+immune cells / vasculature,629,915,T cell enriched
+immune cells / vasculature,803,348,Follicle
+immune cells / vasculature,1180,1132,Macrophage enriched
+immune cells / vasculature,1277,14,T cell enriched
+immune cells / vasculature,1567,337,T cell enriched
+immune cells,559,62,T cell enriched
+immune cells,579,24,T cell enriched
+immune cells,1290,353,Tumor boundary
+immune cells,1683,1045,Immune-infiltrated stroma
+immune cells,1775,576,Macrophage enriched
+NK cells,300,884,T cell enriched
+nerves,463,509,Macrophage enriched
+CD68+ macrophages,189,885,Macrophage enriched
+CD68+ macrophages,208,734,Macrophage enriched
+CD68+ macrophages,343,643,T cell enriched
+CD68+ macrophages,385,1319,T cell enriched
+CD68+ macrophages,437,1054,T cell enriched
+CD68+ macrophages,792,171,T cell enriched
+CD68+ macrophages,1183,434,T cell enriched
+CD68+ macrophages,1264,809,T cell enriched
+CD68+ macrophages,1376,296,Immune-infiltrated stroma
+CD68+ macrophages,1369,914,Macrophage enriched
+CD68+ macrophages,1499,595,T cell enriched
+CD68+ macrophages,1574,424,T cell enriched
+CD68+ macrophages,1707,936,Vascularized smooth muscle
+lymphatics,1120,880,T cell enriched
+lymphatics,1184,908,T cell enriched
+CD3+ T cells,1213,1023,T cell enriched
