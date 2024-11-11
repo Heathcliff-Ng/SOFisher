@@ -53,16 +53,16 @@ SOFisher a reinforcement learning-based framework that harnesses the knowledge g
 ├── visualize_cortex.ipynb    # results validation for cortex experiments
 ├── visualize_disease.ipynb   # results validation for disease experiments
 ├── visualize_CRC.ipynb       # results validation for CRC experiments
-├── requirements.txt          # environment setup
+├── environment.yml           # environment setup
 └── LICENSE
 ```
 
 ## Installation
 
-1. Create a conda environment:
+1. Create a conda environment with dependencies:
 
 ```bash
-conda create -n sofisher-env
+conda create -f environment.yml -n sofisher-env
 conda activate sofisher-env
 ```
 2. Clone the SOFisher repository to your local machine:
@@ -70,10 +70,7 @@ conda activate sofisher-env
 git clone https://github.com/Heathcliff-Ng/SOFisher.git
 cd SOFisher
 ```
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
+
 
 Install the `pysodb` for efficient download processed Anndata in h5ad format. (https://pysodb.readthedocs.io/en/latest/)
 
